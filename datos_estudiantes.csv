@@ -1,0 +1,1001 @@
+ID_Estudiante;Nombres;Apellidos;Carrera;Facultad;Edad;Genero;Promedio_Acumulado;Asistencia_Promedio;Modalidad_Estudio;Beca;Horas_Trabajo_Semanal;Apoyo_Familiar;Actividad_Extracurricular;Satisfaccion_Programa;Estado_Mental;Creditos_Inscritos;Ha_Desertado;Razon_Desercion;Riesgo_Desercion_2025;Probabilidad_Desercion_2025
+VS20241;María Valeria;Flores Pérez;Biología;Ciencias de la Salud;28;Femenino;4;78.08;Presencial;Ninguna;20;Medio;Arte;Media;Malo;21;No;No Aplica;Medio Riesgo;0.473804066
+VS20242;Laura Valeria;Torres Gómez;Administración de Empresas;Ciencias Económicas;29;Otro;3.06;85.9;Presencial;Ninguna;40;Bajo;Deporte;Media;Bueno;18;Sí;Problemas Familiares;Medio Riesgo;0.521895907
+AZ20243;Jorge Ana;Rodríguez Pérez;Enfermería;Ciencias de la Salud;30;Femenino;2.52;87.58;Presencial;Ninguna;0;Alto;Arte;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.386869074
+JZ20244;Diego Jorge;Pérez Torres;Medicina;Ciencias de la Salud;30;Masculino;2.41;83.2;Virtual;Completa;40;Medio;Voluntariado;Media;Malo;21;No;No Aplica;Medio Riesgo;0.49405184
+JZ20245;Ana Juan;Rodríguez Díaz;Medicina;Ciencias de la Salud;19;Masculino;2.11;91.41;Mixta;Ninguna;10;Bajo;Ninguna;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.461227699
+DZ20246;Sofía Diego;Pérez González;Comunicación Social;Humanidades;29;Masculino;4.01;94.51;Mixta;Beca académica;20;Bajo;Club Académico;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.470778116
+SS20247;Luis Sofía;Torres González;Administración de Empresas;Ciencias Económicas;18;Otro;3.43;78.24;Presencial;Beca deportiva;20;Alto;Ninguna;Media;Malo;18;Sí;Problemas Económicos;Medio Riesgo;0.524661189
+LZ20248;Lucía Lucía;González Flores;Contabilidad;Ciencias Económicas;27;Otro;3.59;71.52;Mixta;Parcial;40;Bajo;Deporte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.528034795
+LZ20249;Ana Luis;Rodríguez Gómez;Contabilidad;Ciencias Económicas;18;Femenino;2.58;56.75;Mixta;Parcial;0;Alto;Arte;Baja;Regular;12;Sí;Carga Académica;Medio Riesgo;0.547507004
+JZ202410;Lucía Jorge;Pérez Díaz;Economía;Ciencias Económicas;17;Otro;4.38;53.88;Virtual;Parcial;10;Alto;Ninguna;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.481705366
+VZ202411;Diego Valeria;Pérez Ramírez;Enfermería;Ciencias de la Salud;24;Femenino;3.35;53.7;Presencial;Completa;20;Bajo;Club Académico;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.539084605
+JZ202412;Diego Jorge;González Hernández;Economía;Ciencias Económicas;22;Otro;3.82;64.73;Presencial;Beca deportiva;40;Bajo;Ninguna;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.590304996
+JZ202413;Valeria Jorge;Pérez Flores;Medicina;Ciencias de la Salud;28;Masculino;3.68;85.89;Mixta;Ninguna;0;Alto;Voluntariado;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.461386758
+SZ202414;Lucía Sofía;Martínez Díaz;Administración de Empresas;Ciencias Económicas;24;Otro;4.61;50.55;Virtual;Beca académica;10;Alto;Deporte;Media;Bueno;18;Sí;Trabajo;Medio Riesgo;0.580786111
+DS202415;Laura Diego;Flores Torres;Ingeniería de Sistemas;Ingeniería;17;Masculino;2.02;74.65;Mixta;Parcial;20;Alto;Voluntariado;Baja;Malo;15;Sí;Problemas de Salud;Medio Riesgo;0.565730811
+MS202416;Laura María;Flores Pérez;Psicología;Humanidades;28;Otro;3.04;72.75;Presencial;Ninguna;30;Alto;Voluntariado;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.496637212
+DZ202417;Jorge Diego;Ramírez Rodríguez;Arquitectura;Artes y Diseño;30;Masculino;3.13;69.79;Mixta;Ninguna;30;Bajo;Deporte;Alta;Bueno;21;Sí;Falta de Motivación;Medio Riesgo;0.529343508
+JZ202418;María Jorge;Díaz González;Contabilidad;Ciencias Económicas;21;Otro;3.17;93.93;Presencial;Ninguna;10;Bajo;Arte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.496563828
+SZ202419;Pedro Sofía;Ramírez Martínez;Ingeniería Civil;Ingeniería;23;Masculino;4.99;76.41;Presencial;Ninguna;10;Alto;Deporte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.488834224
+VS202420;Valeria Valeria;Torres Rodríguez;Diseño Gráfico;Artes y Diseño;27;Femenino;3.43;75.47;Presencial;Ninguna;0;Medio;Voluntariado;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.430836108
+AS202421;Sofía Ana;Torres Pérez;Economía;Ciencias Económicas;26;Otro;2.64;87.8;Presencial;Beca deportiva;30;Bajo;Arte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.430391548
+LS202422;Luis Laura;Torres Díaz;Medicina;Ciencias de la Salud;24;Masculino;3.02;97.01;Mixta;Ninguna;40;Medio;Voluntariado;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.458194874
+CZ202423;María Carlos;Díaz Ramírez;Administración de Empresas;Ciencias Económicas;25;Femenino;4.8;69.21;Mixta;Ninguna;10;Bajo;Deporte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.454637535
+LZ202424;Jorge Laura;Díaz Pérez;Medicina;Ciencias de la Salud;17;Femenino;4.45;51.56;Virtual;Completa;30;Medio;Deporte;Media;Bueno;18;Sí;Problemas Económicos;Medio Riesgo;0.620585994
+PZ202425;Jorge Pedro;Pérez Gómez;Comunicación Social;Humanidades;19;Masculino;3.7;82.16;Virtual;Ninguna;40;Bajo;Deporte;Media;Malo;21;Sí;Carga Académica;Medio Riesgo;0.504448783
+LZ202426;Ana Laura;Ramírez Ramírez;Psicología;Humanidades;19;Otro;4.71;51.54;Mixta;Ninguna;40;Medio;Arte;Media;Malo;21;Sí;Problemas Económicos;Medio Riesgo;0.583321257
+LS202427;Lucía Laura;Torres Martínez;Ingeniería Civil;Ingeniería;24;Femenino;4.7;72.39;Mixta;Ninguna;0;Bajo;Deporte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.491299428
+PZ202428;Juan Pedro;Ramírez Pérez;Derecho;Ciencias Jurídicas;29;Masculino;2.05;87.23;Virtual;Ninguna;0;Medio;Club Académico;Media;Malo;18;No;No Aplica;Medio Riesgo;0.479574121
+VZ202429;Carlos Valeria;Ramírez Pérez;Administración de Empresas;Ciencias Económicas;25;Femenino;4.86;56.81;Virtual;Ninguna;0;Medio;Club Académico;Alta;Bueno;18;Sí;Trabajo;Medio Riesgo;0.515055109
+DZ202430;Valeria Diego;González Rodríguez;Diseño Gráfico;Artes y Diseño;20;Femenino;4.02;74.55;Presencial;Parcial;20;Alto;Ninguna;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.554860253
+LZ202431;María Luis;Pérez Gómez;Enfermería;Ciencias de la Salud;26;Masculino;3.84;77.58;Presencial;Completa;30;Bajo;Ninguna;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.514491783
+LS202432;Ana Lucía;Torres Martínez;Administración de Empresas;Ciencias Económicas;23;Femenino;4.07;92;Presencial;Ninguna;0;Bajo;Arte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.423045756
+VZ202433;Laura Valeria;Rodríguez Flores;Psicología;Humanidades;25;Otro;4.82;91.95;Mixta;Ninguna;30;Bajo;Club Académico;Baja;Regular;15;Sí;Problemas de Salud;Bajo Riesgo;0.373730054
+PZ202434;Valeria Pedro;Martínez Díaz;Comunicación Social;Humanidades;26;Femenino;3.11;74.34;Mixta;Completa;20;Alto;Club Académico;Media;Bueno;18;Sí;Problemas Familiares;Medio Riesgo;0.563507794
+JZ202435;Lucía Jorge;Díaz Ramírez;Biología;Ciencias de la Salud;29;Otro;3.34;81.04;Mixta;Ninguna;10;Alto;Arte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.435403716
+JZ202436;Ana Jorge;Díaz González;Arquitectura;Artes y Diseño;24;Masculino;4.1;77.99;Presencial;Ninguna;20;Bajo;Club Académico;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.466779458
+CZ202437;Sofía Carlos;Ramírez Martínez;Ingeniería de Sistemas;Ingeniería;29;Masculino;4;81.88;Presencial;Beca deportiva;40;Alto;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.426170676
+JZ202438;Diego Juan;Hernández Díaz;Ingeniería de Sistemas;Ingeniería;19;Otro;2.97;92.79;Mixta;Completa;40;Medio;Club Académico;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.516593621
+LZ202439;Pedro Luis;Díaz Ramírez;Contabilidad;Ciencias Económicas;29;Femenino;2.46;85.84;Virtual;Ninguna;20;Bajo;Voluntariado;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.522291516
+JS202440;Sofía Jorge;Torres Torres;Medicina;Ciencias de la Salud;30;Femenino;2.45;71.67;Virtual;Ninguna;10;Medio;Deporte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.45235995
+DZ202441;Jorge Diego;Gómez Hernández;Economía;Ciencias Económicas;19;Femenino;3.04;81.24;Presencial;Completa;0;Medio;Arte;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.524324048
+VZ202442;Juan Valeria;Martínez Díaz;Contabilidad;Ciencias Económicas;21;Femenino;2.42;59.43;Presencial;Ninguna;0;Medio;Club Académico;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.528343372
+DZ202443;Laura Diego;Pérez Pérez;Ingeniería de Sistemas;Ingeniería;30;Masculino;3.88;84.82;Virtual;Parcial;10;Bajo;Voluntariado;Baja;Bueno;18;Sí;Trabajo;Medio Riesgo;0.460456808
+AZ202444;Diego Ana;Ramírez González;Arquitectura;Artes y Diseño;21;Otro;4.36;52.86;Mixta;Completa;30;Alto;Deporte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.597182378
+SZ202445;Ana Sofía;Martínez Ramírez;Arquitectura;Artes y Diseño;17;Otro;2.97;94.05;Mixta;Ninguna;20;Medio;Arte;Baja;Malo;12;Sí;Carga Académica;Medio Riesgo;0.487892273
+JZ202446;Ana Jorge;Gómez Gómez;Enfermería;Ciencias de la Salud;22;Masculino;2.01;70.66;Mixta;Beca deportiva;20;Medio;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.543228471
+PZ202447;María Pedro;Rodríguez Flores;Derecho;Ciencias Jurídicas;29;Femenino;4.48;95.78;Mixta;Parcial;30;Alto;Club Académico;Baja;Malo;15;No;No Aplica;Bajo Riesgo;0.395937136
+CS202448;Sofía Carlos;Torres Díaz;Ingeniería Civil;Ingeniería;18;Femenino;4.63;99.17;Mixta;Parcial;0;Alto;Voluntariado;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.354381195
+JZ202449;Laura Juan;Gómez González;Derecho;Ciencias Jurídicas;21;Masculino;2.27;84.27;Presencial;Ninguna;20;Bajo;Ninguna;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.552859108
+VS202450;Lucía Valeria;Torres Díaz;Diseño Gráfico;Artes y Diseño;24;Femenino;2.12;94.93;Presencial;Ninguna;10;Bajo;Deporte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.405398646
+LZ202451;María Luis;Ramírez Gómez;Biología;Ciencias de la Salud;20;Otro;3.41;59.53;Presencial;Ninguna;20;Bajo;Club Académico;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.579337357
+VZ202452;Lucía Valeria;Gómez González;Economía;Ciencias Económicas;28;Otro;2.8;64.96;Mixta;Beca académica;40;Medio;Ninguna;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.52292876
+VZ202453;Ana Valeria;Pérez Hernández;Biología;Ciencias de la Salud;17;Masculino;3.56;68.65;Virtual;Completa;40;Alto;Deporte;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.516379611
+LZ202454;María Luis;Martínez Gómez;Contabilidad;Ciencias Económicas;24;Masculino;3.52;83.27;Presencial;Ninguna;30;Medio;Ninguna;Media;Regular;21;Sí;Carga Académica;Medio Riesgo;0.448328432
+DS202455;María Diego;Flores Ramírez;Comunicación Social;Humanidades;21;Masculino;3.46;83.99;Presencial;Parcial;30;Bajo;Club Académico;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.525970177
+LZ202456;Ana Luis;Díaz Rodríguez;Diseño Gráfico;Artes y Diseño;28;Otro;4.35;72.32;Mixta;Parcial;40;Medio;Deporte;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.478460829
+JZ202457;Jorge Juan;Ramírez González;Ingeniería de Sistemas;Ingeniería;19;Otro;3.36;99.92;Mixta;Ninguna;20;Bajo;Deporte;Alta;Regular;15;No;No Aplica;Bajo Riesgo;0.38998573
+PZ202458;Jorge Pedro;Martínez Flores;Psicología;Humanidades;24;Femenino;2.93;70.9;Presencial;Completa;30;Medio;Deporte;Baja;Bueno;15;Sí;Trabajo;Medio Riesgo;0.568012237
+MZ202459;Carlos María;Ramírez Flores;Ingeniería Civil;Ingeniería;22;Otro;3.38;91.38;Virtual;Parcial;20;Medio;Club Académico;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.511384861
+CZ202460;Ana Carlos;Hernández Hernández;Ingeniería Civil;Ingeniería;18;Otro;4.33;56.68;Mixta;Ninguna;10;Alto;Ninguna;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.486278151
+CZ202461;Sofía Carlos;Ramírez Díaz;Administración de Empresas;Ciencias Económicas;27;Otro;3.49;92.3;Virtual;Ninguna;40;Bajo;Ninguna;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.473337562
+SZ202462;Ana Sofía;Díaz Flores;Psicología;Humanidades;27;Masculino;2.22;58.04;Presencial;Parcial;0;Alto;Deporte;Media;Regular;15;Sí;Problemas de Salud;Medio Riesgo;0.528466805
+LZ202463;Valeria Lucía;Ramírez Torres;Derecho;Ciencias Jurídicas;20;Otro;3.7;98.49;Virtual;Ninguna;30;Bajo;Deporte;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.388441278
+CZ202464;Pedro Carlos;Rodríguez Hernández;Diseño Gráfico;Artes y Diseño;28;Femenino;4.07;75.07;Presencial;Ninguna;30;Alto;Voluntariado;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.487018498
+JZ202465;Luis Juan;Gómez Díaz;Comunicación Social;Humanidades;28;Masculino;2.19;56.24;Presencial;Parcial;20;Alto;Voluntariado;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.544821039
+LZ202466;Ana Lucía;Hernández González;Arquitectura;Artes y Diseño;22;Otro;2.62;71.03;Virtual;Completa;40;Bajo;Voluntariado;Baja;Regular;12;Sí;Carga Académica;Medio Riesgo;0.491839934
+MZ202467;Diego María;Martínez Torres;Ingeniería Civil;Ingeniería;25;Masculino;2.07;70.45;Virtual;Ninguna;10;Alto;Voluntariado;Alta;Malo;15;Sí;Problemas de Salud;Medio Riesgo;0.506869861
+JZ202468;Jorge Juan;Hernández Martínez;Biología;Ciencias de la Salud;28;Otro;4.02;73.2;Presencial;Parcial;30;Alto;Ninguna;Media;Regular;15;No;No Aplica;Medio Riesgo;0.444383835
+LZ202469;Luis Luis;Rodríguez González;Medicina;Ciencias de la Salud;26;Masculino;3.83;71.98;Virtual;Ninguna;10;Medio;Deporte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.517184474
+JZ202470;Ana Jorge;Martínez Rodríguez;Diseño Gráfico;Artes y Diseño;24;Femenino;2.7;90.23;Presencial;Parcial;40;Medio;Voluntariado;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.43566517
+LS202471;Laura Laura;Flores Rodríguez;Economía;Ciencias Económicas;22;Masculino;3.5;97.14;Virtual;Ninguna;0;Bajo;Arte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.481175285
+LZ202472;Jorge Laura;González Gómez;Contabilidad;Ciencias Económicas;27;Femenino;2.76;83.46;Virtual;Ninguna;30;Medio;Club Académico;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.535213448
+VZ202473;Luis Valeria;Díaz Pérez;Ingeniería de Sistemas;Ingeniería;21;Masculino;4.57;95.3;Virtual;Ninguna;40;Bajo;Club Académico;Baja;Regular;12;No;No Aplica;Bajo Riesgo;0.375254936
+LZ202474;Valeria Luis;Pérez Hernández;Economía;Ciencias Económicas;20;Otro;3.91;88.62;Presencial;Ninguna;30;Medio;Arte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.444456716
+LS202475;Ana Luis;Flores Torres;Diseño Gráfico;Artes y Diseño;20;Otro;3.81;71.96;Presencial;Ninguna;20;Medio;Voluntariado;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.553390617
+AS202476;Jorge Ana;Torres Díaz;Contabilidad;Ciencias Económicas;18;Otro;3.76;75.28;Mixta;Completa;40;Medio;Arte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.568711239
+LZ202477;Jorge Luis;Gómez Rodríguez;Arquitectura;Artes y Diseño;27;Otro;4.47;93.57;Mixta;Ninguna;10;Medio;Voluntariado;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.448540819
+DZ202478;Sofía Diego;Pérez Martínez;Biología;Ciencias de la Salud;28;Femenino;2.57;75.06;Virtual;Parcial;20;Medio;Ninguna;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.432948366
+CZ202479;Luis Carlos;Ramírez Ramírez;Ingeniería de Sistemas;Ingeniería;28;Otro;3.91;79.93;Mixta;Ninguna;10;Bajo;Deporte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.472452832
+PS202480;Pedro Pedro;Flores Rodríguez;Biología;Ciencias de la Salud;28;Femenino;4.39;64.93;Virtual;Ninguna;40;Alto;Club Académico;Media;Regular;15;Sí;Problemas Económicos;Medio Riesgo;0.454874908
+CZ202481;Laura Carlos;Martínez Flores;Derecho;Ciencias Jurídicas;27;Femenino;2.68;71.93;Mixta;Beca académica;20;Alto;Ninguna;Media;Regular;12;No;No Aplica;Medio Riesgo;0.491480386
+CZ202482;Laura Carlos;Martínez Martínez;Medicina;Ciencias de la Salud;25;Otro;3.46;79.31;Presencial;Ninguna;40;Bajo;Club Académico;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.484278418
+MZ202483;Juan María;González Flores;Enfermería;Ciencias de la Salud;21;Femenino;2.16;74.95;Virtual;Ninguna;0;Alto;Ninguna;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.503214601
+DS202484;Sofía Diego;Torres Ramírez;Diseño Gráfico;Artes y Diseño;18;Masculino;2.78;68.74;Presencial;Parcial;40;Medio;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.581315426
+LZ202485;María Laura;Díaz Gómez;Arquitectura;Artes y Diseño;27;Femenino;4.36;75.34;Mixta;Beca deportiva;20;Medio;Ninguna;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.404228065
+SZ202486;Juan Sofía;Martínez Rodríguez;Enfermería;Ciencias de la Salud;20;Femenino;3.55;64.98;Presencial;Beca académica;10;Bajo;Ninguna;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.487923674
+JS202487;Luis Jorge;Torres Ramírez;Ingeniería de Sistemas;Ingeniería;29;Masculino;2.92;99.73;Virtual;Ninguna;30;Medio;Deporte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.438476391
+DS202488;Ana Diego;Torres Rodríguez;Biología;Ciencias de la Salud;17;Femenino;4.77;58.21;Mixta;Parcial;10;Bajo;Ninguna;Media;Bueno;12;Sí;Carga Académica;Medio Riesgo;0.598904228
+DZ202489;Lucía Diego;Gómez Flores;Medicina;Ciencias de la Salud;29;Otro;5;58.14;Virtual;Ninguna;40;Bajo;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.462417929
+JS202490;Diego Jorge;Flores Pérez;Economía;Ciencias Económicas;29;Otro;2.51;61.32;Virtual;Completa;0;Medio;Deporte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.524190367
+LZ202491;Jorge Luis;Gómez Ramírez;Contabilidad;Ciencias Económicas;23;Femenino;3.53;71.59;Mixta;Beca deportiva;30;Bajo;Arte;Baja;Bueno;12;Sí;Problemas de Salud;Medio Riesgo;0.559738174
+VZ202492;Sofía Valeria;Hernández Díaz;Contabilidad;Ciencias Económicas;21;Otro;2.89;88.74;Presencial;Ninguna;30;Bajo;Ninguna;Alta;Malo;12;Sí;Carga Académica;Medio Riesgo;0.465365072
+VS202493;Luis Valeria;Flores Hernández;Economía;Ciencias Económicas;27;Femenino;2.11;96.64;Presencial;Ninguna;10;Medio;Club Académico;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.409165521
+LZ202494;Lucía Laura;Martínez Díaz;Psicología;Humanidades;18;Femenino;3.6;79.04;Mixta;Parcial;40;Medio;Voluntariado;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.4755231
+AZ202495;Ana Ana;Martínez Ramírez;Economía;Ciencias Económicas;24;Femenino;4.45;92.01;Virtual;Ninguna;40;Alto;Ninguna;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.45847932
+JS202496;Juan Jorge;Flores Martínez;Economía;Ciencias Económicas;25;Masculino;3.28;86.57;Mixta;Completa;0;Alto;Deporte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.482083255
+PZ202497;Pedro Pedro;Díaz Rodríguez;Ingeniería de Sistemas;Ingeniería;22;Otro;3.33;80.12;Presencial;Parcial;20;Bajo;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.551157831
+JZ202498;Pedro Jorge;Díaz Torres;Diseño Gráfico;Artes y Diseño;18;Otro;3.31;80.1;Presencial;Ninguna;0;Medio;Voluntariado;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.542959802
+VZ202499;Carlos Valeria;Díaz Pérez;Medicina;Ciencias de la Salud;20;Masculino;4.5;98.52;Presencial;Parcial;30;Alto;Deporte;Alta;Regular;15;No;No Aplica;Bajo Riesgo;0.356197738
+LZ2024100;Ana Laura;González Ramírez;Ingeniería de Sistemas;Ingeniería;17;Femenino;2.22;60.33;Presencial;Parcial;0;Bajo;Arte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.605660953
+DZ2024101;Pedro Diego;Ramírez Díaz;Ingeniería Civil;Ingeniería;30;Femenino;4.19;76.62;Mixta;Ninguna;30;Medio;Arte;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.439735981
+MZ2024102;Lucía María;González Rodríguez;Psicología;Humanidades;25;Otro;4.82;60.02;Presencial;Completa;40;Bajo;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.479230013
+LZ2024103;Ana Lucía;Gómez Torres;Psicología;Humanidades;27;Masculino;3.62;85.74;Presencial;Ninguna;20;Alto;Voluntariado;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.50515233
+JS2024104;Ana Juan;Torres González;Ingeniería Civil;Ingeniería;28;Masculino;2.42;85.09;Presencial;Ninguna;0;Medio;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.493758365
+AZ2024105;Ana Ana;Ramírez Gómez;Derecho;Ciencias Jurídicas;20;Otro;2.04;92.38;Presencial;Parcial;30;Alto;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.523013105
+SZ2024106;Laura Sofía;Díaz Hernández;Arquitectura;Artes y Diseño;29;Femenino;2.04;56.39;Mixta;Ninguna;20;Bajo;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.596475543
+LZ2024107;Laura Laura;Pérez González;Diseño Gráfico;Artes y Diseño;24;Femenino;3.02;71.24;Mixta;Parcial;40;Medio;Ninguna;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.514692747
+LZ2024108;María Laura;Pérez Rodríguez;Diseño Gráfico;Artes y Diseño;18;Femenino;4.59;80.29;Virtual;Ninguna;30;Bajo;Deporte;Baja;Malo;12;Sí;Falta de Motivación;Medio Riesgo;0.467290041
+MS2024109;Jorge María;Flores Flores;Psicología;Humanidades;28;Otro;2.09;77.09;Mixta;Parcial;40;Alto;Deporte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.459257461
+LZ2024110;Luis Lucía;Hernández Rodríguez;Comunicación Social;Humanidades;19;Masculino;4.38;51.1;Mixta;Ninguna;0;Alto;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.536542722
+MZ2024111;Diego María;Hernández Díaz;Diseño Gráfico;Artes y Diseño;24;Otro;3.64;56.74;Presencial;Ninguna;30;Alto;Club Académico;Baja;Malo;21;Sí;Trabajo;Medio Riesgo;0.543156958
+DZ2024112;Valeria Diego;Gómez Pérez;Derecho;Ciencias Jurídicas;24;Masculino;2.94;83.45;Presencial;Beca deportiva;30;Medio;Deporte;Baja;Malo;12;Sí;Falta de Motivación;Medio Riesgo;0.488040622
+CZ2024113;Luis Carlos;Martínez González;Derecho;Ciencias Jurídicas;18;Masculino;3.47;54.65;Mixta;Ninguna;0;Medio;Arte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.533768945
+LZ2024114;Lucía Lucía;Gómez Gómez;Psicología;Humanidades;30;Masculino;3.14;56.19;Mixta;Ninguna;10;Alto;Club Académico;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.515157347
+JZ2024115;Carlos Juan;Díaz Martínez;Diseño Gráfico;Artes y Diseño;20;Masculino;4.02;67.06;Presencial;Beca académica;40;Bajo;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.549666093
+SZ2024116;Valeria Sofía;Gómez Torres;Biología;Ciencias de la Salud;21;Femenino;4.14;88.61;Presencial;Parcial;30;Alto;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.492251143
+VS2024117;Sofía Valeria;Flores Ramírez;Ingeniería Civil;Ingeniería;28;Otro;4.37;65.29;Presencial;Ninguna;30;Medio;Arte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.505282701
+MS2024118;Ana María;Flores Pérez;Biología;Ciencias de la Salud;21;Masculino;2.48;81.93;Presencial;Ninguna;30;Bajo;Arte;Alta;Malo;12;Sí;Falta de Motivación;Medio Riesgo;0.496213525
+CZ2024119;Jorge Carlos;Pérez Díaz;Derecho;Ciencias Jurídicas;19;Otro;4.46;68.92;Virtual;Ninguna;20;Medio;Ninguna;Alta;Regular;15;Sí;Problemas Económicos;Medio Riesgo;0.436036073
+PZ2024120;Laura Pedro;Ramírez Rodríguez;Derecho;Ciencias Jurídicas;22;Femenino;3.9;66.06;Virtual;Ninguna;10;Medio;Voluntariado;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.443229641
+CS2024121;Carlos Carlos;Torres Martínez;Comunicación Social;Humanidades;30;Masculino;3.3;50.28;Mixta;Completa;30;Alto;Arte;Baja;Malo;15;Sí;Carga Académica;Medio Riesgo;0.554746728
+LS2024122;Jorge Laura;Flores Martínez;Contabilidad;Ciencias Económicas;20;Femenino;4;67.85;Virtual;Ninguna;30;Medio;Ninguna;Media;Bueno;12;Sí;Problemas de Salud;Medio Riesgo;0.574964021
+MZ2024123;Laura María;Díaz Díaz;Contabilidad;Ciencias Económicas;23;Femenino;4.34;52.18;Presencial;Beca académica;30;Bajo;Arte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.481622396
+DZ2024124;Lucía Diego;Martínez Torres;Ingeniería de Sistemas;Ingeniería;19;Femenino;2.9;52.01;Virtual;Ninguna;10;Bajo;Voluntariado;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.623890527
+VS2024125;Pedro Valeria;Flores Gómez;Administración de Empresas;Ciencias Económicas;27;Masculino;3.75;91.71;Mixta;Ninguna;10;Medio;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.448488685
+SZ2024126;Juan Sofía;Martínez González;Enfermería;Ciencias de la Salud;29;Masculino;2.27;94.98;Presencial;Ninguna;20;Alto;Voluntariado;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.426211759
+JS2024127;María Jorge;Torres Flores;Ingeniería Civil;Ingeniería;27;Otro;3.78;67.18;Mixta;Ninguna;30;Alto;Ninguna;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.566457259
+LZ2024128;Sofía Laura;González Hernández;Comunicación Social;Humanidades;23;Otro;2.21;68.41;Presencial;Ninguna;10;Bajo;Ninguna;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.587956807
+JZ2024129;Luis Juan;Gómez Martínez;Administración de Empresas;Ciencias Económicas;26;Femenino;2.43;90.2;Mixta;Ninguna;40;Bajo;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.465265963
+VZ2024130;Carlos Valeria;González Flores;Contabilidad;Ciencias Económicas;24;Femenino;3.08;91.43;Virtual;Ninguna;30;Medio;Voluntariado;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.496751752
+JZ2024131;Valeria Jorge;Díaz Torres;Diseño Gráfico;Artes y Diseño;19;Femenino;3.68;72.89;Virtual;Ninguna;0;Medio;Deporte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.517629288
+VZ2024132;María Valeria;Ramírez Díaz;Medicina;Ciencias de la Salud;22;Femenino;3.47;71.12;Virtual;Ninguna;10;Alto;Deporte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.479303306
+AZ2024133;Jorge Ana;Gómez Díaz;Biología;Ciencias de la Salud;30;Otro;3.5;53.36;Presencial;Ninguna;0;Medio;Club Académico;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.481077918
+PS2024134;Laura Pedro;Flores Pérez;Arquitectura;Artes y Diseño;30;Otro;2.35;85.5;Mixta;Parcial;40;Bajo;Arte;Alta;Bueno;15;Sí;Problemas de Salud;Medio Riesgo;0.508563791
+VZ2024135;Laura Valeria;Gómez Hernández;Derecho;Ciencias Jurídicas;28;Femenino;4.37;68.6;Presencial;Ninguna;10;Bajo;Club Académico;Media;Malo;21;No;No Aplica;Medio Riesgo;0.485445576
+SZ2024136;Pedro Sofía;Ramírez Pérez;Ingeniería de Sistemas;Ingeniería;22;Masculino;4.42;58.62;Presencial;Parcial;40;Medio;Club Académico;Media;Regular;15;No;No Aplica;Medio Riesgo;0.508034801
+DZ2024137;Ana Diego;Rodríguez Díaz;Comunicación Social;Humanidades;28;Masculino;4.11;68.11;Mixta;Ninguna;10;Medio;Voluntariado;Media;Malo;12;No;No Aplica;Medio Riesgo;0.503542699
+CS2024138;Sofía Carlos;Torres Pérez;Diseño Gráfico;Artes y Diseño;30;Otro;2.63;62.85;Virtual;Ninguna;10;Bajo;Voluntariado;Baja;Malo;15;Sí;Falta de Motivación;Medio Riesgo;0.514633131
+SZ2024139;Carlos Sofía;Ramírez Martínez;Medicina;Ciencias de la Salud;18;Femenino;4.14;60.26;Virtual;Ninguna;20;Medio;Arte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.517047842
+AZ2024140;Pedro Ana;Ramírez Martínez;Enfermería;Ciencias de la Salud;27;Otro;4.73;88.35;Mixta;Parcial;20;Medio;Ninguna;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.376363113
+SS2024141;María Sofía;Flores Martínez;Enfermería;Ciencias de la Salud;29;Masculino;3.01;52.1;Virtual;Parcial;40;Medio;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.614174534
+CZ2024142;Carlos Carlos;Pérez Ramírez;Economía;Ciencias Económicas;25;Masculino;3.47;95.09;Mixta;Parcial;40;Alto;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.468528828
+LZ2024143;Laura Luis;Hernández Hernández;Ingeniería de Sistemas;Ingeniería;17;Masculino;4.53;57.73;Mixta;Completa;30;Alto;Club Académico;Alta;Malo;15;Sí;Carga Académica;Medio Riesgo;0.53346537
+VZ2024144;Lucía Valeria;Díaz Hernández;Ingeniería Civil;Ingeniería;24;Masculino;2.74;64.18;Virtual;Parcial;10;Bajo;Deporte;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.574720046
+LZ2024145;Jorge Luis;Martínez Torres;Biología;Ciencias de la Salud;20;Masculino;2.1;88.79;Virtual;Ninguna;10;Bajo;Ninguna;Media;Bueno;18;Sí;Carga Académica;Medio Riesgo;0.555049011
+LS2024146;Lucía Luis;Flores Díaz;Comunicación Social;Humanidades;23;Femenino;3.35;81.9;Mixta;Beca deportiva;30;Medio;Deporte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.555158586
+LZ2024147;Ana Laura;Hernández Rodríguez;Ingeniería Civil;Ingeniería;23;Femenino;4.09;56.48;Mixta;Ninguna;40;Alto;Ninguna;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.547590767
+LZ2024148;Valeria Lucía;Gómez Hernández;Contabilidad;Ciencias Económicas;29;Femenino;3.46;66.87;Virtual;Completa;40;Medio;Voluntariado;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.498868837
+CS2024149;Laura Carlos;Torres Díaz;Economía;Ciencias Económicas;20;Masculino;4.88;92.36;Presencial;Ninguna;40;Medio;Arte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.473493716
+VS2024150;Juan Valeria;Torres Hernández;Derecho;Ciencias Jurídicas;17;Femenino;4.42;99.23;Mixta;Ninguna;10;Medio;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.405995367
+SZ2024151;Valeria Sofía;Martínez Rodríguez;Economía;Ciencias Económicas;20;Otro;3.38;69.65;Mixta;Ninguna;0;Bajo;Arte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.568982574
+PZ2024152;Diego Pedro;Rodríguez Hernández;Medicina;Ciencias de la Salud;25;Femenino;4.91;51.66;Virtual;Ninguna;40;Medio;Voluntariado;Baja;Malo;21;Sí;Problemas Familiares;Medio Riesgo;0.520305863
+DZ2024153;Ana Diego;Ramírez Hernández;Economía;Ciencias Económicas;17;Masculino;2.82;52.4;Presencial;Ninguna;10;Medio;Club Académico;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.600355075
+JZ2024154;Valeria Jorge;Díaz González;Diseño Gráfico;Artes y Diseño;17;Masculino;4.21;67.29;Mixta;Ninguna;20;Alto;Ninguna;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.528718374
+LZ2024155;María Lucía;Hernández Rodríguez;Derecho;Ciencias Jurídicas;21;Otro;3.1;87.9;Virtual;Parcial;0;Alto;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.477452342
+LZ2024156;Lucía Laura;González Rodríguez;Psicología;Humanidades;21;Otro;2.45;95.64;Mixta;Ninguna;0;Bajo;Deporte;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.428063019
+LZ2024157;Ana Luis;Martínez Díaz;Psicología;Humanidades;29;Otro;3.38;96.53;Presencial;Ninguna;0;Bajo;Deporte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.465926611
+LS2024158;Carlos Laura;Flores Torres;Comunicación Social;Humanidades;28;Femenino;4.58;53.83;Presencial;Parcial;30;Medio;Voluntariado;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.495804214
+JZ2024159;Laura Jorge;Hernández Martínez;Ingeniería Civil;Ingeniería;19;Otro;2.1;54.32;Presencial;Ninguna;20;Bajo;Ninguna;Media;Bueno;21;Sí;Problemas Familiares;Medio Riesgo;0.66528285
+SS2024160;Juan Sofía;Torres Gómez;Enfermería;Ciencias de la Salud;21;Femenino;3.79;76;Presencial;Ninguna;30;Medio;Arte;Baja;Regular;18;Sí;Problemas Económicos;Medio Riesgo;0.455585596
+SZ2024161;María Sofía;Gómez Hernández;Contabilidad;Ciencias Económicas;22;Otro;4.19;99.13;Virtual;Ninguna;10;Bajo;Arte;Alta;Bueno;21;Sí;Falta de Motivación;Medio Riesgo;0.42420133
+MS2024162;Diego María;Flores Pérez;Diseño Gráfico;Artes y Diseño;22;Femenino;3.39;81.22;Presencial;Beca deportiva;30;Bajo;Arte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.513310165
+LS2024163;Pedro Luis;Torres Gómez;Economía;Ciencias Económicas;21;Femenino;3.43;75.27;Presencial;Ninguna;10;Alto;Club Académico;Media;Malo;18;No;No Aplica;Medio Riesgo;0.517246038
+MS2024164;Carlos María;Flores Flores;Contabilidad;Ciencias Económicas;28;Masculino;3.06;71.08;Virtual;Ninguna;30;Alto;Ninguna;Alta;Bueno;15;Sí;Trabajo;Medio Riesgo;0.518096502
+LZ2024165;Jorge Laura;Martínez Pérez;Psicología;Humanidades;30;Femenino;2.54;79.44;Mixta;Ninguna;30;Medio;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.519023524
+LZ2024166;Ana Luis;Pérez Hernández;Derecho;Ciencias Jurídicas;27;Femenino;4.78;72.77;Virtual;Parcial;40;Medio;Voluntariado;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.393682576
+JZ2024167;Ana Juan;Pérez Flores;Ingeniería de Sistemas;Ingeniería;17;Masculino;3.74;52.58;Virtual;Beca deportiva;0;Medio;Ninguna;Media;Bueno;15;Sí;Falta de Motivación;Medio Riesgo;0.624163098
+JZ2024168;Lucía Jorge;Ramírez Hernández;Contabilidad;Ciencias Económicas;20;Otro;2.68;56.16;Presencial;Ninguna;20;Bajo;Voluntariado;Baja;Regular;15;Sí;Problemas Familiares;Medio Riesgo;0.541063157
+JZ2024169;Jorge Juan;Pérez Flores;Economía;Ciencias Económicas;22;Femenino;4.98;51.28;Presencial;Ninguna;20;Medio;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.55565612
+CZ2024170;Pedro Carlos;Díaz Pérez;Ingeniería de Sistemas;Ingeniería;29;Masculino;4.29;91.35;Mixta;Parcial;30;Bajo;Arte;Media;Regular;12;No;No Aplica;Bajo Riesgo;0.391341283
+PZ2024171;Valeria Pedro;González Martínez;Enfermería;Ciencias de la Salud;23;Femenino;4.66;50.6;Mixta;Ninguna;10;Bajo;Deporte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.477150916
+LZ2024172;Ana Lucía;Díaz Flores;Enfermería;Ciencias de la Salud;29;Femenino;4.85;61.8;Mixta;Parcial;10;Bajo;Ninguna;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.477468544
+PZ2024173;Luis Pedro;Rodríguez Gómez;Ingeniería de Sistemas;Ingeniería;28;Masculino;3.3;64.13;Virtual;Ninguna;0;Bajo;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.521615911
+JS2024174;Valeria Juan;Flores Flores;Enfermería;Ciencias de la Salud;24;Otro;2.4;54.01;Virtual;Ninguna;30;Bajo;Deporte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.578186411
+PZ2024175;Sofía Pedro;González Gómez;Enfermería;Ciencias de la Salud;17;Femenino;2.47;60.25;Presencial;Ninguna;20;Alto;Arte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.628872902
+JZ2024176;María Juan;Pérez Ramírez;Contabilidad;Ciencias Económicas;21;Otro;4.67;76.39;Mixta;Beca académica;30;Medio;Voluntariado;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.420418223
+SS2024177;Sofía Sofía;Torres Torres;Arquitectura;Artes y Diseño;22;Otro;4.15;59.66;Mixta;Completa;40;Bajo;Voluntariado;Media;Malo;15;No;No Aplica;Medio Riesgo;0.561157208
+LZ2024178;Juan Laura;Hernández Flores;Ingeniería Civil;Ingeniería;21;Femenino;4.37;95.15;Mixta;Ninguna;40;Medio;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.464144799
+VZ2024179;Juan Valeria;Pérez González;Enfermería;Ciencias de la Salud;21;Otro;2.78;60.45;Virtual;Completa;10;Alto;Voluntariado;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.489510795
+PS2024180;Valeria Pedro;Flores Martínez;Enfermería;Ciencias de la Salud;28;Otro;2.29;53.35;Mixta;Ninguna;20;Medio;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.604284196
+PZ2024181;Jorge Pedro;Ramírez Ramírez;Enfermería;Ciencias de la Salud;20;Otro;3.28;91.25;Virtual;Ninguna;30;Medio;Deporte;Alta;Regular;15;Sí;Carga Académica;Medio Riesgo;0.403514693
+DS2024182;Sofía Diego;Flores Rodríguez;Economía;Ciencias Económicas;21;Femenino;4.31;67.84;Mixta;Ninguna;10;Medio;Voluntariado;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.464885956
+LS2024183;Valeria Laura;Torres Pérez;Enfermería;Ciencias de la Salud;19;Femenino;4.62;75.56;Presencial;Ninguna;20;Bajo;Deporte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.418456765
+SS2024184;María Sofía;Flores González;Economía;Ciencias Económicas;28;Otro;2.81;73.56;Mixta;Ninguna;20;Bajo;Club Académico;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.462624028
+DS2024185;Pedro Diego;Flores Martínez;Administración de Empresas;Ciencias Económicas;26;Masculino;3.87;60.22;Presencial;Ninguna;20;Medio;Voluntariado;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.543500586
+SZ2024186;Jorge Sofía;Díaz Hernández;Ingeniería de Sistemas;Ingeniería;17;Otro;4.46;56.69;Presencial;Ninguna;30;Bajo;Arte;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.50787203
+VZ2024187;Pedro Valeria;Martínez Flores;Administración de Empresas;Ciencias Económicas;19;Femenino;2.21;77.77;Mixta;Ninguna;0;Bajo;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.580452917
+CZ2024188;Pedro Carlos;Gómez Ramírez;Contabilidad;Ciencias Económicas;26;Masculino;3.44;96.45;Presencial;Completa;10;Bajo;Club Académico;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.37752236
+JZ2024189;Valeria Jorge;González Díaz;Psicología;Humanidades;23;Otro;4.07;60.89;Mixta;Ninguna;40;Alto;Arte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.473288576
+JS2024190;Jorge Jorge;Flores Gómez;Biología;Ciencias de la Salud;24;Masculino;4.06;53.51;Virtual;Parcial;40;Alto;Club Académico;Media;Malo;21;Sí;Carga Académica;Medio Riesgo;0.556213688
+MZ2024191;Pedro María;Martínez Rodríguez;Ingeniería Civil;Ingeniería;18;Otro;5;94.51;Virtual;Completa;0;Bajo;Ninguna;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.362550006
+AZ2024192;Lucía Ana;Martínez Hernández;Comunicación Social;Humanidades;23;Otro;2.43;87.52;Virtual;Ninguna;10;Bajo;Deporte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.432903227
+VS2024193;Valeria Valeria;Flores Flores;Biología;Ciencias de la Salud;19;Masculino;4.96;67.55;Virtual;Ninguna;40;Alto;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.492622148
+SS2024194;Sofía Sofía;Torres González;Medicina;Ciencias de la Salud;19;Femenino;2.56;79.4;Virtual;Ninguna;20;Alto;Ninguna;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.514315574
+LS2024195;Laura Laura;Flores Flores;Medicina;Ciencias de la Salud;18;Femenino;2.72;64.15;Presencial;Parcial;20;Medio;Deporte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.508078767
+AZ2024196;Diego Ana;Hernández Martínez;Medicina;Ciencias de la Salud;26;Otro;4.69;64.64;Virtual;Ninguna;0;Medio;Club Académico;Media;Malo;12;No;No Aplica;Medio Riesgo;0.486582946
+SS2024197;Sofía Sofía;Torres Rodríguez;Ingeniería Civil;Ingeniería;20;Otro;2.22;53.12;Virtual;Parcial;30;Alto;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.580926473
+AZ2024198;María Ana;Hernández Hernández;Arquitectura;Artes y Diseño;25;Femenino;3.83;85.73;Virtual;Parcial;10;Alto;Arte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.458531615
+LS2024199;Valeria Luis;Flores Martínez;Medicina;Ciencias de la Salud;22;Otro;2.13;58.72;Mixta;Parcial;30;Medio;Deporte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.654624811
+DZ2024200;Diego Diego;Pérez Ramírez;Arquitectura;Artes y Diseño;22;Femenino;2.84;52.66;Virtual;Parcial;30;Medio;Ninguna;Media;Malo;12;No;No Aplica;Medio Riesgo;0.598282973
+SZ2024201;Ana Sofía;Rodríguez Flores;Biología;Ciencias de la Salud;26;Masculino;4.26;88.62;Mixta;Beca deportiva;10;Alto;Voluntariado;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.407447593
+LZ2024202;Carlos Luis;Martínez Pérez;Economía;Ciencias Económicas;29;Otro;2.85;81.5;Virtual;Ninguna;20;Alto;Deporte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.435909073
+VZ2024203;Carlos Valeria;Díaz González;Medicina;Ciencias de la Salud;26;Otro;3.53;71.45;Mixta;Parcial;30;Bajo;Arte;Alta;Bueno;15;Sí;Falta de Motivación;Medio Riesgo;0.529747394
+CZ2024204;Juan Carlos;Ramírez Hernández;Psicología;Humanidades;24;Otro;4.6;69.44;Presencial;Ninguna;0;Bajo;Club Académico;Alta;Bueno;21;Sí;Falta de Motivación;Medio Riesgo;0.494895036
+LZ2024205;Luis Lucía;Pérez Díaz;Arquitectura;Artes y Diseño;17;Femenino;3.66;73.96;Virtual;Ninguna;30;Alto;Voluntariado;Baja;Bueno;15;Sí;Problemas Familiares;Medio Riesgo;0.555990016
+MZ2024206;María María;Martínez Martínez;Enfermería;Ciencias de la Salud;20;Femenino;2.29;68.21;Virtual;Ninguna;40;Alto;Ninguna;Media;Regular;21;Sí;Carga Académica;Medio Riesgo;0.533564337
+DS2024207;Ana Diego;Flores Torres;Diseño Gráfico;Artes y Diseño;25;Femenino;4.08;54.36;Mixta;Ninguna;20;Medio;Voluntariado;Baja;Bueno;21;Sí;Problemas Económicos;Medio Riesgo;0.584611988
+SZ2024208;Valeria Sofía;Díaz Gómez;Contabilidad;Ciencias Económicas;23;Femenino;2.22;86.19;Virtual;Ninguna;10;Medio;Deporte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.487486741
+AZ2024209;Carlos Ana;Ramírez Torres;Contabilidad;Ciencias Económicas;25;Masculino;3.72;92.13;Mixta;Ninguna;20;Bajo;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.501490338
+LZ2024210;Lucía Lucía;Díaz Rodríguez;Medicina;Ciencias de la Salud;20;Otro;2.97;82.72;Presencial;Ninguna;0;Bajo;Deporte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.429432766
+AZ2024211;Luis Ana;Ramírez Torres;Medicina;Ciencias de la Salud;24;Otro;4.87;73.68;Mixta;Ninguna;30;Bajo;Club Académico;Baja;Malo;21;Sí;Problemas Económicos;Medio Riesgo;0.470461303
+JS2024212;Jorge Jorge;Torres Ramírez;Economía;Ciencias Económicas;20;Femenino;4.69;84.82;Virtual;Beca deportiva;20;Alto;Club Académico;Baja;Regular;15;No;No Aplica;Bajo Riesgo;0.395337168
+LZ2024213;Sofía Luis;Gómez Hernández;Diseño Gráfico;Artes y Diseño;17;Otro;2.11;73.6;Mixta;Parcial;20;Medio;Ninguna;Baja;Malo;12;Sí;Problemas Económicos;Medio Riesgo;0.570248816
+MZ2024214;Valeria María;Ramírez Ramírez;Biología;Ciencias de la Salud;28;Femenino;2.22;68.44;Virtual;Ninguna;20;Medio;Voluntariado;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.461355918
+PZ2024215;María Pedro;Hernández Torres;Derecho;Ciencias Jurídicas;29;Masculino;2.66;59.38;Presencial;Completa;0;Alto;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.590709392
+AZ2024216;Ana Ana;Hernández Flores;Enfermería;Ciencias de la Salud;24;Masculino;4.19;97.75;Mixta;Ninguna;0;Alto;Club Académico;Media;Malo;12;No;No Aplica;Medio Riesgo;0.42339825
+AZ2024217;Pedro Ana;Rodríguez Gómez;Comunicación Social;Humanidades;29;Otro;3.13;87.07;Presencial;Ninguna;30;Alto;Club Académico;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.406049802
+DZ2024218;Laura Diego;Martínez Pérez;Biología;Ciencias de la Salud;18;Femenino;4.35;79.31;Mixta;Parcial;10;Bajo;Ninguna;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.4837727
+VZ2024219;Sofía Valeria;Rodríguez Flores;Biología;Ciencias de la Salud;30;Otro;4.55;52.84;Virtual;Ninguna;20;Medio;Deporte;Alta;Regular;18;Sí;Trabajo;Medio Riesgo;0.436556604
+MZ2024220;Diego María;Hernández Torres;Ingeniería Civil;Ingeniería;18;Femenino;4.15;75.43;Presencial;Ninguna;30;Medio;Ninguna;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.527747468
+MZ2024221;Luis María;Ramírez Rodríguez;Ingeniería Civil;Ingeniería;18;Otro;4.32;65.6;Presencial;Parcial;20;Bajo;Ninguna;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.520988448
+SZ2024222;Valeria Sofía;Martínez Rodríguez;Psicología;Humanidades;27;Femenino;2.73;93.76;Presencial;Ninguna;40;Medio;Voluntariado;Media;Regular;15;No;No Aplica;Medio Riesgo;0.431277967
+JS2024223;Juan Jorge;Torres Gómez;Ingeniería Civil;Ingeniería;21;Femenino;4.24;87.05;Presencial;Beca académica;20;Alto;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.508667751
+SZ2024224;Luis Sofía;Rodríguez Flores;Enfermería;Ciencias de la Salud;23;Femenino;3.62;69.9;Mixta;Completa;0;Alto;Arte;Media;Malo;15;Sí;Falta de Motivación;Medio Riesgo;0.523415174
+JS2024225;Carlos Jorge;Flores Martínez;Psicología;Humanidades;19;Masculino;4.17;81.14;Presencial;Parcial;40;Medio;Voluntariado;Media;Malo;21;No;No Aplica;Medio Riesgo;0.504479398
+DZ2024226;Pedro Diego;González Martínez;Biología;Ciencias de la Salud;19;Masculino;3.57;93.86;Virtual;Completa;20;Bajo;Voluntariado;Baja;Malo;18;Sí;Carga Académica;Medio Riesgo;0.447128948
+LZ2024227;Laura Lucía;González Rodríguez;Arquitectura;Artes y Diseño;23;Femenino;4.2;76.03;Virtual;Parcial;0;Medio;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.484679622
+LS2024228;Carlos Laura;Flores Torres;Diseño Gráfico;Artes y Diseño;18;Masculino;2.42;83.79;Presencial;Completa;30;Medio;Ninguna;Media;Malo;15;No;No Aplica;Medio Riesgo;0.543562329
+LZ2024229;Diego Luis;Pérez González;Ingeniería de Sistemas;Ingeniería;30;Masculino;2.08;66.93;Presencial;Parcial;40;Bajo;Arte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.555921473
+VZ2024230;Juan Valeria;Pérez Rodríguez;Ingeniería Civil;Ingeniería;19;Masculino;4.48;67.01;Mixta;Beca académica;20;Bajo;Ninguna;Media;Malo;15;Sí;Problemas Familiares;Medio Riesgo;0.534880928
+LZ2024231;Jorge Luis;Hernández Díaz;Psicología;Humanidades;26;Otro;3.06;82.31;Presencial;Parcial;0;Bajo;Voluntariado;Alta;Malo;21;Sí;Problemas de Salud;Medio Riesgo;0.447411703
+CZ2024232;Luis Carlos;Ramírez Torres;Medicina;Ciencias de la Salud;28;Masculino;2.23;75.38;Presencial;Ninguna;40;Bajo;Arte;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.541540262
+JZ2024233;Pedro Jorge;González Díaz;Enfermería;Ciencias de la Salud;18;Femenino;3.95;95.22;Virtual;Ninguna;40;Medio;Arte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.447122207
+CZ2024234;Sofía Carlos;Hernández Díaz;Derecho;Ciencias Jurídicas;18;Masculino;4.23;69.04;Presencial;Ninguna;20;Bajo;Voluntariado;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.494725372
+DZ2024235;Ana Diego;Rodríguez Pérez;Administración de Empresas;Ciencias Económicas;27;Femenino;3.41;53.65;Mixta;Ninguna;30;Bajo;Arte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.580282743
+PS2024236;Valeria Pedro;Flores Pérez;Economía;Ciencias Económicas;24;Femenino;4.69;83.02;Virtual;Ninguna;30;Bajo;Voluntariado;Media;Malo;15;No;No Aplica;Medio Riesgo;0.45138412
+DZ2024237;Sofía Diego;Gómez Pérez;Diseño Gráfico;Artes y Diseño;22;Otro;4.61;77.7;Virtual;Ninguna;40;Alto;Arte;Media;Regular;21;No;No Aplica;Medio Riesgo;0.435908568
+JZ2024238;María Juan;Ramírez Hernández;Comunicación Social;Humanidades;26;Femenino;4.55;53.37;Virtual;Parcial;40;Alto;Deporte;Media;Regular;15;Sí;Falta de Motivación;Medio Riesgo;0.492209286
+SZ2024239;María Sofía;Rodríguez Díaz;Diseño Gráfico;Artes y Diseño;29;Otro;4.52;65.2;Virtual;Ninguna;20;Medio;Arte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.485713516
+SZ2024240;Ana Sofía;Martínez Flores;Medicina;Ciencias de la Salud;25;Femenino;3.6;60.81;Mixta;Ninguna;10;Alto;Ninguna;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.552599662
+LZ2024241;Pedro Laura;Ramírez Gómez;Enfermería;Ciencias de la Salud;18;Otro;2.35;79.8;Virtual;Parcial;40;Bajo;Ninguna;Media;Regular;18;No;No Aplica;Medio Riesgo;0.508137558
+LZ2024242;Juan Laura;González Martínez;Derecho;Ciencias Jurídicas;17;Masculino;2.66;72.33;Virtual;Completa;20;Bajo;Voluntariado;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.498772869
+CZ2024243;Carlos Carlos;Martínez González;Medicina;Ciencias de la Salud;27;Otro;4.62;84.54;Mixta;Parcial;30;Alto;Deporte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.493586868
+LZ2024244;Juan Laura;Pérez Flores;Comunicación Social;Humanidades;27;Femenino;4.57;78.22;Presencial;Parcial;20;Bajo;Voluntariado;Media;Bueno;12;Sí;Trabajo;Medio Riesgo;0.503558365
+PS2024245;Sofía Pedro;Torres Torres;Ingeniería Civil;Ingeniería;17;Femenino;3.24;82.02;Virtual;Completa;0;Medio;Deporte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.473528562
+AZ2024246;Jorge Ana;González Díaz;Arquitectura;Artes y Diseño;25;Masculino;3.94;54.6;Mixta;Parcial;30;Bajo;Arte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.571474347
+LZ2024247;Juan Laura;Rodríguez Rodríguez;Contabilidad;Ciencias Económicas;24;Otro;2.06;75.29;Mixta;Ninguna;40;Alto;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.518521823
+LS2024248;Jorge Lucía;Flores Martínez;Comunicación Social;Humanidades;22;Femenino;2.57;57.75;Mixta;Parcial;40;Medio;Arte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.530661466
+DZ2024249;Ana Diego;Díaz Flores;Enfermería;Ciencias de la Salud;17;Masculino;3.06;80.27;Mixta;Parcial;0;Bajo;Voluntariado;Media;Regular;18;No;No Aplica;Medio Riesgo;0.490700746
+LZ2024250;Carlos Laura;Hernández Hernández;Derecho;Ciencias Jurídicas;23;Otro;2.07;53.02;Presencial;Completa;30;Alto;Deporte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.556594041
+LZ2024251;Sofía Luis;Hernández Gómez;Arquitectura;Artes y Diseño;30;Otro;4.54;86.73;Presencial;Ninguna;40;Medio;Deporte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.459131533
+LZ2024252;Laura Lucía;Gómez Hernández;Ingeniería de Sistemas;Ingeniería;19;Masculino;4.36;98.66;Virtual;Parcial;0;Bajo;Ninguna;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.447166281
+CZ2024253;Lucía Carlos;Díaz Rodríguez;Ingeniería de Sistemas;Ingeniería;27;Otro;4.43;83.54;Virtual;Completa;20;Medio;Arte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.424508254
+LZ2024254;Laura Lucía;Rodríguez Gómez;Derecho;Ciencias Jurídicas;17;Femenino;3.13;50.36;Virtual;Parcial;0;Medio;Arte;Alta;Malo;21;Sí;Problemas Familiares;Medio Riesgo;0.568475314
+LZ2024255;Luis Luis;Martínez Rodríguez;Enfermería;Ciencias de la Salud;17;Otro;2.36;99.64;Mixta;Ninguna;30;Medio;Deporte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.535482535
+JZ2024256;Juan Jorge;Martínez Hernández;Biología;Ciencias de la Salud;22;Masculino;3.15;65.55;Mixta;Ninguna;40;Medio;Voluntariado;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.596717619
+VZ2024257;Jorge Valeria;Hernández Gómez;Ingeniería de Sistemas;Ingeniería;29;Femenino;2.91;96.69;Presencial;Ninguna;0;Medio;Arte;Baja;Regular;21;Sí;Problemas Familiares;Bajo Riesgo;0.376977014
+CZ2024258;Juan Carlos;Díaz Torres;Derecho;Ciencias Jurídicas;22;Femenino;2.42;73.07;Presencial;Parcial;30;Bajo;Arte;Media;Bueno;15;Sí;Carga Académica;Medio Riesgo;0.599147448
+LZ2024259;Laura Laura;Martínez Hernández;Arquitectura;Artes y Diseño;19;Masculino;2.88;50.77;Mixta;Beca académica;40;Medio;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.67174064
+JS2024260;María Juan;Torres Gómez;Diseño Gráfico;Artes y Diseño;27;Masculino;4.42;99.57;Mixta;Ninguna;20;Bajo;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.416444383
+LZ2024261;Sofía Lucía;Díaz Flores;Contabilidad;Ciencias Económicas;22;Femenino;2.43;64.99;Presencial;Ninguna;40;Alto;Deporte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.60565919
+AZ2024262;Diego Ana;González Torres;Administración de Empresas;Ciencias Económicas;24;Masculino;4.19;90.03;Mixta;Beca académica;10;Bajo;Voluntariado;Media;Regular;18;No;No Aplica;Medio Riesgo;0.408953935
+JZ2024263;Juan Jorge;Rodríguez Flores;Comunicación Social;Humanidades;18;Masculino;4.75;91.22;Virtual;Ninguna;0;Alto;Ninguna;Media;Malo;15;No;No Aplica;Medio Riesgo;0.43575857
+LZ2024264;Carlos Lucía;Gómez Gómez;Contabilidad;Ciencias Económicas;23;Otro;2.75;58.88;Presencial;Ninguna;30;Alto;Ninguna;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.502802203
+LZ2024265;Luis Lucía;Rodríguez Hernández;Diseño Gráfico;Artes y Diseño;25;Femenino;2.76;97.44;Presencial;Parcial;0;Bajo;Club Académico;Media;Malo;12;No;No Aplica;Medio Riesgo;0.452541315
+LS2024266;Jorge Lucía;Flores Díaz;Arquitectura;Artes y Diseño;23;Masculino;2.1;82.7;Presencial;Parcial;30;Alto;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.574422855
+JS2024267;Pedro Jorge;Flores Díaz;Economía;Ciencias Económicas;17;Femenino;2.71;89.13;Presencial;Parcial;0;Alto;Arte;Baja;Bueno;12;Sí;Carga Académica;Medio Riesgo;0.5328202
+AZ2024268;Juan Ana;Díaz Ramírez;Diseño Gráfico;Artes y Diseño;29;Masculino;2.76;54.59;Virtual;Ninguna;0;Medio;Ninguna;Alta;Regular;21;Sí;Problemas Económicos;Medio Riesgo;0.475031019
+CZ2024269;Lucía Carlos;Hernández Gómez;Derecho;Ciencias Jurídicas;18;Masculino;3.61;87.48;Presencial;Ninguna;40;Bajo;Club Académico;Media;Malo;15;No;No Aplica;Medio Riesgo;0.50303878
+MS2024270;Ana María;Flores Pérez;Ingeniería Civil;Ingeniería;20;Otro;2.42;97.45;Mixta;Ninguna;0;Bajo;Ninguna;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.409442689
+AZ2024271;Jorge Ana;Martínez Pérez;Biología;Ciencias de la Salud;28;Otro;2.09;98.65;Mixta;Ninguna;20;Alto;Club Académico;Baja;Malo;15;Sí;Trabajo;Medio Riesgo;0.450309595
+VZ2024272;Lucía Valeria;Díaz Díaz;Economía;Ciencias Económicas;19;Masculino;4.25;86.5;Virtual;Ninguna;10;Medio;Voluntariado;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.429842794
+LZ2024273;Diego Luis;Díaz Flores;Administración de Empresas;Ciencias Económicas;21;Femenino;2.45;58.04;Virtual;Parcial;30;Alto;Club Académico;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.634486183
+VZ2024274;María Valeria;González Torres;Ingeniería Civil;Ingeniería;30;Otro;2.68;54.42;Virtual;Ninguna;20;Bajo;Voluntariado;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.479887176
+JZ2024275;María Jorge;Ramírez Martínez;Medicina;Ciencias de la Salud;21;Femenino;3.86;88.97;Virtual;Parcial;10;Medio;Ninguna;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.505425672
+PZ2024276;Luis Pedro;González Martínez;Contabilidad;Ciencias Económicas;17;Femenino;2.8;97.98;Presencial;Parcial;0;Bajo;Arte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.506583975
+AZ2024277;María Ana;Díaz Torres;Comunicación Social;Humanidades;30;Femenino;3.85;66.34;Mixta;Ninguna;0;Bajo;Arte;Alta;Bueno;12;Sí;Trabajo;Medio Riesgo;0.507803884
+LZ2024278;Ana Laura;Rodríguez Flores;Enfermería;Ciencias de la Salud;24;Femenino;3.48;69.68;Mixta;Parcial;20;Medio;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.542074965
+CZ2024279;Diego Carlos;Hernández Ramírez;Diseño Gráfico;Artes y Diseño;29;Otro;4.14;89.14;Mixta;Beca académica;30;Alto;Club Académico;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.447943452
+LZ2024280;Carlos Luis;Hernández Gómez;Medicina;Ciencias de la Salud;20;Otro;4.81;55.79;Virtual;Ninguna;10;Bajo;Deporte;Baja;Regular;21;Sí;Trabajo;Medio Riesgo;0.473215167
+AS2024281;Juan Ana;Torres Pérez;Medicina;Ciencias de la Salud;27;Otro;3.44;94.77;Virtual;Beca deportiva;30;Alto;Club Académico;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.480026487
+LZ2024282;Lucía Luis;Hernández Rodríguez;Ingeniería de Sistemas;Ingeniería;20;Femenino;4.97;90.82;Mixta;Ninguna;20;Medio;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.493703744
+CZ2024283;Jorge Carlos;Gómez Hernández;Ingeniería de Sistemas;Ingeniería;25;Masculino;2.81;65.64;Virtual;Ninguna;20;Medio;Ninguna;Media;Regular;12;No;No Aplica;Medio Riesgo;0.502899381
+VS2024284;Sofía Valeria;Flores Hernández;Medicina;Ciencias de la Salud;28;Femenino;4.45;65.64;Virtual;Ninguna;0;Alto;Club Académico;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.416801183
+AZ2024285;Valeria Ana;Gómez Hernández;Arquitectura;Artes y Diseño;29;Otro;2.05;54.68;Virtual;Ninguna;0;Bajo;Arte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.491851054
+VZ2024286;Ana Valeria;Ramírez Torres;Ingeniería Civil;Ingeniería;23;Masculino;3.23;76.87;Presencial;Ninguna;20;Medio;Arte;Baja;Regular;15;Sí;Trabajo;Medio Riesgo;0.455991358
+VZ2024287;Juan Valeria;Rodríguez González;Biología;Ciencias de la Salud;25;Femenino;4.97;98.06;Presencial;Ninguna;0;Bajo;Voluntariado;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.319005522
+SZ2024288;Luis Sofía;Hernández Gómez;Enfermería;Ciencias de la Salud;20;Masculino;4.27;98.66;Mixta;Parcial;30;Alto;Arte;Baja;Regular;12;No;No Aplica;Bajo Riesgo;0.386180051
+JZ2024289;Jorge Juan;Martínez Torres;Economía;Ciencias Económicas;18;Masculino;3.99;91.02;Mixta;Beca deportiva;10;Bajo;Arte;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.398543759
+LZ2024290;María Laura;González Díaz;Psicología;Humanidades;23;Masculino;4.64;51.53;Virtual;Ninguna;10;Bajo;Ninguna;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.546378467
+JZ2024291;Juan Jorge;Rodríguez Hernández;Biología;Ciencias de la Salud;17;Otro;4.67;55.38;Virtual;Ninguna;10;Medio;Arte;Alta;Regular;18;Sí;Problemas Familiares;Medio Riesgo;0.473504225
+LZ2024292;Juan Luis;Gómez Díaz;Enfermería;Ciencias de la Salud;29;Femenino;2.62;99.32;Virtual;Completa;40;Alto;Arte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.484869252
+CZ2024293;Carlos Carlos;Martínez Díaz;Biología;Ciencias de la Salud;22;Femenino;4.99;62.41;Presencial;Parcial;10;Medio;Deporte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.512832922
+DZ2024294;Diego Diego;Rodríguez Flores;Biología;Ciencias de la Salud;24;Otro;2.41;64.02;Virtual;Ninguna;30;Alto;Voluntariado;Media;Regular;18;No;No Aplica;Medio Riesgo;0.522508273
+VS2024295;Carlos Valeria;Torres Flores;Enfermería;Ciencias de la Salud;28;Femenino;4.24;68.27;Mixta;Completa;0;Alto;Ninguna;Media;Regular;12;No;No Aplica;Medio Riesgo;0.448230269
+JS2024296;Jorge Juan;Torres Martínez;Ingeniería de Sistemas;Ingeniería;23;Otro;4.36;51.86;Mixta;Completa;40;Medio;Deporte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.557667797
+PZ2024297;Lucía Pedro;Hernández Rodríguez;Biología;Ciencias de la Salud;18;Femenino;4.82;73.54;Presencial;Ninguna;10;Medio;Deporte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.525717497
+AZ2024298;Pedro Ana;Hernández Martínez;Enfermería;Ciencias de la Salud;24;Femenino;4.32;82.03;Presencial;Ninguna;30;Medio;Deporte;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.498581048
+SZ2024299;Diego Sofía;Gómez Ramírez;Derecho;Ciencias Jurídicas;17;Femenino;3.3;94.14;Mixta;Parcial;40;Medio;Deporte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.548931933
+AZ2024300;Juan Ana;Hernández Hernández;Ingeniería de Sistemas;Ingeniería;28;Femenino;2.05;68.52;Presencial;Parcial;30;Bajo;Club Académico;Media;Regular;15;Sí;Problemas Familiares;Medio Riesgo;0.512736184
+PZ2024301;Valeria Pedro;Díaz Hernández;Arquitectura;Artes y Diseño;20;Otro;3.26;97.51;Presencial;Ninguna;0;Alto;Deporte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.420171492
+MZ2024302;Luis María;Hernández Flores;Ingeniería de Sistemas;Ingeniería;22;Masculino;4.05;63.41;Mixta;Ninguna;40;Bajo;Ninguna;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.595497831
+LS2024303;Sofía Laura;Torres Gómez;Enfermería;Ciencias de la Salud;30;Otro;4.9;67.58;Virtual;Ninguna;40;Alto;Club Académico;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.407726694
+VZ2024304;Valeria Valeria;Rodríguez Pérez;Contabilidad;Ciencias Económicas;30;Masculino;4.24;51.75;Presencial;Parcial;30;Medio;Ninguna;Alta;Regular;21;Sí;Carga Académica;Medio Riesgo;0.459619166
+SZ2024305;María Sofía;González Hernández;Comunicación Social;Humanidades;29;Masculino;2.92;96.97;Mixta;Ninguna;30;Medio;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.437133748
+JZ2024306;Jorge Juan;Hernández Ramírez;Economía;Ciencias Económicas;17;Femenino;3.17;94.9;Presencial;Ninguna;0;Bajo;Deporte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.437644459
+VZ2024307;Diego Valeria;Ramírez Torres;Medicina;Ciencias de la Salud;24;Masculino;3.5;85.29;Virtual;Ninguna;10;Bajo;Arte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.431518191
+VZ2024308;Pedro Valeria;Hernández Flores;Psicología;Humanidades;21;Masculino;3.76;55.44;Mixta;Ninguna;40;Bajo;Club Académico;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.569173255
+JZ2024309;Jorge Jorge;Pérez Gómez;Ingeniería Civil;Ingeniería;17;Otro;2.06;54.23;Presencial;Beca académica;40;Bajo;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.606816107
+MZ2024310;Pedro María;Martínez Hernández;Arquitectura;Artes y Diseño;17;Femenino;4.63;61.76;Mixta;Parcial;20;Medio;Club Académico;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.518907979
+AZ2024311;Lucía Ana;Díaz Díaz;Derecho;Ciencias Jurídicas;30;Otro;2.26;56.02;Mixta;Ninguna;20;Medio;Voluntariado;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.565631267
+AS2024312;Jorge Ana;Flores Torres;Derecho;Ciencias Jurídicas;22;Femenino;4.39;83.77;Mixta;Ninguna;40;Bajo;Ninguna;Media;Malo;18;No;No Aplica;Medio Riesgo;0.484617911
+JS2024313;Sofía Juan;Flores Díaz;Enfermería;Ciencias de la Salud;21;Masculino;2.3;73.13;Virtual;Parcial;20;Alto;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.574537548
+LZ2024314;Sofía Laura;Hernández Díaz;Biología;Ciencias de la Salud;25;Femenino;4.07;50.35;Presencial;Parcial;10;Alto;Arte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.598977042
+JZ2024315;María Jorge;Rodríguez Díaz;Contabilidad;Ciencias Económicas;24;Otro;4.12;79.1;Mixta;Ninguna;30;Bajo;Club Académico;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.499589568
+LZ2024316;Ana Luis;Pérez Torres;Medicina;Ciencias de la Salud;27;Otro;3.21;94.3;Presencial;Ninguna;20;Bajo;Arte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.449839811
+SS2024317;María Sofía;Flores González;Comunicación Social;Humanidades;29;Otro;2.67;51.79;Mixta;Beca académica;10;Alto;Arte;Baja;Bueno;15;Sí;Falta de Motivación;Medio Riesgo;0.605179973
+JS2024318;Laura Juan;Torres Ramírez;Comunicación Social;Humanidades;23;Femenino;3.13;74.45;Virtual;Parcial;0;Medio;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.555117929
+LZ2024319;María Laura;Pérez Torres;Economía;Ciencias Económicas;21;Masculino;3.23;65.91;Presencial;Completa;20;Medio;Ninguna;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.53928369
+MZ2024320;Valeria María;Pérez Rodríguez;Arquitectura;Artes y Diseño;21;Otro;2.22;65.11;Virtual;Parcial;0;Alto;Ninguna;Media;Regular;15;No;No Aplica;Medio Riesgo;0.524132441
+VZ2024321;Diego Valeria;Hernández Torres;Contabilidad;Ciencias Económicas;21;Masculino;4.66;83.68;Mixta;Parcial;20;Bajo;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.5168986
+VZ2024322;Lucía Valeria;González Torres;Derecho;Ciencias Jurídicas;21;Otro;2.6;74.13;Virtual;Parcial;10;Alto;Ninguna;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.473076011
+MZ2024323;Lucía María;Martínez Torres;Diseño Gráfico;Artes y Diseño;22;Masculino;3.24;53.96;Presencial;Ninguna;20;Medio;Ninguna;Media;Regular;18;No;No Aplica;Medio Riesgo;0.545034041
+PZ2024324;Valeria Pedro;Hernández Díaz;Ingeniería de Sistemas;Ingeniería;20;Masculino;3.35;61.66;Presencial;Parcial;0;Bajo;Voluntariado;Media;Malo;12;No;No Aplica;Medio Riesgo;0.56072269
+JS2024325;Ana Jorge;Flores Rodríguez;Economía;Ciencias Económicas;26;Femenino;4.42;75.04;Virtual;Ninguna;40;Alto;Voluntariado;Baja;Malo;12;Sí;Trabajo;Medio Riesgo;0.45736247
+LZ2024326;Juan Lucía;Díaz Pérez;Arquitectura;Artes y Diseño;28;Femenino;2.87;68.09;Presencial;Ninguna;10;Bajo;Club Académico;Media;Regular;21;No;No Aplica;Medio Riesgo;0.483765062
+LZ2024327;Pedro Laura;Rodríguez González;Ingeniería Civil;Ingeniería;26;Otro;4.36;55.03;Presencial;Ninguna;40;Alto;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.549675367
+DZ2024328;Laura Diego;González Pérez;Administración de Empresas;Ciencias Económicas;24;Masculino;3.88;85.93;Presencial;Ninguna;20;Alto;Voluntariado;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.472341595
+VZ2024329;María Valeria;Rodríguez Pérez;Ingeniería Civil;Ingeniería;18;Otro;3.4;80.37;Mixta;Beca deportiva;20;Alto;Voluntariado;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.464898562
+MZ2024330;Lucía María;Rodríguez Ramírez;Diseño Gráfico;Artes y Diseño;22;Femenino;4.88;87.99;Mixta;Beca académica;20;Medio;Deporte;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.374837354
+LZ2024331;Luis Lucía;Hernández Gómez;Derecho;Ciencias Jurídicas;29;Femenino;2.46;70.73;Virtual;Ninguna;10;Alto;Deporte;Baja;Malo;18;Sí;Problemas de Salud;Medio Riesgo;0.498218756
+JZ2024332;María Jorge;Díaz Ramírez;Biología;Ciencias de la Salud;26;Masculino;4.19;83.47;Mixta;Parcial;40;Bajo;Arte;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.395636462
+SZ2024333;Sofía Sofía;Martínez Torres;Economía;Ciencias Económicas;17;Femenino;3.97;68.08;Presencial;Ninguna;30;Bajo;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.54974905
+LZ2024334;Luis Laura;Díaz Gómez;Diseño Gráfico;Artes y Diseño;18;Masculino;3.57;59.11;Presencial;Parcial;40;Bajo;Arte;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.627557439
+JS2024335;Luis Jorge;Torres Pérez;Medicina;Ciencias de la Salud;24;Femenino;3.86;96.9;Virtual;Completa;10;Medio;Deporte;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.451769318
+AZ2024336;Carlos Ana;Díaz Pérez;Administración de Empresas;Ciencias Económicas;28;Otro;3.07;95.81;Presencial;Parcial;40;Bajo;Deporte;Media;Regular;12;Sí;Carga Académica;Medio Riesgo;0.410706297
+DZ2024337;Juan Diego;Rodríguez Díaz;Biología;Ciencias de la Salud;19;Femenino;2.55;51.91;Virtual;Parcial;40;Bajo;Arte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.661206096
+VS2024338;Laura Valeria;Flores Ramírez;Enfermería;Ciencias de la Salud;28;Otro;2.46;61.38;Virtual;Ninguna;20;Medio;Arte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.494093954
+LS2024339;Diego Luis;Torres Martínez;Arquitectura;Artes y Diseño;19;Masculino;4.06;52.27;Virtual;Parcial;30;Bajo;Deporte;Baja;Regular;21;Sí;Problemas Económicos;Medio Riesgo;0.51581732
+JZ2024340;Ana Juan;Gómez Rodríguez;Economía;Ciencias Económicas;17;Masculino;2.42;50.32;Presencial;Parcial;30;Alto;Arte;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.660414002
+PZ2024341;Ana Pedro;Ramírez Martínez;Derecho;Ciencias Jurídicas;17;Femenino;4.8;50.06;Virtual;Ninguna;30;Bajo;Club Académico;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.510388498
+LZ2024342;Lucía Lucía;Gómez Gómez;Ingeniería Civil;Ingeniería;23;Masculino;4.77;59.53;Virtual;Ninguna;40;Bajo;Club Académico;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.445210631
+JZ2024343;Sofía Jorge;Díaz Gómez;Ingeniería de Sistemas;Ingeniería;20;Otro;2.64;64.45;Mixta;Ninguna;10;Alto;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.5382266
+JZ2024344;Pedro Jorge;González Díaz;Ingeniería Civil;Ingeniería;27;Femenino;3.49;73.62;Presencial;Ninguna;0;Medio;Arte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.521132629
+JZ2024345;María Jorge;Rodríguez Torres;Administración de Empresas;Ciencias Económicas;19;Femenino;3.29;84.85;Virtual;Ninguna;0;Bajo;Club Académico;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.534643375
+AZ2024346;Ana Ana;González Hernández;Ingeniería de Sistemas;Ingeniería;23;Femenino;2.55;80.71;Virtual;Parcial;30;Alto;Deporte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.474049607
+MZ2024347;María María;Gómez Gómez;Contabilidad;Ciencias Económicas;23;Otro;4.46;85.07;Presencial;Parcial;30;Bajo;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.426371355
+JZ2024348;Jorge Jorge;Gómez Pérez;Biología;Ciencias de la Salud;28;Otro;3.97;96.31;Mixta;Completa;0;Bajo;Voluntariado;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.343531924
+VS2024349;Lucía Valeria;Torres Flores;Economía;Ciencias Económicas;25;Femenino;3.39;51.64;Mixta;Parcial;0;Bajo;Deporte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.600362106
+DZ2024350;Carlos Diego;Rodríguez Torres;Economía;Ciencias Económicas;21;Femenino;4.11;83.96;Presencial;Parcial;10;Medio;Voluntariado;Media;Malo;12;No;No Aplica;Medio Riesgo;0.477574063
+JZ2024351;Carlos Jorge;Martínez Gómez;Derecho;Ciencias Jurídicas;21;Masculino;3.46;78.37;Mixta;Ninguna;20;Medio;Ninguna;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.547841395
+JZ2024352;Juan Juan;Díaz Martínez;Contabilidad;Ciencias Económicas;18;Masculino;2.25;88.84;Presencial;Ninguna;30;Alto;Arte;Media;Regular;21;Sí;Falta de Motivación;Medio Riesgo;0.48606043
+LZ2024353;Ana Luis;González Pérez;Biología;Ciencias de la Salud;17;Masculino;2.41;70.13;Presencial;Ninguna;20;Alto;Club Académico;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.560823055
+DZ2024354;Pedro Diego;Martínez Ramírez;Contabilidad;Ciencias Económicas;30;Femenino;4.55;54.87;Presencial;Ninguna;30;Medio;Club Académico;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.547560409
+JZ2024355;María Juan;Ramírez Hernández;Biología;Ciencias de la Salud;17;Femenino;4.75;90.78;Virtual;Ninguna;20;Medio;Deporte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.496323908
+JZ2024356;María Juan;Martínez Flores;Comunicación Social;Humanidades;19;Masculino;4.59;88.02;Virtual;Ninguna;30;Bajo;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.465558943
+CS2024357;Juan Carlos;Torres Pérez;Biología;Ciencias de la Salud;29;Masculino;4.6;67.58;Mixta;Ninguna;20;Bajo;Ninguna;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.496226752
+JZ2024358;Diego Jorge;Ramírez Díaz;Derecho;Ciencias Jurídicas;21;Femenino;2.47;98.61;Virtual;Ninguna;20;Bajo;Arte;Baja;Malo;18;Sí;Problemas de Salud;Medio Riesgo;0.454745236
+MS2024359;Juan María;Torres González;Derecho;Ciencias Jurídicas;27;Femenino;4.98;80.11;Virtual;Completa;0;Medio;Deporte;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.411892581
+MZ2024360;Jorge María;Martínez Flores;Economía;Ciencias Económicas;27;Masculino;4.29;74.3;Mixta;Parcial;20;Medio;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.488731942
+VZ2024361;Ana Valeria;Rodríguez Martínez;Ingeniería de Sistemas;Ingeniería;27;Masculino;2.32;94.13;Mixta;Ninguna;0;Medio;Arte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.45702694
+SZ2024362;Lucía Sofía;Pérez González;Derecho;Ciencias Jurídicas;19;Femenino;4.25;66.5;Presencial;Completa;0;Alto;Arte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.44417866
+LZ2024363;Laura Lucía;Hernández Flores;Medicina;Ciencias de la Salud;19;Femenino;4.5;60.88;Presencial;Ninguna;10;Alto;Deporte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.538441751
+LS2024364;Sofía Lucía;Flores Rodríguez;Comunicación Social;Humanidades;24;Otro;4.1;98.44;Mixta;Ninguna;0;Alto;Club Académico;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.347431232
+MZ2024365;Sofía María;Martínez Pérez;Psicología;Humanidades;18;Otro;3.06;76.67;Mixta;Completa;20;Medio;Voluntariado;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.470124202
+JZ2024366;Jorge Jorge;Pérez Díaz;Economía;Ciencias Económicas;26;Femenino;4.35;87.13;Mixta;Parcial;0;Bajo;Deporte;Media;Malo;15;Sí;Problemas de Salud;Medio Riesgo;0.443717517
+JZ2024367;Valeria Juan;Rodríguez Pérez;Comunicación Social;Humanidades;18;Otro;2.72;79.18;Mixta;Ninguna;30;Medio;Voluntariado;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.598937733
+PS2024368;Ana Pedro;Torres Hernández;Comunicación Social;Humanidades;18;Masculino;2.24;51.65;Mixta;Ninguna;40;Medio;Club Académico;Baja;Bueno;18;Sí;Carga Académica;Medio Riesgo;0.671724026
+JZ2024369;Valeria Juan;Ramírez Hernández;Economía;Ciencias Económicas;22;Femenino;3.26;91.49;Presencial;Ninguna;40;Alto;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.482762125
+DZ2024370;Diego Diego;Hernández Díaz;Arquitectura;Artes y Diseño;27;Femenino;4.99;66.7;Presencial;Beca deportiva;20;Bajo;Ninguna;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.420963174
+LZ2024371;Valeria Luis;Ramírez Torres;Psicología;Humanidades;28;Femenino;2.8;85.02;Virtual;Ninguna;10;Medio;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.480154483
+JZ2024372;Ana Juan;Rodríguez Díaz;Diseño Gráfico;Artes y Diseño;26;Femenino;2.13;64.73;Presencial;Ninguna;0;Alto;Arte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.540128873
+CZ2024373;María Carlos;Hernández Hernández;Biología;Ciencias de la Salud;17;Masculino;4.53;55.05;Presencial;Ninguna;40;Alto;Voluntariado;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.537663563
+MZ2024374;Laura María;Ramírez Martínez;Ingeniería de Sistemas;Ingeniería;26;Otro;3.64;56.48;Mixta;Ninguna;0;Alto;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.556027808
+JS2024375;Valeria Juan;Flores Díaz;Ingeniería de Sistemas;Ingeniería;27;Masculino;2.13;58.4;Mixta;Beca deportiva;40;Alto;Voluntariado;Media;Malo;21;No;No Aplica;Medio Riesgo;0.596234221
+MZ2024376;Laura María;Hernández Gómez;Administración de Empresas;Ciencias Económicas;21;Otro;4.52;87.07;Mixta;Ninguna;0;Alto;Club Académico;Alta;Regular;21;No;No Aplica;Bajo Riesgo;0.378789681
+DZ2024377;Jorge Diego;Ramírez Hernández;Contabilidad;Ciencias Económicas;27;Otro;2.37;70.11;Presencial;Ninguna;10;Bajo;Voluntariado;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.520121287
+PZ2024378;Pedro Pedro;Gómez Torres;Ingeniería Civil;Ingeniería;26;Masculino;4.33;53.21;Presencial;Ninguna;30;Medio;Voluntariado;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.592054187
+AZ2024379;Sofía Ana;Díaz Ramírez;Ingeniería de Sistemas;Ingeniería;27;Otro;2.59;57.92;Virtual;Ninguna;0;Medio;Deporte;Baja;Regular;12;Sí;Problemas de Salud;Medio Riesgo;0.496505756
+JS2024380;Lucía Jorge;Flores Rodríguez;Ingeniería de Sistemas;Ingeniería;26;Otro;4.84;82.99;Mixta;Ninguna;30;Bajo;Club Académico;Media;Malo;12;Sí;Trabajo;Medio Riesgo;0.454819371
+VZ2024381;Ana Valeria;Díaz Torres;Administración de Empresas;Ciencias Económicas;22;Masculino;4.54;90.13;Presencial;Ninguna;0;Alto;Voluntariado;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.418028007
+JZ2024382;Valeria Juan;Gómez Pérez;Contabilidad;Ciencias Económicas;26;Femenino;4.93;74.86;Mixta;Ninguna;20;Medio;Voluntariado;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.394713073
+PZ2024383;Jorge Pedro;González Torres;Derecho;Ciencias Jurídicas;20;Otro;2.28;58;Mixta;Parcial;30;Alto;Arte;Alta;Regular;21;Sí;Carga Académica;Medio Riesgo;0.537638452
+LZ2024384;Laura Luis;Hernández Flores;Arquitectura;Artes y Diseño;20;Otro;4.34;82.64;Mixta;Ninguna;30;Medio;Arte;Media;Malo;12;Sí;Problemas de Salud;Medio Riesgo;0.495136523
+JZ2024385;Valeria Juan;González Gómez;Contabilidad;Ciencias Económicas;19;Masculino;4.78;97.52;Virtual;Beca académica;30;Alto;Club Académico;Baja;Regular;21;No;No Aplica;Bajo Riesgo;0.365737776
+VZ2024386;Sofía Valeria;González Díaz;Arquitectura;Artes y Diseño;27;Masculino;3.79;99.52;Mixta;Ninguna;0;Alto;Ninguna;Alta;Malo;15;Sí;Trabajo;Bajo Riesgo;0.38137516
+JZ2024387;María Jorge;Gómez Pérez;Ingeniería de Sistemas;Ingeniería;30;Otro;4.14;59.91;Mixta;Ninguna;40;Alto;Voluntariado;Media;Bueno;18;Sí;Carga Académica;Medio Riesgo;0.570040467
+PZ2024388;Diego Pedro;González Flores;Derecho;Ciencias Jurídicas;20;Otro;4.85;62.66;Presencial;Ninguna;30;Alto;Deporte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.509461188
+PS2024389;Valeria Pedro;Flores Flores;Biología;Ciencias de la Salud;22;Otro;3.85;90.89;Presencial;Ninguna;0;Medio;Ninguna;Baja;Regular;15;No;No Aplica;Bajo Riesgo;0.395635094
+CZ2024390;María Carlos;Pérez Martínez;Contabilidad;Ciencias Económicas;20;Otro;4;83.87;Virtual;Ninguna;40;Medio;Ninguna;Alta;Malo;21;Sí;Carga Académica;Medio Riesgo;0.452218141
+CZ2024391;Carlos Carlos;González Martínez;Comunicación Social;Humanidades;28;Masculino;3.75;62.46;Virtual;Ninguna;20;Alto;Deporte;Media;Regular;21;No;No Aplica;Medio Riesgo;0.470998258
+MS2024392;Diego María;Torres González;Ingeniería Civil;Ingeniería;23;Femenino;2.19;98.94;Mixta;Ninguna;20;Medio;Club Académico;Media;Regular;15;No;No Aplica;Medio Riesgo;0.445948017
+DZ2024393;Valeria Diego;Hernández Díaz;Arquitectura;Artes y Diseño;22;Femenino;4.01;60.14;Mixta;Ninguna;40;Bajo;Club Académico;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.48305059
+JZ2024394;Luis Jorge;Hernández Ramírez;Arquitectura;Artes y Diseño;20;Masculino;4.92;53.47;Virtual;Parcial;30;Alto;Club Académico;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.526685623
+LZ2024395;Lucía Laura;González González;Psicología;Humanidades;23;Masculino;4.34;55.6;Presencial;Parcial;10;Alto;Club Académico;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.56666731
+LZ2024396;Lucía Lucía;Ramírez Hernández;Ingeniería Civil;Ingeniería;25;Masculino;3.86;80.89;Mixta;Parcial;30;Bajo;Voluntariado;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.515993392
+CZ2024397;Luis Carlos;Hernández Gómez;Psicología;Humanidades;27;Otro;2.97;92.34;Presencial;Completa;20;Bajo;Club Académico;Media;Regular;18;No;No Aplica;Medio Riesgo;0.419078582
+JS2024398;Valeria Juan;Torres Torres;Administración de Empresas;Ciencias Económicas;17;Masculino;4.73;77.61;Mixta;Parcial;0;Medio;Voluntariado;Media;Regular;15;No;No Aplica;Medio Riesgo;0.455681277
+SZ2024399;Diego Sofía;Pérez Díaz;Enfermería;Ciencias de la Salud;24;Femenino;2.06;65.16;Virtual;Beca académica;40;Medio;Deporte;Media;Malo;12;Sí;Problemas Familiares;Medio Riesgo;0.579459259
+PZ2024400;Diego Pedro;Ramírez Ramírez;Medicina;Ciencias de la Salud;19;Masculino;3.97;83.4;Presencial;Completa;10;Bajo;Ninguna;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.532417249
+PS2024401;Pedro Pedro;Flores Gómez;Psicología;Humanidades;21;Femenino;3.78;90.04;Presencial;Ninguna;0;Medio;Club Académico;Baja;Regular;18;Sí;Falta de Motivación;Medio Riesgo;0.40366179
+PS2024402;María Pedro;Torres Rodríguez;Contabilidad;Ciencias Económicas;19;Femenino;3.47;72.22;Mixta;Ninguna;0;Alto;Voluntariado;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.542770643
+JZ2024403;Lucía Jorge;Gómez Díaz;Economía;Ciencias Económicas;21;Masculino;3.04;52.53;Virtual;Ninguna;10;Medio;Voluntariado;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.613222521
+CZ2024404;Laura Carlos;González Ramírez;Economía;Ciencias Económicas;18;Masculino;3.47;63.09;Mixta;Ninguna;30;Medio;Arte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.588836163
+MZ2024405;Valeria María;Gómez Gómez;Contabilidad;Ciencias Económicas;18;Otro;3.03;95.09;Mixta;Parcial;0;Medio;Deporte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.409904096
+MZ2024406;Valeria María;Díaz Ramírez;Administración de Empresas;Ciencias Económicas;18;Masculino;3.71;79.6;Virtual;Ninguna;30;Medio;Voluntariado;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.538293201
+LZ2024407;Carlos Lucía;Hernández Díaz;Ingeniería de Sistemas;Ingeniería;29;Otro;3.81;93.65;Virtual;Ninguna;10;Bajo;Club Académico;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.422453436
+CZ2024408;Pedro Carlos;Gómez Ramírez;Arquitectura;Artes y Diseño;17;Masculino;4.09;52.46;Mixta;Ninguna;40;Alto;Deporte;Alta;Bueno;18;Sí;Problemas Familiares;Medio Riesgo;0.606647839
+SS2024409;María Sofía;Torres González;Medicina;Ciencias de la Salud;29;Otro;4.47;94.73;Presencial;Completa;40;Medio;Deporte;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.460294816
+SZ2024410;Laura Sofía;Gómez Pérez;Enfermería;Ciencias de la Salud;23;Femenino;2.8;56.33;Mixta;Ninguna;20;Medio;Deporte;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.577957737
+PS2024411;Laura Pedro;Flores Torres;Biología;Ciencias de la Salud;20;Otro;4.68;70.14;Mixta;Parcial;0;Alto;Ninguna;Alta;Malo;21;Sí;Trabajo;Medio Riesgo;0.46898749
+CZ2024412;Juan Carlos;Gómez Flores;Derecho;Ciencias Jurídicas;27;Otro;3.27;77.18;Mixta;Ninguna;20;Alto;Deporte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.460376751
+JZ2024413;Ana Juan;González Ramírez;Arquitectura;Artes y Diseño;20;Otro;4.87;90.73;Virtual;Ninguna;30;Alto;Deporte;Media;Bueno;18;Sí;Problemas Familiares;Medio Riesgo;0.481395074
+AZ2024414;Juan Ana;Rodríguez Hernández;Arquitectura;Artes y Diseño;19;Femenino;4.88;96.1;Mixta;Ninguna;30;Medio;Deporte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.427192956
+JZ2024415;Valeria Juan;González Ramírez;Diseño Gráfico;Artes y Diseño;22;Femenino;2.03;81.1;Mixta;Ninguna;20;Alto;Ninguna;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.570027146
+JZ2024416;Luis Juan;Rodríguez Torres;Administración de Empresas;Ciencias Económicas;19;Masculino;4.23;90.65;Mixta;Ninguna;10;Alto;Deporte;Media;Malo;12;Sí;Problemas Familiares;Medio Riesgo;0.466599439
+CZ2024417;Diego Carlos;Díaz González;Enfermería;Ciencias de la Salud;30;Masculino;3.16;99.85;Presencial;Parcial;40;Bajo;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.474509527
+CZ2024418;Ana Carlos;Hernández Rodríguez;Arquitectura;Artes y Diseño;19;Otro;4.17;79.27;Presencial;Completa;40;Bajo;Ninguna;Media;Malo;18;No;No Aplica;Medio Riesgo;0.507961406
+MS2024419;Diego María;Torres Ramírez;Ingeniería de Sistemas;Ingeniería;20;Masculino;2.64;87.75;Presencial;Ninguna;0;Alto;Ninguna;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.526751012
+CZ2024420;Jorge Carlos;Díaz González;Administración de Empresas;Ciencias Económicas;24;Femenino;4.13;69.4;Presencial;Ninguna;10;Medio;Ninguna;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.488887948
+LS2024421;Carlos Lucía;Flores Gómez;Enfermería;Ciencias de la Salud;28;Masculino;3.05;67.44;Presencial;Parcial;0;Bajo;Voluntariado;Media;Malo;12;Sí;Falta de Motivación;Medio Riesgo;0.520192789
+AZ2024422;Carlos Ana;Pérez Díaz;Diseño Gráfico;Artes y Diseño;27;Masculino;3.8;54.43;Presencial;Ninguna;0;Bajo;Deporte;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.523371805
+PS2024423;Ana Pedro;Flores Díaz;Derecho;Ciencias Jurídicas;28;Otro;4.67;90.61;Presencial;Ninguna;20;Medio;Deporte;Baja;Regular;15;No;No Aplica;Bajo Riesgo;0.360825186
+PZ2024424;Ana Pedro;Ramírez Martínez;Medicina;Ciencias de la Salud;25;Otro;4.99;79.12;Mixta;Completa;40;Bajo;Club Académico;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.476266834
+SZ2024425;Jorge Sofía;González Díaz;Ingeniería Civil;Ingeniería;23;Otro;2.98;50.04;Presencial;Parcial;30;Bajo;Club Académico;Media;Malo;12;No;No Aplica;Medio Riesgo;0.603668742
+LZ2024426;Sofía Laura;Rodríguez Gómez;Arquitectura;Artes y Diseño;19;Otro;4.14;57.87;Presencial;Ninguna;10;Alto;Deporte;Alta;Malo;21;Sí;Falta de Motivación;Medio Riesgo;0.519672917
+PS2024427;Luis Pedro;Flores Pérez;Arquitectura;Artes y Diseño;21;Otro;2.97;61.03;Mixta;Ninguna;0;Alto;Deporte;Alta;Regular;21;Sí;Trabajo;Medio Riesgo;0.49402115
+LS2024428;Luis Laura;Torres Rodríguez;Medicina;Ciencias de la Salud;22;Femenino;4.38;59.64;Presencial;Ninguna;20;Medio;Deporte;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.479296281
+CZ2024429;Diego Carlos;Díaz Torres;Ingeniería de Sistemas;Ingeniería;30;Masculino;2.25;89.63;Mixta;Ninguna;10;Medio;Voluntariado;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.464101273
+JZ2024430;María Jorge;Pérez Rodríguez;Psicología;Humanidades;17;Femenino;4.39;64.24;Presencial;Beca deportiva;20;Alto;Club Académico;Baja;Regular;18;Sí;Problemas de Salud;Medio Riesgo;0.481638868
+SS2024431;Jorge Sofía;Flores Ramírez;Economía;Ciencias Económicas;21;Otro;2.44;71.7;Presencial;Beca deportiva;10;Medio;Arte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.564068829
+JZ2024432;Valeria Juan;Díaz Rodríguez;Diseño Gráfico;Artes y Diseño;19;Otro;3.9;81.73;Presencial;Beca deportiva;30;Medio;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.505913397
+JZ2024433;Pedro Juan;Gómez Gómez;Derecho;Ciencias Jurídicas;21;Femenino;2.38;97.35;Virtual;Ninguna;10;Alto;Ninguna;Alta;Regular;15;No;No Aplica;Bajo Riesgo;0.394135594
+LZ2024434;Jorge Luis;Pérez Torres;Arquitectura;Artes y Diseño;20;Femenino;3.74;68.98;Presencial;Ninguna;40;Alto;Arte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.500103848
+DZ2024435;Carlos Diego;Pérez González;Psicología;Humanidades;25;Femenino;4.23;77.18;Virtual;Ninguna;20;Medio;Club Académico;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.499356994
+AZ2024436;Carlos Ana;González Hernández;Ingeniería de Sistemas;Ingeniería;27;Masculino;4.41;78.11;Mixta;Ninguna;40;Alto;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.50345563
+VZ2024437;Ana Valeria;Rodríguez Flores;Biología;Ciencias de la Salud;28;Masculino;4.57;93.67;Virtual;Ninguna;40;Bajo;Arte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.455057899
+DZ2024438;Valeria Diego;Díaz Rodríguez;Enfermería;Ciencias de la Salud;17;Femenino;4.53;67.61;Mixta;Ninguna;0;Alto;Voluntariado;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.51101581
+LZ2024439;Ana Luis;Gómez Rodríguez;Ingeniería Civil;Ingeniería;20;Masculino;2.76;59.12;Presencial;Ninguna;30;Alto;Ninguna;Alta;Bueno;18;Sí;Problemas Económicos;Medio Riesgo;0.599456447
+PS2024440;Carlos Pedro;Flores Ramírez;Diseño Gráfico;Artes y Diseño;27;Masculino;3.35;94.06;Presencial;Parcial;30;Bajo;Deporte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.450867083
+JZ2024441;Laura Juan;Hernández Ramírez;Derecho;Ciencias Jurídicas;17;Femenino;3.57;90.03;Presencial;Ninguna;10;Bajo;Voluntariado;Media;Regular;15;No;No Aplica;Medio Riesgo;0.445110178
+CZ2024442;Valeria Carlos;Martínez Torres;Medicina;Ciencias de la Salud;28;Otro;3.61;93.79;Virtual;Parcial;10;Bajo;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.431227866
+PZ2024443;Carlos Pedro;González Martínez;Arquitectura;Artes y Diseño;19;Femenino;2.55;93.01;Presencial;Parcial;30;Alto;Deporte;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.51148238
+JZ2024444;Laura Juan;Díaz Díaz;Derecho;Ciencias Jurídicas;17;Masculino;4.34;92.63;Mixta;Ninguna;40;Alto;Deporte;Baja;Bueno;21;Sí;Carga Académica;Medio Riesgo;0.502943721
+DS2024445;Carlos Diego;Torres Rodríguez;Contabilidad;Ciencias Económicas;27;Otro;2.18;86.91;Virtual;Ninguna;0;Medio;Deporte;Baja;Regular;18;Sí;Problemas Familiares;Medio Riesgo;0.423478341
+JZ2024446;Pedro Jorge;Pérez Gómez;Economía;Ciencias Económicas;26;Femenino;4.16;82.12;Presencial;Ninguna;40;Medio;Club Académico;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.517358498
+JZ2024447;Carlos Juan;Martínez Díaz;Psicología;Humanidades;20;Masculino;3.79;89.83;Virtual;Ninguna;10;Bajo;Club Académico;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.444910806
+JZ2024448;Carlos Jorge;Gómez González;Contabilidad;Ciencias Económicas;18;Femenino;4.45;59.51;Presencial;Completa;0;Bajo;Voluntariado;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.551739565
+SZ2024449;Sofía Sofía;Rodríguez Flores;Medicina;Ciencias de la Salud;28;Masculino;2.3;95.29;Mixta;Parcial;40;Alto;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.487347153
+SZ2024450;Diego Sofía;Ramírez González;Enfermería;Ciencias de la Salud;26;Masculino;4.61;99.9;Mixta;Beca académica;40;Alto;Voluntariado;Baja;Malo;15;No;No Aplica;Bajo Riesgo;0.396488915
+JZ2024451;Ana Jorge;Martínez Torres;Contabilidad;Ciencias Económicas;22;Femenino;3.57;84.92;Presencial;Ninguna;0;Bajo;Deporte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.460622678
+PS2024452;Sofía Pedro;Torres Díaz;Arquitectura;Artes y Diseño;21;Femenino;3.49;50.91;Virtual;Parcial;40;Alto;Arte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.553856059
+JZ2024453;Diego Jorge;Martínez Torres;Diseño Gráfico;Artes y Diseño;21;Femenino;3.36;52.31;Virtual;Parcial;20;Bajo;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.565521532
+LZ2024454;Carlos Lucía;Gómez Díaz;Contabilidad;Ciencias Económicas;23;Masculino;4.84;69.8;Virtual;Completa;30;Medio;Arte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.430108576
+LZ2024455;Juan Laura;González Martínez;Economía;Ciencias Económicas;22;Femenino;3.44;94.17;Presencial;Ninguna;30;Medio;Deporte;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.43305454
+SZ2024456;Valeria Sofía;Ramírez Hernández;Psicología;Humanidades;29;Femenino;4.74;96.86;Mixta;Ninguna;40;Alto;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.414047928
+MZ2024457;Laura María;Díaz González;Ingeniería de Sistemas;Ingeniería;25;Femenino;3.09;73.59;Virtual;Completa;30;Alto;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.478500992
+DZ2024458;Luis Diego;Díaz Díaz;Administración de Empresas;Ciencias Económicas;28;Otro;2.59;59.68;Virtual;Ninguna;30;Medio;Arte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.56148273
+LS2024459;Pedro Lucía;Flores Torres;Diseño Gráfico;Artes y Diseño;24;Otro;2.3;56.87;Mixta;Ninguna;20;Medio;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.585607082
+PZ2024460;Sofía Pedro;Gómez Martínez;Ingeniería Civil;Ingeniería;27;Femenino;2.28;79.38;Virtual;Parcial;30;Bajo;Deporte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.514620318
+LZ2024461;Carlos Laura;Hernández Ramírez;Administración de Empresas;Ciencias Económicas;25;Femenino;3.13;76.19;Presencial;Ninguna;30;Medio;Club Académico;Media;Malo;18;No;No Aplica;Medio Riesgo;0.518771646
+SZ2024462;Pedro Sofía;Rodríguez Pérez;Economía;Ciencias Económicas;17;Otro;4.02;52.15;Presencial;Ninguna;30;Medio;Voluntariado;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.577778537
+JZ2024463;Carlos Juan;Martínez Gómez;Ingeniería Civil;Ingeniería;30;Otro;4.3;60.46;Presencial;Ninguna;20;Alto;Arte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.443324148
+JZ2024464;Sofía Juan;Gómez González;Comunicación Social;Humanidades;29;Masculino;3.46;52.23;Virtual;Completa;40;Medio;Club Académico;Media;Malo;21;No;No Aplica;Medio Riesgo;0.559977356
+AZ2024465;Valeria Ana;Martínez Pérez;Diseño Gráfico;Artes y Diseño;25;Femenino;2.55;74.34;Presencial;Ninguna;0;Bajo;Voluntariado;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.463427609
+JS2024466;Lucía Juan;Torres Díaz;Arquitectura;Artes y Diseño;21;Otro;2.89;50.5;Virtual;Ninguna;0;Medio;Voluntariado;Media;Regular;12;No;No Aplica;Medio Riesgo;0.552567919
+MZ2024467;Valeria María;Gómez Torres;Comunicación Social;Humanidades;25;Masculino;4.76;58.2;Virtual;Ninguna;0;Medio;Ninguna;Media;Bueno;15;Sí;Falta de Motivación;Medio Riesgo;0.550811019
+LZ2024468;Ana Luis;Rodríguez Rodríguez;Comunicación Social;Humanidades;23;Otro;2.3;97.12;Presencial;Ninguna;10;Alto;Deporte;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.396550571
+VZ2024469;Carlos Valeria;Pérez Torres;Enfermería;Ciencias de la Salud;27;Femenino;2.99;72.12;Presencial;Ninguna;30;Alto;Club Académico;Media;Malo;12;Sí;Problemas de Salud;Medio Riesgo;0.522455349
+CZ2024470;Valeria Carlos;Pérez Torres;Derecho;Ciencias Jurídicas;18;Otro;2.31;50.55;Virtual;Ninguna;20;Medio;Club Académico;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.668515625
+LZ2024471;Jorge Lucía;Gómez González;Derecho;Ciencias Jurídicas;19;Otro;4.03;56.53;Mixta;Parcial;40;Bajo;Deporte;Media;Malo;12;Sí;Trabajo;Medio Riesgo;0.584998058
+LZ2024472;Diego Luis;González Torres;Ingeniería de Sistemas;Ingeniería;20;Masculino;2.52;81.35;Mixta;Beca deportiva;0;Alto;Ninguna;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.494262939
+MS2024473;Carlos María;Flores Ramírez;Economía;Ciencias Económicas;25;Otro;2.84;70.69;Presencial;Ninguna;20;Bajo;Ninguna;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.561084092
+CZ2024474;Laura Carlos;Hernández Rodríguez;Ingeniería Civil;Ingeniería;23;Femenino;2.42;97.36;Mixta;Ninguna;20;Medio;Club Académico;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.407931999
+VZ2024475;Valeria Valeria;Ramírez González;Arquitectura;Artes y Diseño;22;Otro;2.71;62.39;Mixta;Ninguna;40;Medio;Deporte;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.55662751
+MZ2024476;Ana María;Hernández Gómez;Derecho;Ciencias Jurídicas;21;Femenino;3.19;60.24;Mixta;Parcial;10;Alto;Deporte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.531770344
+SZ2024477;Lucía Sofía;Martínez Díaz;Arquitectura;Artes y Diseño;22;Otro;2.15;76.57;Mixta;Completa;10;Bajo;Arte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.534832701
+LS2024478;Sofía Luis;Torres Rodríguez;Ingeniería Civil;Ingeniería;28;Femenino;2.92;56.18;Virtual;Parcial;30;Medio;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.568890203
+MS2024479;Juan María;Flores Díaz;Contabilidad;Ciencias Económicas;27;Masculino;2.59;63.2;Mixta;Parcial;30;Medio;Voluntariado;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.508794789
+VZ2024480;Luis Valeria;Hernández Torres;Comunicación Social;Humanidades;21;Otro;3.18;91.95;Presencial;Ninguna;10;Medio;Club Académico;Media;Malo;15;No;No Aplica;Medio Riesgo;0.479233049
+DZ2024481;Juan Diego;Martínez Flores;Psicología;Humanidades;18;Femenino;2.05;73.52;Virtual;Parcial;0;Bajo;Voluntariado;Media;Malo;21;Sí;Problemas Económicos;Medio Riesgo;0.561314732
+LZ2024482;Jorge Laura;Ramírez Pérez;Psicología;Humanidades;18;Femenino;2.5;50.98;Mixta;Parcial;10;Medio;Club Académico;Media;Bueno;12;Sí;Problemas Económicos;Medio Riesgo;0.672888281
+MZ2024483;Juan María;Gómez Pérez;Comunicación Social;Humanidades;22;Otro;2.48;60.78;Presencial;Completa;40;Alto;Deporte;Media;Regular;21;No;No Aplica;Medio Riesgo;0.549743603
+AZ2024484;Luis Ana;González Ramírez;Ingeniería de Sistemas;Ingeniería;23;Femenino;2.24;59.13;Mixta;Parcial;40;Alto;Arte;Media;Bueno;12;Sí;Problemas de Salud;Medio Riesgo;0.64734479
+JZ2024485;Juan Juan;Pérez Hernández;Comunicación Social;Humanidades;27;Otro;4.05;73.72;Virtual;Ninguna;20;Medio;Arte;Media;Malo;12;Sí;Problemas Familiares;Medio Riesgo;0.481471526
+LZ2024486;Ana Lucía;Díaz Ramírez;Biología;Ciencias de la Salud;19;Femenino;4.44;69.77;Mixta;Beca deportiva;30;Alto;Club Académico;Media;Malo;18;No;No Aplica;Medio Riesgo;0.53003834
+PZ2024487;Sofía Pedro;Martínez Rodríguez;Economía;Ciencias Económicas;27;Masculino;4.3;64.2;Mixta;Ninguna;30;Alto;Deporte;Alta;Malo;12;Sí;Problemas de Salud;Medio Riesgo;0.480807609
+PZ2024488;Jorge Pedro;Rodríguez Torres;Enfermería;Ciencias de la Salud;30;Femenino;4.99;95.23;Presencial;Parcial;0;Alto;Voluntariado;Baja;Regular;12;No;No Aplica;Bajo Riesgo;0.322836539
+CZ2024489;Juan Carlos;Gómez Martínez;Arquitectura;Artes y Diseño;26;Otro;3.26;65.18;Mixta;Ninguna;0;Bajo;Club Académico;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.456196744
+AS2024490;Carlos Ana;Torres Martínez;Administración de Empresas;Ciencias Económicas;20;Femenino;2.96;70.36;Mixta;Parcial;40;Alto;Voluntariado;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.549413143
+VS2024491;Valeria Valeria;Torres Torres;Psicología;Humanidades;25;Femenino;3.07;67.38;Virtual;Beca académica;40;Alto;Club Académico;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.476441687
+JZ2024492;María Jorge;Pérez Ramírez;Diseño Gráfico;Artes y Diseño;19;Femenino;2.63;50.38;Mixta;Ninguna;30;Medio;Voluntariado;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.61835512
+SZ2024493;María Sofía;Díaz Ramírez;Comunicación Social;Humanidades;29;Otro;4.14;77.36;Presencial;Ninguna;40;Medio;Deporte;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.397029942
+PZ2024494;Jorge Pedro;Rodríguez Rodríguez;Medicina;Ciencias de la Salud;25;Masculino;2.52;71.57;Mixta;Ninguna;0;Alto;Voluntariado;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.477998451
+CZ2024495;Diego Carlos;Pérez Díaz;Arquitectura;Artes y Diseño;30;Femenino;3.53;50.52;Virtual;Ninguna;0;Alto;Voluntariado;Media;Regular;21;Sí;Falta de Motivación;Medio Riesgo;0.495544005
+LZ2024496;Diego Lucía;Martínez Flores;Enfermería;Ciencias de la Salud;18;Masculino;3.88;98.27;Virtual;Ninguna;10;Medio;Club Académico;Media;Malo;21;Sí;Trabajo;Medio Riesgo;0.446456992
+DS2024497;Ana Diego;Torres Torres;Ingeniería de Sistemas;Ingeniería;19;Otro;3.07;50.82;Mixta;Ninguna;30;Medio;Voluntariado;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.545276903
+CS2024498;Valeria Carlos;Torres Rodríguez;Biología;Ciencias de la Salud;29;Masculino;2.44;96.56;Virtual;Ninguna;30;Bajo;Club Académico;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.495640227
+JZ2024499;Pedro Juan;Rodríguez Díaz;Economía;Ciencias Económicas;23;Masculino;2.84;69.13;Presencial;Ninguna;0;Alto;Ninguna;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.52027701
+CZ2024500;Luis Carlos;Rodríguez Hernández;Biología;Ciencias de la Salud;22;Masculino;3.26;55.87;Mixta;Ninguna;10;Medio;Deporte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.52397999
+SZ2024501;María Sofía;Ramírez Hernández;Comunicación Social;Humanidades;26;Otro;3.15;91.84;Virtual;Ninguna;30;Bajo;Club Académico;Media;Malo;21;No;No Aplica;Medio Riesgo;0.458953297
+LZ2024502;Laura Laura;Pérez González;Medicina;Ciencias de la Salud;30;Otro;3.54;84.31;Presencial;Ninguna;0;Bajo;Deporte;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.389494774
+CZ2024503;Pedro Carlos;Rodríguez Pérez;Biología;Ciencias de la Salud;23;Masculino;4.12;64.64;Presencial;Ninguna;10;Bajo;Arte;Baja;Bueno;12;Sí;Trabajo;Medio Riesgo;0.548407697
+AZ2024504;Jorge Ana;Rodríguez Torres;Economía;Ciencias Económicas;17;Otro;3.65;69.3;Mixta;Parcial;10;Medio;Club Académico;Media;Regular;18;Sí;Problemas Económicos;Medio Riesgo;0.512950694
+LZ2024505;Ana Luis;González Ramírez;Ingeniería Civil;Ingeniería;30;Otro;4.21;55.56;Presencial;Ninguna;0;Medio;Deporte;Media;Regular;21;No;No Aplica;Medio Riesgo;0.474236213
+DZ2024506;Jorge Diego;Díaz Gómez;Economía;Ciencias Económicas;30;Femenino;3.79;92.78;Presencial;Ninguna;40;Alto;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.439226491
+LZ2024507;Laura Luis;Díaz Rodríguez;Arquitectura;Artes y Diseño;17;Masculino;4.91;90.05;Virtual;Parcial;0;Alto;Voluntariado;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.37884476
+JZ2024508;Pedro Juan;Rodríguez Flores;Administración de Empresas;Ciencias Económicas;17;Masculino;4.47;82.13;Virtual;Beca académica;0;Alto;Deporte;Media;Malo;21;No;No Aplica;Medio Riesgo;0.473494927
+LZ2024509;Juan Lucía;Martínez Ramírez;Psicología;Humanidades;18;Otro;4.58;89.62;Mixta;Parcial;20;Alto;Arte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.468293514
+LZ2024510;Laura Luis;Martínez Pérez;Administración de Empresas;Ciencias Económicas;27;Otro;3.61;78.91;Virtual;Completa;20;Alto;Ninguna;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.455644492
+PZ2024511;Valeria Pedro;Díaz Gómez;Administración de Empresas;Ciencias Económicas;21;Otro;4.03;80.09;Virtual;Completa;20;Alto;Deporte;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.50828031
+LS2024512;María Luis;Torres Gómez;Enfermería;Ciencias de la Salud;22;Femenino;4.73;77.85;Mixta;Ninguna;10;Medio;Club Académico;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.507275962
+LZ2024513;Jorge Laura;Ramírez Ramírez;Diseño Gráfico;Artes y Diseño;18;Masculino;4.76;59.59;Virtual;Parcial;10;Alto;Voluntariado;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.494294094
+SZ2024514;Jorge Sofía;Rodríguez Rodríguez;Economía;Ciencias Económicas;20;Masculino;4.22;76.64;Virtual;Ninguna;0;Alto;Voluntariado;Media;Regular;12;No;No Aplica;Medio Riesgo;0.441011012
+VS2024515;Sofía Valeria;Flores Rodríguez;Comunicación Social;Humanidades;18;Masculino;3.75;84.13;Mixta;Ninguna;0;Alto;Club Académico;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.479751125
+AZ2024516;Carlos Ana;Martínez Rodríguez;Diseño Gráfico;Artes y Diseño;26;Femenino;3.62;88.72;Virtual;Parcial;30;Medio;Club Académico;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.378986091
+SZ2024517;Lucía Sofía;Gómez Pérez;Ingeniería Civil;Ingeniería;22;Femenino;4.94;76.86;Mixta;Parcial;0;Alto;Voluntariado;Media;Regular;21;Sí;Carga Académica;Medio Riesgo;0.42864283
+DZ2024518;Luis Diego;González Ramírez;Diseño Gráfico;Artes y Diseño;17;Masculino;4.07;58.63;Virtual;Ninguna;30;Bajo;Deporte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.486337602
+VZ2024519;Pedro Valeria;Rodríguez González;Comunicación Social;Humanidades;20;Femenino;3.88;88.91;Virtual;Completa;30;Bajo;Deporte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.434874899
+LZ2024520;Juan Laura;Ramírez Flores;Medicina;Ciencias de la Salud;29;Femenino;3.33;82.32;Presencial;Parcial;10;Alto;Club Académico;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.406336426
+CZ2024521;Lucía Carlos;Martínez González;Economía;Ciencias Económicas;27;Masculino;4.57;79.4;Presencial;Parcial;30;Alto;Club Académico;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.422092162
+PZ2024522;Lucía Pedro;Díaz Pérez;Arquitectura;Artes y Diseño;21;Otro;3.26;52.22;Virtual;Ninguna;0;Medio;Deporte;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.62223625
+PZ2024523;Jorge Pedro;González González;Comunicación Social;Humanidades;21;Otro;4.72;71.58;Virtual;Completa;20;Bajo;Deporte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.454558607
+LZ2024524;Laura Luis;Rodríguez Martínez;Derecho;Ciencias Jurídicas;26;Masculino;4.03;50.45;Virtual;Ninguna;20;Bajo;Arte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.471222598
+AS2024525;Valeria Ana;Flores Pérez;Ingeniería de Sistemas;Ingeniería;27;Otro;4.54;56.8;Presencial;Ninguna;0;Alto;Deporte;Baja;Malo;15;Sí;Carga Académica;Medio Riesgo;0.49460363
+LZ2024526;Valeria Luis;Rodríguez Martínez;Biología;Ciencias de la Salud;21;Femenino;2.66;71.55;Presencial;Ninguna;20;Medio;Voluntariado;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.494731516
+LS2024527;María Lucía;Flores Díaz;Contabilidad;Ciencias Económicas;28;Femenino;3.52;59.97;Presencial;Ninguna;30;Medio;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.506361595
+MZ2024528;Pedro María;Rodríguez Ramírez;Derecho;Ciencias Jurídicas;30;Masculino;3.98;80.93;Virtual;Ninguna;40;Alto;Ninguna;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.498014362
+VZ2024529;María Valeria;Díaz González;Derecho;Ciencias Jurídicas;18;Otro;3.01;62.93;Presencial;Beca deportiva;10;Bajo;Ninguna;Media;Regular;18;No;No Aplica;Medio Riesgo;0.535012705
+AZ2024530;Jorge Ana;Pérez González;Ingeniería Civil;Ingeniería;21;Femenino;3.4;94.61;Virtual;Completa;40;Alto;Deporte;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.472389952
+CZ2024531;Juan Carlos;Ramírez Pérez;Enfermería;Ciencias de la Salud;30;Otro;3.19;69.8;Mixta;Ninguna;30;Alto;Arte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.562724287
+SZ2024532;María Sofía;Hernández Flores;Medicina;Ciencias de la Salud;29;Femenino;3.9;64.77;Presencial;Parcial;30;Alto;Ninguna;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.554738511
+SS2024533;María Sofía;Torres Pérez;Medicina;Ciencias de la Salud;30;Masculino;2.3;76.59;Virtual;Beca deportiva;30;Medio;Ninguna;Media;Regular;15;Sí;Carga Académica;Medio Riesgo;0.46876789
+LS2024534;Ana Luis;Torres Rodríguez;Ingeniería de Sistemas;Ingeniería;19;Masculino;4.72;98.25;Mixta;Ninguna;30;Alto;Ninguna;Alta;Bueno;18;Sí;Problemas de Salud;Medio Riesgo;0.445785225
+AZ2024535;Jorge Ana;Rodríguez Martínez;Diseño Gráfico;Artes y Diseño;20;Femenino;3.82;80.34;Mixta;Ninguna;40;Bajo;Ninguna;Media;Regular;15;No;No Aplica;Medio Riesgo;0.474487609
+PS2024536;María Pedro;Flores Ramírez;Comunicación Social;Humanidades;28;Otro;2.78;51.76;Presencial;Ninguna;30;Medio;Arte;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.568439558
+CS2024537;Lucía Carlos;Flores Díaz;Economía;Ciencias Económicas;20;Masculino;3.35;85.6;Presencial;Ninguna;10;Alto;Arte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.449924981
+SZ2024538;Lucía Sofía;Hernández Flores;Biología;Ciencias de la Salud;21;Femenino;2.46;58.32;Virtual;Ninguna;20;Bajo;Deporte;Alta;Regular;18;Sí;Problemas de Salud;Medio Riesgo;0.510404241
+LZ2024539;Carlos Laura;Hernández Rodríguez;Medicina;Ciencias de la Salud;29;Femenino;3.16;54.32;Virtual;Ninguna;10;Alto;Ninguna;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.588514307
+AS2024540;Valeria Ana;Flores Díaz;Derecho;Ciencias Jurídicas;30;Otro;3.1;83.02;Virtual;Ninguna;20;Bajo;Deporte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.422992536
+LZ2024541;Pedro Lucía;Gómez Martínez;Economía;Ciencias Económicas;21;Femenino;3.96;55.9;Virtual;Ninguna;30;Medio;Arte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.483243949
+JZ2024542;Pedro Jorge;Martínez Gómez;Psicología;Humanidades;23;Masculino;4.88;86.66;Mixta;Ninguna;20;Bajo;Ninguna;Media;Regular;15;No;No Aplica;Medio Riesgo;0.408370944
+CZ2024543;Luis Carlos;Ramírez Flores;Derecho;Ciencias Jurídicas;22;Masculino;3.99;63.66;Mixta;Completa;40;Alto;Ninguna;Baja;Bueno;18;Sí;Problemas Económicos;Medio Riesgo;0.576338727
+MZ2024544;Valeria María;Gómez Rodríguez;Contabilidad;Ciencias Económicas;22;Femenino;4.28;97.08;Mixta;Ninguna;10;Alto;Deporte;Alta;Malo;12;No;No Aplica;Bajo Riesgo;0.398556889
+PS2024545;Ana Pedro;Flores Hernández;Ingeniería de Sistemas;Ingeniería;23;Femenino;2.05;94.77;Presencial;Completa;10;Medio;Club Académico;Alta;Regular;21;Sí;Problemas de Salud;Medio Riesgo;0.413452089
+LZ2024546;Juan Lucía;Hernández Rodríguez;Enfermería;Ciencias de la Salud;20;Femenino;4.11;61.1;Virtual;Ninguna;20;Bajo;Club Académico;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.50542858
+JZ2024547;Pedro Juan;Pérez Rodríguez;Medicina;Ciencias de la Salud;24;Femenino;2.26;89.2;Virtual;Ninguna;30;Alto;Ninguna;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.502695154
+SS2024548;Carlos Sofía;Flores Díaz;Psicología;Humanidades;29;Otro;3.97;70.22;Presencial;Parcial;0;Medio;Club Académico;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.528789993
+DZ2024549;Jorge Diego;Hernández Pérez;Enfermería;Ciencias de la Salud;18;Masculino;3.22;89.59;Mixta;Parcial;20;Medio;Voluntariado;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.471575388
+AZ2024550;Jorge Ana;Hernández Torres;Derecho;Ciencias Jurídicas;18;Otro;4.2;66.75;Mixta;Ninguna;30;Medio;Voluntariado;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.47254528
+PZ2024551;Carlos Pedro;Gómez Díaz;Economía;Ciencias Económicas;18;Femenino;3.04;52.9;Mixta;Ninguna;10;Bajo;Voluntariado;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.576827837
+AZ2024552;Ana Ana;Gómez Gómez;Contabilidad;Ciencias Económicas;29;Femenino;3.78;58.21;Mixta;Ninguna;30;Alto;Club Académico;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.547601007
+DS2024553;Pedro Diego;Torres Torres;Contabilidad;Ciencias Económicas;20;Masculino;4.61;56.43;Presencial;Ninguna;40;Bajo;Voluntariado;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.582891719
+JZ2024554;Sofía Jorge;Martínez Rodríguez;Medicina;Ciencias de la Salud;18;Femenino;3.56;67.69;Virtual;Ninguna;20;Alto;Arte;Media;Malo;15;No;No Aplica;Medio Riesgo;0.544173221
+LZ2024555;Valeria Lucía;Rodríguez Pérez;Comunicación Social;Humanidades;22;Femenino;4.19;69.8;Presencial;Parcial;20;Alto;Ninguna;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.519074342
+LZ2024556;María Laura;Rodríguez Torres;Medicina;Ciencias de la Salud;26;Otro;4.06;81.72;Presencial;Parcial;10;Bajo;Voluntariado;Media;Regular;18;No;No Aplica;Medio Riesgo;0.420656169
+LZ2024557;María Laura;Hernández Torres;Ingeniería de Sistemas;Ingeniería;26;Otro;2.04;52.78;Mixta;Ninguna;10;Medio;Deporte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.531116093
+PZ2024558;Diego Pedro;Martínez Torres;Economía;Ciencias Económicas;17;Femenino;4.08;70.18;Presencial;Ninguna;20;Alto;Arte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.454096889
+SZ2024559;Lucía Sofía;Rodríguez Pérez;Contabilidad;Ciencias Económicas;29;Femenino;4.82;81.55;Presencial;Ninguna;10;Alto;Voluntariado;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.411836793
+JZ2024560;Sofía Jorge;Pérez Martínez;Contabilidad;Ciencias Económicas;22;Otro;2.52;82.93;Virtual;Ninguna;0;Bajo;Ninguna;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.530310382
+LZ2024561;Laura Lucía;Rodríguez Hernández;Diseño Gráfico;Artes y Diseño;21;Otro;4.94;62.17;Virtual;Ninguna;40;Medio;Arte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.442940912
+CS2024562;Luis Carlos;Flores Pérez;Arquitectura;Artes y Diseño;28;Femenino;4.16;99.65;Virtual;Ninguna;20;Alto;Deporte;Baja;Regular;15;No;No Aplica;Bajo Riesgo;0.338677492
+MS2024563;Jorge María;Flores Martínez;Ingeniería de Sistemas;Ingeniería;24;Masculino;4.48;91.54;Mixta;Ninguna;10;Alto;Voluntariado;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.443653792
+AZ2024564;Ana Ana;Pérez Gómez;Ingeniería de Sistemas;Ingeniería;26;Masculino;2.7;85.33;Presencial;Ninguna;0;Bajo;Voluntariado;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.49155646
+SZ2024565;Carlos Sofía;Hernández Rodríguez;Comunicación Social;Humanidades;19;Otro;3.61;71.76;Presencial;Beca académica;30;Bajo;Arte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.478722669
+MZ2024566;Carlos María;Díaz Díaz;Comunicación Social;Humanidades;23;Otro;4.47;76.18;Mixta;Ninguna;0;Alto;Ninguna;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.507084306
+SZ2024567;Pedro Sofía;Díaz Pérez;Ingeniería de Sistemas;Ingeniería;23;Femenino;2.58;78.35;Virtual;Ninguna;20;Alto;Voluntariado;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.457465879
+AZ2024568;Diego Ana;Pérez Pérez;Derecho;Ciencias Jurídicas;23;Otro;3.92;92.52;Mixta;Ninguna;10;Bajo;Deporte;Media;Malo;21;No;No Aplica;Medio Riesgo;0.455513754
+SZ2024569;Luis Sofía;Hernández Pérez;Comunicación Social;Humanidades;25;Masculino;2.22;51.43;Presencial;Ninguna;20;Bajo;Deporte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.613624481
+JZ2024570;Lucía Jorge;González Martínez;Ingeniería de Sistemas;Ingeniería;24;Masculino;2.89;63.35;Virtual;Parcial;30;Bajo;Deporte;Alta;Malo;15;Sí;Problemas Económicos;Medio Riesgo;0.519731996
+LS2024571;Carlos Laura;Flores Gómez;Administración de Empresas;Ciencias Económicas;29;Otro;4.58;53.9;Presencial;Beca deportiva;10;Alto;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.522911951
+LZ2024572;Carlos Laura;Martínez Hernández;Economía;Ciencias Económicas;25;Masculino;2.65;55.29;Mixta;Ninguna;30;Medio;Deporte;Baja;Malo;18;Sí;Problemas Familiares;Medio Riesgo;0.58104363
+JZ2024573;Valeria Juan;Pérez Ramírez;Arquitectura;Artes y Diseño;25;Masculino;3.12;95.93;Presencial;Parcial;10;Medio;Voluntariado;Baja;Bueno;21;Sí;Problemas Familiares;Medio Riesgo;0.478057119
+LZ2024574;Pedro Lucía;Ramírez Torres;Comunicación Social;Humanidades;24;Masculino;2.76;87.32;Virtual;Parcial;20;Bajo;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.492626992
+MZ2024575;Valeria María;Rodríguez Gómez;Arquitectura;Artes y Diseño;26;Femenino;4.76;77.01;Presencial;Ninguna;20;Medio;Deporte;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.385752454
+PS2024576;María Pedro;Torres Díaz;Arquitectura;Artes y Diseño;19;Masculino;3.8;77.5;Mixta;Parcial;0;Bajo;Club Académico;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.477100134
+JZ2024577;Luis Jorge;Gómez Hernández;Biología;Ciencias de la Salud;19;Femenino;4.78;86.1;Presencial;Ninguna;20;Alto;Club Académico;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.443047606
+MZ2024578;Carlos María;Ramírez Martínez;Administración de Empresas;Ciencias Económicas;24;Femenino;4.32;65.69;Virtual;Beca deportiva;30;Alto;Deporte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.466367836
+PZ2024579;Sofía Pedro;Rodríguez Hernández;Derecho;Ciencias Jurídicas;22;Femenino;3.53;92.54;Mixta;Ninguna;40;Medio;Arte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.508926777
+JZ2024580;Lucía Jorge;Ramírez Flores;Ingeniería de Sistemas;Ingeniería;20;Otro;2.13;60.33;Mixta;Ninguna;10;Medio;Arte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.567577583
+LZ2024581;Valeria Laura;Martínez Hernández;Ingeniería Civil;Ingeniería;23;Masculino;4;84.8;Presencial;Ninguna;30;Medio;Ninguna;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.416905069
+JZ2024582;Laura Juan;Ramírez Hernández;Economía;Ciencias Económicas;25;Otro;2.25;88.95;Virtual;Completa;10;Medio;Deporte;Baja;Bueno;15;Sí;Problemas de Salud;Medio Riesgo;0.514096602
+PS2024583;Valeria Pedro;Flores Martínez;Medicina;Ciencias de la Salud;18;Femenino;4.1;60.66;Mixta;Completa;40;Bajo;Arte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.532362755
+LZ2024584;María Luis;Gómez Rodríguez;Medicina;Ciencias de la Salud;19;Masculino;4.74;87.64;Mixta;Parcial;0;Bajo;Deporte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.465749645
+LS2024585;Diego Lucía;Flores González;Ingeniería Civil;Ingeniería;30;Femenino;2.56;89.94;Virtual;Ninguna;0;Medio;Ninguna;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.478789188
+LZ2024586;Juan Lucía;Díaz Gómez;Enfermería;Ciencias de la Salud;23;Otro;2.4;87.24;Mixta;Beca académica;10;Alto;Voluntariado;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.55296815
+DS2024587;María Diego;Torres Gómez;Psicología;Humanidades;24;Masculino;3.32;56.24;Mixta;Parcial;30;Alto;Club Académico;Baja;Regular;21;Sí;Problemas Familiares;Medio Riesgo;0.517539571
+JZ2024588;Ana Juan;Díaz Ramírez;Biología;Ciencias de la Salud;25;Otro;4.44;92.71;Presencial;Ninguna;20;Medio;Club Académico;Media;Regular;18;No;No Aplica;Bajo Riesgo;0.389602404
+JS2024589;Jorge Jorge;Torres Flores;Comunicación Social;Humanidades;22;Femenino;3.43;63.16;Virtual;Ninguna;10;Bajo;Ninguna;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.585520579
+LZ2024590;Lucía Lucía;Rodríguez Torres;Economía;Ciencias Económicas;18;Masculino;2.33;94.22;Virtual;Parcial;10;Bajo;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.503938475
+SZ2024591;Valeria Sofía;González Pérez;Psicología;Humanidades;25;Otro;4.16;53.9;Mixta;Parcial;10;Medio;Voluntariado;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.493562553
+MZ2024592;Laura María;Hernández Rodríguez;Diseño Gráfico;Artes y Diseño;30;Masculino;2.69;67.3;Presencial;Ninguna;40;Medio;Voluntariado;Media;Malo;15;Sí;Carga Académica;Medio Riesgo;0.540571137
+DS2024593;Laura Diego;Flores Rodríguez;Arquitectura;Artes y Diseño;23;Femenino;4.84;90.13;Mixta;Beca académica;30;Medio;Arte;Alta;Malo;21;Sí;Falta de Motivación;Medio Riesgo;0.411470542
+MZ2024594;María María;Hernández Hernández;Ingeniería de Sistemas;Ingeniería;17;Otro;4.51;65.56;Virtual;Completa;40;Alto;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.493693933
+LZ2024595;María Lucía;Martínez Torres;Diseño Gráfico;Artes y Diseño;17;Femenino;2.02;64.54;Presencial;Parcial;10;Bajo;Deporte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.566758194
+DZ2024596;Valeria Diego;Martínez Rodríguez;Comunicación Social;Humanidades;29;Femenino;4.92;76.55;Mixta;Parcial;40;Bajo;Arte;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.426681863
+JS2024597;Laura Jorge;Torres Flores;Ingeniería Civil;Ingeniería;29;Otro;3.22;86.74;Mixta;Parcial;40;Alto;Deporte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.477416998
+PZ2024598;Sofía Pedro;Rodríguez Martínez;Enfermería;Ciencias de la Salud;24;Otro;3.78;71.42;Virtual;Ninguna;30;Medio;Deporte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.468096548
+PS2024599;Laura Pedro;Flores Gómez;Diseño Gráfico;Artes y Diseño;25;Otro;2.56;89.23;Virtual;Ninguna;40;Bajo;Club Académico;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.471818089
+LS2024600;Lucía Luis;Flores Rodríguez;Ingeniería de Sistemas;Ingeniería;19;Femenino;3.65;76.24;Presencial;Ninguna;20;Alto;Club Académico;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.440115511
+SZ2024601;Pedro Sofía;Hernández Flores;Derecho;Ciencias Jurídicas;23;Femenino;4.64;57.17;Mixta;Ninguna;10;Medio;Ninguna;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.565698855
+LZ2024602;Laura Laura;Martínez González;Economía;Ciencias Económicas;29;Femenino;2.26;90.81;Virtual;Beca académica;10;Medio;Club Académico;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.406543956
+CZ2024603;María Carlos;Hernández Torres;Economía;Ciencias Económicas;21;Otro;3.77;73.75;Mixta;Ninguna;20;Medio;Deporte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.509663609
+LZ2024604;Valeria Luis;Ramírez Martínez;Economía;Ciencias Económicas;25;Femenino;3.46;86.59;Presencial;Completa;40;Bajo;Arte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.438494933
+VZ2024605;Lucía Valeria;Hernández Martínez;Diseño Gráfico;Artes y Diseño;29;Femenino;3.01;55.41;Mixta;Ninguna;20;Medio;Ninguna;Media;Regular;15;No;No Aplica;Medio Riesgo;0.526779008
+DZ2024606;Sofía Diego;Gómez Flores;Arquitectura;Artes y Diseño;18;Femenino;3.04;80.43;Virtual;Completa;20;Medio;Club Académico;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.487721622
+PS2024607;Jorge Pedro;Torres Ramírez;Ingeniería de Sistemas;Ingeniería;26;Femenino;3.47;66.32;Presencial;Ninguna;0;Alto;Club Académico;Media;Malo;15;No;No Aplica;Medio Riesgo;0.518202182
+VZ2024608;Carlos Valeria;Ramírez Gómez;Biología;Ciencias de la Salud;22;Femenino;4;98.76;Virtual;Ninguna;10;Medio;Club Académico;Media;Malo;18;Sí;Problemas de Salud;Medio Riesgo;0.426137295
+DZ2024609;Jorge Diego;González Torres;Enfermería;Ciencias de la Salud;28;Otro;4.75;69.63;Mixta;Ninguna;0;Bajo;Arte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.519300991
+LZ2024610;Juan Laura;González Gómez;Enfermería;Ciencias de la Salud;24;Masculino;4.17;65.06;Mixta;Parcial;40;Bajo;Deporte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.543234018
+SZ2024611;Diego Sofía;Gómez Hernández;Biología;Ciencias de la Salud;19;Femenino;4.71;61.88;Presencial;Ninguna;20;Alto;Voluntariado;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.515398959
+MS2024612;Luis María;Flores Hernández;Biología;Ciencias de la Salud;19;Masculino;4.56;56.56;Mixta;Ninguna;0;Alto;Club Académico;Media;Malo;21;No;No Aplica;Medio Riesgo;0.55292696
+LZ2024613;Jorge Lucía;Gómez González;Comunicación Social;Humanidades;30;Otro;4.62;75.18;Presencial;Ninguna;0;Alto;Ninguna;Baja;Malo;12;Sí;Falta de Motivación;Medio Riesgo;0.427300395
+JS2024614;Jorge Jorge;Torres Díaz;Derecho;Ciencias Jurídicas;24;Femenino;2.39;53.67;Mixta;Ninguna;30;Alto;Club Académico;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.650818382
+AS2024615;María Ana;Flores Hernández;Administración de Empresas;Ciencias Económicas;19;Femenino;3.81;90.56;Presencial;Ninguna;10;Medio;Deporte;Alta;Malo;18;Sí;Problemas Familiares;Medio Riesgo;0.437381957
+SZ2024616;Laura Sofía;Hernández Flores;Arquitectura;Artes y Diseño;26;Masculino;2.04;87.64;Presencial;Beca académica;10;Medio;Voluntariado;Alta;Bueno;21;Sí;Carga Académica;Medio Riesgo;0.50862362
+JZ2024617;Laura Jorge;Díaz Flores;Enfermería;Ciencias de la Salud;28;Femenino;2.12;54.85;Mixta;Ninguna;30;Medio;Deporte;Media;Bueno;12;Sí;Problemas de Salud;Medio Riesgo;0.643294976
+SZ2024618;Lucía Sofía;Díaz Torres;Diseño Gráfico;Artes y Diseño;23;Femenino;4.86;89.71;Mixta;Ninguna;30;Bajo;Club Académico;Baja;Regular;15;No;No Aplica;Bajo Riesgo;0.386421491
+LZ2024619;Diego Laura;Hernández Díaz;Contabilidad;Ciencias Económicas;21;Otro;3.65;57.02;Presencial;Ninguna;30;Alto;Ninguna;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.535470923
+AZ2024620;Carlos Ana;Martínez Gómez;Psicología;Humanidades;26;Femenino;4.71;55.27;Virtual;Ninguna;0;Medio;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.556641685
+LZ2024621;Laura Laura;Martínez Pérez;Diseño Gráfico;Artes y Diseño;22;Otro;3.13;56.18;Virtual;Ninguna;0;Medio;Ninguna;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.550388552
+PS2024622;María Pedro;Flores Ramírez;Economía;Ciencias Económicas;30;Otro;4.44;50;Virtual;Ninguna;20;Medio;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.528213537
+PZ2024623;María Pedro;González González;Enfermería;Ciencias de la Salud;18;Otro;2.12;52.6;Virtual;Completa;10;Alto;Club Académico;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.560521541
+AS2024624;Jorge Ana;Torres Díaz;Comunicación Social;Humanidades;20;Otro;4.93;94.63;Presencial;Parcial;30;Alto;Deporte;Media;Regular;18;No;No Aplica;Bajo Riesgo;0.390907613
+AZ2024625;Jorge Ana;Hernández González;Diseño Gráfico;Artes y Diseño;29;Masculino;3.36;70.46;Presencial;Parcial;20;Bajo;Ninguna;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.426995702
+JZ2024626;Carlos Jorge;Díaz Ramírez;Economía;Ciencias Económicas;21;Femenino;3.46;77.01;Mixta;Completa;30;Alto;Voluntariado;Alta;Bueno;21;Sí;Falta de Motivación;Medio Riesgo;0.533403532
+VS2024627;Carlos Valeria;Torres González;Economía;Ciencias Económicas;21;Masculino;3.9;68.88;Presencial;Ninguna;40;Alto;Deporte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.454919358
+JZ2024628;Valeria Jorge;Hernández Díaz;Contabilidad;Ciencias Económicas;21;Otro;2.94;55.82;Mixta;Completa;20;Medio;Ninguna;Media;Regular;21;No;No Aplica;Medio Riesgo;0.559214088
+LZ2024629;Laura Laura;Pérez Martínez;Diseño Gráfico;Artes y Diseño;20;Otro;2.36;93.38;Virtual;Ninguna;10;Alto;Deporte;Media;Regular;21;No;No Aplica;Medio Riesgo;0.446148756
+DZ2024630;Carlos Diego;Ramírez Flores;Arquitectura;Artes y Diseño;24;Masculino;3.57;62.25;Virtual;Ninguna;30;Bajo;Deporte;Media;Bueno;12;Sí;Problemas de Salud;Medio Riesgo;0.584638748
+CS2024631;María Carlos;Torres Ramírez;Psicología;Humanidades;25;Otro;3.82;89.37;Presencial;Beca deportiva;10;Bajo;Deporte;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.373594536
+LZ2024632;Ana Luis;Gómez Hernández;Contabilidad;Ciencias Económicas;27;Femenino;2.17;53.84;Mixta;Ninguna;10;Medio;Club Académico;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.520555279
+DS2024633;Lucía Diego;Torres González;Comunicación Social;Humanidades;23;Femenino;4.95;91.94;Mixta;Ninguna;40;Medio;Arte;Baja;Regular;21;No;No Aplica;Bajo Riesgo;0.383718896
+LZ2024634;Sofía Luis;Martínez Pérez;Derecho;Ciencias Jurídicas;25;Femenino;3.08;79.85;Virtual;Ninguna;0;Medio;Arte;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.495618549
+LZ2024635;Diego Luis;Martínez Torres;Arquitectura;Artes y Diseño;22;Otro;2.41;55.62;Presencial;Ninguna;40;Bajo;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.610466217
+DZ2024636;María Diego;Pérez Flores;Contabilidad;Ciencias Económicas;30;Otro;2.65;88.91;Virtual;Parcial;30;Medio;Ninguna;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.429993352
+PZ2024637;Jorge Pedro;Díaz Díaz;Contabilidad;Ciencias Económicas;26;Femenino;3.85;87.43;Mixta;Parcial;30;Alto;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.472570261
+PZ2024638;Diego Pedro;Hernández Torres;Comunicación Social;Humanidades;19;Masculino;3.63;76.13;Mixta;Parcial;30;Bajo;Arte;Baja;Bueno;18;Sí;Carga Académica;Medio Riesgo;0.55979526
+JZ2024639;Carlos Juan;Rodríguez Ramírez;Psicología;Humanidades;26;Otro;2.68;76.81;Presencial;Completa;30;Medio;Club Académico;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.444510783
+LZ2024640;María Luis;Rodríguez Torres;Arquitectura;Artes y Diseño;25;Otro;2.33;68.32;Virtual;Ninguna;30;Alto;Club Académico;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.470851036
+DS2024641;Luis Diego;Flores González;Derecho;Ciencias Jurídicas;19;Otro;2.02;96.69;Mixta;Ninguna;10;Bajo;Arte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.448335667
+LZ2024642;Carlos Lucía;Pérez Hernández;Ingeniería de Sistemas;Ingeniería;24;Femenino;2.62;98.04;Virtual;Ninguna;40;Bajo;Ninguna;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.430259035
+JZ2024643;María Juan;Martínez Torres;Psicología;Humanidades;26;Otro;3.87;67.47;Mixta;Ninguna;40;Medio;Voluntariado;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.575070947
+SS2024644;Valeria Sofía;Torres Flores;Administración de Empresas;Ciencias Económicas;20;Femenino;4.84;55.49;Mixta;Ninguna;30;Alto;Deporte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.562871914
+PZ2024645;María Pedro;Díaz Pérez;Diseño Gráfico;Artes y Diseño;22;Masculino;4.85;64.35;Mixta;Ninguna;40;Bajo;Club Académico;Media;Malo;21;No;No Aplica;Medio Riesgo;0.528925597
+JZ2024646;Jorge Jorge;Rodríguez Rodríguez;Contabilidad;Ciencias Económicas;29;Otro;2.64;75.65;Virtual;Completa;40;Alto;Voluntariado;Media;Malo;12;No;No Aplica;Medio Riesgo;0.50996017
+CZ2024647;Laura Carlos;Rodríguez Hernández;Medicina;Ciencias de la Salud;29;Femenino;4.33;75.04;Presencial;Beca académica;40;Bajo;Voluntariado;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.519481178
+VZ2024648;Diego Valeria;González Flores;Ingeniería de Sistemas;Ingeniería;18;Femenino;3.74;99.51;Virtual;Beca académica;30;Bajo;Deporte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.416114618
+LS2024649;María Laura;Torres Flores;Biología;Ciencias de la Salud;18;Femenino;3.07;51.32;Virtual;Ninguna;30;Alto;Ninguna;Media;Bueno;15;Sí;Trabajo;Medio Riesgo;0.648251079
+CZ2024650;María Carlos;Hernández Martínez;Biología;Ciencias de la Salud;18;Femenino;4.25;70.8;Virtual;Ninguna;20;Alto;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.5598585
+LZ2024651;Diego Luis;Rodríguez Díaz;Diseño Gráfico;Artes y Diseño;27;Femenino;4.25;54.21;Mixta;Ninguna;40;Medio;Arte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.519358283
+DZ2024652;Jorge Diego;Martínez Gómez;Comunicación Social;Humanidades;29;Otro;2.74;61.22;Virtual;Ninguna;0;Medio;Arte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.561490219
+PZ2024653;Ana Pedro;Hernández Rodríguez;Biología;Ciencias de la Salud;27;Femenino;2.04;94.53;Mixta;Ninguna;40;Alto;Deporte;Media;Malo;12;Sí;Falta de Motivación;Medio Riesgo;0.494367706
+LZ2024654;Juan Laura;Martínez Hernández;Derecho;Ciencias Jurídicas;17;Masculino;4.51;79.19;Mixta;Parcial;30;Bajo;Voluntariado;Baja;Malo;15;Sí;Problemas de Salud;Medio Riesgo;0.49201697
+AZ2024655;Carlos Ana;Hernández Gómez;Comunicación Social;Humanidades;21;Otro;2.48;74.17;Presencial;Parcial;0;Medio;Voluntariado;Media;Regular;18;No;No Aplica;Medio Riesgo;0.502369372
+CZ2024656;María Carlos;Pérez Gómez;Psicología;Humanidades;28;Femenino;3.5;58.19;Mixta;Ninguna;0;Alto;Voluntariado;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.478728532
+LZ2024657;María Laura;González Flores;Arquitectura;Artes y Diseño;19;Femenino;4.81;78.65;Presencial;Ninguna;0;Medio;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.484343626
+MZ2024658;Jorge María;Gómez Rodríguez;Medicina;Ciencias de la Salud;29;Otro;4.92;57.94;Virtual;Parcial;40;Alto;Deporte;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.4385812
+VZ2024659;Diego Valeria;Gómez Hernández;Ingeniería Civil;Ingeniería;21;Femenino;2.15;58.05;Virtual;Parcial;20;Medio;Ninguna;Media;Malo;21;Sí;Problemas Familiares;Medio Riesgo;0.600881438
+PZ2024660;Sofía Pedro;Ramírez Torres;Ingeniería Civil;Ingeniería;22;Otro;3.06;96.64;Mixta;Ninguna;30;Bajo;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.484864767
+LZ2024661;Lucía Luis;Hernández Rodríguez;Ingeniería Civil;Ingeniería;19;Otro;2.7;97.99;Virtual;Parcial;30;Alto;Deporte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.460455483
+AS2024662;Luis Ana;Flores Pérez;Diseño Gráfico;Artes y Diseño;22;Femenino;2.44;61.43;Presencial;Parcial;10;Alto;Voluntariado;Media;Malo;12;Sí;Problemas Familiares;Medio Riesgo;0.579588633
+CZ2024663;Ana Carlos;González Hernández;Enfermería;Ciencias de la Salud;30;Femenino;4.58;66.41;Virtual;Ninguna;40;Bajo;Deporte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.403237845
+LZ2024664;María Luis;González Rodríguez;Ingeniería Civil;Ingeniería;27;Otro;3.72;72.6;Presencial;Parcial;20;Medio;Voluntariado;Baja;Bueno;18;Sí;Problemas de Salud;Medio Riesgo;0.526116975
+CZ2024665;Valeria Carlos;Rodríguez González;Ingeniería de Sistemas;Ingeniería;18;Otro;4.04;98.88;Presencial;Ninguna;20;Medio;Arte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.41549407
+DZ2024666;Pedro Diego;Rodríguez Pérez;Administración de Empresas;Ciencias Económicas;30;Masculino;4.59;52.41;Virtual;Parcial;20;Alto;Club Académico;Baja;Malo;15;Sí;Trabajo;Medio Riesgo;0.494570115
+MS2024667;Juan María;Torres Díaz;Psicología;Humanidades;30;Femenino;4.68;78.33;Presencial;Beca deportiva;40;Medio;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.479817011
+LS2024668;Juan Lucía;Flores Ramírez;Diseño Gráfico;Artes y Diseño;30;Otro;2.56;99.19;Presencial;Beca académica;0;Alto;Arte;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.474187898
+LZ2024669;Lucía Laura;Martínez Hernández;Administración de Empresas;Ciencias Económicas;26;Femenino;3.33;58.07;Mixta;Ninguna;30;Medio;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.611593831
+AZ2024670;María Ana;González Hernández;Administración de Empresas;Ciencias Económicas;24;Femenino;4.53;76.17;Mixta;Parcial;0;Medio;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.437469436
+JZ2024671;Luis Jorge;Martínez Flores;Administración de Empresas;Ciencias Económicas;24;Masculino;4.67;78.59;Presencial;Beca académica;30;Alto;Ninguna;Baja;Malo;18;Sí;Problemas Económicos;Medio Riesgo;0.451930156
+VS2024672;Carlos Valeria;Flores Martínez;Diseño Gráfico;Artes y Diseño;28;Femenino;2.09;54.33;Presencial;Ninguna;40;Bajo;Deporte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.519889104
+AZ2024673;Valeria Ana;Gómez González;Psicología;Humanidades;28;Femenino;4.99;98.08;Presencial;Completa;40;Bajo;Arte;Alta;Malo;12;No;No Aplica;Bajo Riesgo;0.361417057
+MZ2024674;Valeria María;Hernández Gómez;Biología;Ciencias de la Salud;18;Masculino;4.54;83.56;Virtual;Ninguna;0;Bajo;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.471605238
+LZ2024675;María Lucía;Pérez Gómez;Contabilidad;Ciencias Económicas;19;Masculino;2.53;67.48;Presencial;Ninguna;10;Medio;Arte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.514007918
+MZ2024676;Pedro María;Gómez Ramírez;Arquitectura;Artes y Diseño;26;Masculino;2.91;60.63;Virtual;Ninguna;10;Bajo;Arte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.548097475
+AZ2024677;María Ana;Díaz Martínez;Comunicación Social;Humanidades;17;Otro;3.93;58.76;Virtual;Ninguna;30;Medio;Arte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.571973197
+LZ2024678;Ana Luis;Gómez Pérez;Medicina;Ciencias de la Salud;22;Otro;4.75;98.05;Virtual;Ninguna;40;Bajo;Deporte;Alta;Malo;18;No;No Aplica;Bajo Riesgo;0.382753742
+AZ2024679;Carlos Ana;Pérez Flores;Biología;Ciencias de la Salud;25;Femenino;3.48;69.71;Mixta;Ninguna;0;Bajo;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.564841962
+AZ2024680;Carlos Ana;Gómez Rodríguez;Psicología;Humanidades;26;Femenino;4.57;50.15;Presencial;Ninguna;10;Medio;Deporte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.58652368
+LZ2024681;Diego Luis;Ramírez Rodríguez;Diseño Gráfico;Artes y Diseño;19;Otro;3.81;92.05;Virtual;Ninguna;10;Medio;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.468519976
+LZ2024682;Sofía Lucía;González Pérez;Diseño Gráfico;Artes y Diseño;28;Femenino;2.06;74.45;Virtual;Ninguna;0;Bajo;Voluntariado;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.561800003
+SZ2024683;Laura Sofía;Hernández Pérez;Enfermería;Ciencias de la Salud;25;Femenino;2.83;85.64;Virtual;Ninguna;30;Medio;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.53496893
+SZ2024684;María Sofía;Martínez González;Ingeniería Civil;Ingeniería;25;Femenino;3.93;60.7;Presencial;Beca académica;40;Medio;Deporte;Media;Regular;21;Sí;Problemas de Salud;Medio Riesgo;0.50312849
+AZ2024685;Sofía Ana;Hernández Hernández;Arquitectura;Artes y Diseño;22;Masculino;3.74;78.01;Virtual;Ninguna;30;Medio;Club Académico;Media;Regular;12;No;No Aplica;Medio Riesgo;0.45798555
+MZ2024686;Ana María;Díaz Flores;Economía;Ciencias Económicas;29;Otro;4.78;94.41;Presencial;Ninguna;0;Bajo;Arte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.416577943
+CZ2024687;María Carlos;Gómez Flores;Contabilidad;Ciencias Económicas;27;Otro;2.21;54.05;Presencial;Ninguna;20;Bajo;Club Académico;Alta;Bueno;18;Sí;Problemas Económicos;Medio Riesgo;0.598937934
+SZ2024688;Juan Sofía;Hernández Díaz;Administración de Empresas;Ciencias Económicas;25;Otro;2.72;75.25;Virtual;Ninguna;10;Alto;Ninguna;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.555932367
+VZ2024689;Valeria Valeria;Ramírez Rodríguez;Administración de Empresas;Ciencias Económicas;28;Masculino;3.68;87.02;Virtual;Ninguna;20;Bajo;Arte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.410274998
+SZ2024690;Valeria Sofía;Hernández Pérez;Medicina;Ciencias de la Salud;20;Masculino;4.5;77.99;Presencial;Parcial;30;Bajo;Voluntariado;Media;Bueno;18;Sí;Problemas Familiares;Medio Riesgo;0.538140157
+CZ2024691;Carlos Carlos;Rodríguez Gómez;Comunicación Social;Humanidades;28;Femenino;2.02;53.36;Presencial;Ninguna;40;Bajo;Ninguna;Alta;Bueno;15;Sí;Problemas Económicos;Medio Riesgo;0.609763008
+JZ2024692;Carlos Juan;Pérez Díaz;Economía;Ciencias Económicas;29;Otro;2.75;97.3;Virtual;Ninguna;40;Bajo;Club Académico;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.368171558
+CZ2024693;Carlos Carlos;Ramírez Martínez;Medicina;Ciencias de la Salud;29;Otro;2.49;90.45;Presencial;Ninguna;10;Medio;Deporte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.451642092
+VZ2024694;Pedro Valeria;Rodríguez Martínez;Ingeniería de Sistemas;Ingeniería;27;Otro;4.15;52.95;Presencial;Parcial;20;Bajo;Voluntariado;Alta;Bueno;12;Sí;Falta de Motivación;Medio Riesgo;0.55115656
+SZ2024695;Laura Sofía;Martínez Pérez;Biología;Ciencias de la Salud;18;Otro;4.77;86.73;Mixta;Completa;20;Alto;Arte;Media;Malo;15;Sí;Carga Académica;Medio Riesgo;0.471614237
+LZ2024696;Luis Laura;González Rodríguez;Arquitectura;Artes y Diseño;21;Femenino;4.93;74.09;Virtual;Ninguna;20;Alto;Arte;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.415468031
+LZ2024697;Valeria Luis;Gómez Torres;Ingeniería Civil;Ingeniería;30;Femenino;4.26;85.26;Virtual;Ninguna;30;Medio;Club Académico;Alta;Malo;15;No;No Aplica;Bajo Riesgo;0.398356737
+VZ2024698;Ana Valeria;Pérez Torres;Ingeniería de Sistemas;Ingeniería;18;Otro;3.74;65.34;Mixta;Ninguna;20;Medio;Ninguna;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.484902587
+VZ2024699;Laura Valeria;Pérez Pérez;Biología;Ciencias de la Salud;25;Femenino;3.82;54.7;Mixta;Ninguna;0;Medio;Voluntariado;Media;Regular;21;No;No Aplica;Medio Riesgo;0.514909315
+JZ2024700;Laura Juan;González Hernández;Medicina;Ciencias de la Salud;22;Femenino;3.23;77.26;Presencial;Parcial;10;Alto;Voluntariado;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.450843329
+MZ2024701;Laura María;Pérez Gómez;Comunicación Social;Humanidades;26;Otro;2.36;61.06;Mixta;Ninguna;10;Alto;Club Académico;Alta;Regular;12;Sí;Carga Académica;Medio Riesgo;0.494423082
+VZ2024702;Jorge Valeria;Díaz Ramírez;Derecho;Ciencias Jurídicas;24;Otro;2.13;54.09;Presencial;Parcial;30;Medio;Arte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.594392833
+SS2024703;Lucía Sofía;Flores Flores;Ingeniería de Sistemas;Ingeniería;29;Femenino;3.04;73.81;Presencial;Ninguna;30;Medio;Club Académico;Alta;Malo;15;Sí;Carga Académica;Medio Riesgo;0.474868965
+PZ2024704;Valeria Pedro;Díaz Díaz;Diseño Gráfico;Artes y Diseño;27;Femenino;4.61;89.58;Presencial;Ninguna;20;Alto;Arte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.467380339
+SS2024705;Sofía Sofía;Torres Martínez;Enfermería;Ciencias de la Salud;30;Otro;4.58;97.69;Mixta;Parcial;30;Alto;Ninguna;Baja;Regular;12;No;No Aplica;Bajo Riesgo;0.344023378
+LZ2024706;Ana Luis;Hernández Hernández;Administración de Empresas;Ciencias Económicas;19;Masculino;2.65;86.7;Virtual;Parcial;40;Bajo;Arte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.475945724
+CZ2024707;Valeria Carlos;Martínez Díaz;Ingeniería de Sistemas;Ingeniería;30;Femenino;3.16;81.73;Virtual;Ninguna;0;Alto;Deporte;Media;Malo;18;Sí;Trabajo;Medio Riesgo;0.457935657
+PS2024708;Lucía Pedro;Flores González;Diseño Gráfico;Artes y Diseño;30;Otro;4.55;80.64;Virtual;Ninguna;0;Bajo;Ninguna;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.408050079
+LZ2024709;Luis Lucía;Pérez Hernández;Biología;Ciencias de la Salud;27;Otro;4.98;79.15;Virtual;Ninguna;30;Alto;Arte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.422732039
+VZ2024710;Lucía Valeria;Rodríguez Ramírez;Derecho;Ciencias Jurídicas;26;Femenino;2.93;50.7;Mixta;Beca deportiva;0;Alto;Voluntariado;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.609089925
+SZ2024711;Luis Sofía;Martínez Hernández;Contabilidad;Ciencias Económicas;18;Masculino;2.69;77.38;Mixta;Parcial;10;Medio;Ninguna;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.47388355
+JZ2024712;Carlos Juan;Díaz Díaz;Ingeniería de Sistemas;Ingeniería;20;Masculino;3.32;95.02;Mixta;Ninguna;20;Bajo;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.505154513
+MS2024713;Carlos María;Flores González;Medicina;Ciencias de la Salud;19;Femenino;3.12;88.16;Virtual;Parcial;10;Medio;Deporte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.430516671
+LZ2024714;Sofía Lucía;Pérez Díaz;Ingeniería Civil;Ingeniería;18;Otro;4.13;67.57;Mixta;Beca deportiva;30;Alto;Ninguna;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.486701127
+VZ2024715;Juan Valeria;Díaz González;Comunicación Social;Humanidades;23;Femenino;3.93;98;Virtual;Beca académica;20;Bajo;Club Académico;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.35163251
+AZ2024716;María Ana;Ramírez Gómez;Arquitectura;Artes y Diseño;19;Masculino;2.66;87.14;Presencial;Ninguna;30;Bajo;Ninguna;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.459419779
+LZ2024717;Juan Laura;Martínez Hernández;Comunicación Social;Humanidades;27;Masculino;4.11;72.27;Virtual;Ninguna;0;Alto;Club Académico;Alta;Regular;21;No;No Aplica;Bajo Riesgo;0.39283659
+PZ2024718;Pedro Pedro;Martínez Gómez;Enfermería;Ciencias de la Salud;17;Masculino;2.78;72.29;Virtual;Ninguna;20;Bajo;Voluntariado;Media;Regular;15;No;No Aplica;Medio Riesgo;0.514310218
+VS2024719;Valeria Valeria;Torres Díaz;Derecho;Ciencias Jurídicas;28;Masculino;3.95;70.78;Mixta;Ninguna;40;Alto;Ninguna;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.533172382
+JZ2024720;Juan Jorge;Pérez Rodríguez;Diseño Gráfico;Artes y Diseño;24;Femenino;3.5;68.41;Virtual;Beca deportiva;0;Bajo;Deporte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.556811453
+DZ2024721;Juan Diego;Díaz Martínez;Medicina;Ciencias de la Salud;30;Otro;2.25;62.46;Virtual;Ninguna;10;Bajo;Arte;Media;Malo;12;Sí;Problemas de Salud;Medio Riesgo;0.544519561
+CZ2024722;Lucía Carlos;Pérez González;Medicina;Ciencias de la Salud;26;Otro;2.07;60.29;Mixta;Beca académica;0;Alto;Arte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.500365742
+LZ2024723;Jorge Laura;Gómez Pérez;Biología;Ciencias de la Salud;22;Masculino;2.06;83.63;Virtual;Ninguna;0;Medio;Arte;Baja;Regular;18;Sí;Trabajo;Medio Riesgo;0.455793624
+VZ2024724;Laura Valeria;Ramírez Gómez;Enfermería;Ciencias de la Salud;25;Femenino;2.23;61.13;Presencial;Ninguna;10;Medio;Arte;Baja;Bueno;12;Sí;Carga Académica;Medio Riesgo;0.602121792
+VS2024725;Jorge Valeria;Flores Gómez;Biología;Ciencias de la Salud;28;Masculino;2.52;86.77;Virtual;Beca académica;30;Bajo;Voluntariado;Media;Malo;18;Sí;Trabajo;Medio Riesgo;0.482602023
+LS2024726;Carlos Lucía;Torres Ramírez;Ingeniería de Sistemas;Ingeniería;25;Femenino;2.93;69.26;Mixta;Ninguna;10;Medio;Deporte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.506599064
+JZ2024727;Sofía Jorge;Rodríguez Martínez;Medicina;Ciencias de la Salud;28;Otro;3.9;73.4;Mixta;Completa;10;Medio;Ninguna;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.456550487
+LZ2024728;Laura Lucía;Pérez Gómez;Biología;Ciencias de la Salud;29;Masculino;2.72;87.81;Presencial;Ninguna;10;Medio;Ninguna;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.515145893
+SZ2024729;Juan Sofía;González Ramírez;Medicina;Ciencias de la Salud;27;Masculino;2.69;65.62;Virtual;Parcial;30;Medio;Arte;Alta;Bueno;12;Sí;Problemas Económicos;Medio Riesgo;0.551761602
+MZ2024730;Lucía María;Gómez Flores;Derecho;Ciencias Jurídicas;18;Femenino;4.89;55.17;Mixta;Ninguna;30;Medio;Ninguna;Baja;Malo;18;Sí;Trabajo;Medio Riesgo;0.549755393
+CZ2024731;Juan Carlos;González González;Enfermería;Ciencias de la Salud;28;Femenino;4.47;85.94;Virtual;Ninguna;30;Medio;Arte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.459513836
+LZ2024732;Sofía Luis;Díaz González;Enfermería;Ciencias de la Salud;29;Masculino;2.09;87.66;Virtual;Ninguna;40;Alto;Club Académico;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.428043518
+LZ2024733;Sofía Luis;Díaz Martínez;Ingeniería de Sistemas;Ingeniería;22;Femenino;3.13;68.15;Virtual;Parcial;10;Bajo;Voluntariado;Media;Malo;21;No;No Aplica;Medio Riesgo;0.53631389
+LZ2024734;Carlos Luis;Hernández González;Psicología;Humanidades;22;Otro;2.59;95.39;Presencial;Parcial;0;Medio;Ninguna;Alta;Regular;18;Sí;Problemas de Salud;Bajo Riesgo;0.39761869
+LZ2024735;María Laura;Rodríguez Rodríguez;Enfermería;Ciencias de la Salud;20;Masculino;3.94;71.24;Virtual;Completa;10;Bajo;Deporte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.47630693
+AZ2024736;Pedro Ana;Pérez Ramírez;Enfermería;Ciencias de la Salud;27;Masculino;3.98;62.32;Virtual;Ninguna;0;Alto;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.504478508
+PZ2024737;Lucía Pedro;Díaz Flores;Biología;Ciencias de la Salud;28;Otro;3.58;98.06;Mixta;Ninguna;20;Medio;Ninguna;Media;Malo;12;No;No Aplica;Medio Riesgo;0.434803534
+DZ2024738;Laura Diego;Hernández Gómez;Administración de Empresas;Ciencias Económicas;17;Femenino;4.53;50.8;Mixta;Ninguna;10;Medio;Deporte;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.524655397
+LS2024739;Valeria Laura;Flores Pérez;Contabilidad;Ciencias Económicas;18;Masculino;3.73;90.43;Mixta;Parcial;40;Medio;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.507066581
+LZ2024740;Jorge Lucía;Díaz Ramírez;Arquitectura;Artes y Diseño;18;Otro;3.01;94.21;Virtual;Beca académica;30;Alto;Ninguna;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.5105613
+JZ2024741;Laura Juan;Hernández Flores;Derecho;Ciencias Jurídicas;17;Femenino;2.24;53.55;Presencial;Parcial;30;Alto;Ninguna;Baja;Malo;21;Sí;Problemas de Salud;Medio Riesgo;0.616053551
+LZ2024742;Sofía Luis;Hernández Pérez;Biología;Ciencias de la Salud;28;Femenino;2.42;59.38;Mixta;Parcial;40;Medio;Arte;Alta;Bueno;15;Sí;Trabajo;Medio Riesgo;0.591878207
+PZ2024743;Sofía Pedro;González Pérez;Economía;Ciencias Económicas;23;Otro;4.99;68.6;Mixta;Parcial;30;Bajo;Deporte;Alta;Regular;12;Sí;Carga Académica;Medio Riesgo;0.424486148
+MZ2024744;Luis María;Martínez Hernández;Psicología;Humanidades;29;Masculino;3.17;71.17;Presencial;Parcial;0;Medio;Deporte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.510247138
+SZ2024745;Luis Sofía;Díaz Flores;Diseño Gráfico;Artes y Diseño;24;Otro;4.35;66.62;Virtual;Completa;40;Medio;Ninguna;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.495683644
+LZ2024746;Juan Luis;Hernández González;Comunicación Social;Humanidades;26;Otro;4.27;51.34;Presencial;Ninguna;10;Bajo;Arte;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.509230051
+VS2024747;Jorge Valeria;Flores Gómez;Medicina;Ciencias de la Salud;17;Otro;4.39;64.99;Mixta;Beca deportiva;0;Medio;Club Académico;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.569417954
+DZ2024748;Lucía Diego;Gómez Rodríguez;Biología;Ciencias de la Salud;18;Femenino;4.93;56.68;Mixta;Beca deportiva;40;Bajo;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.57090987
+LZ2024749;Valeria Luis;Rodríguez Pérez;Ingeniería Civil;Ingeniería;21;Otro;4.56;57.47;Presencial;Parcial;20;Bajo;Deporte;Media;Malo;21;No;No Aplica;Medio Riesgo;0.544817865
+MZ2024750;Lucía María;González Ramírez;Psicología;Humanidades;28;Masculino;3.4;71.38;Presencial;Beca deportiva;10;Alto;Club Académico;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.507597548
+VZ2024751;Laura Valeria;Rodríguez Hernández;Psicología;Humanidades;22;Masculino;4.78;59.99;Mixta;Parcial;30;Bajo;Ninguna;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.545529047
+LZ2024752;Lucía Luis;González González;Comunicación Social;Humanidades;19;Femenino;3.04;66.26;Virtual;Ninguna;40;Medio;Deporte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.551757015
+LZ2024753;Laura Luis;Hernández Rodríguez;Diseño Gráfico;Artes y Diseño;27;Otro;3.87;58.85;Mixta;Ninguna;20;Alto;Club Académico;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.547219006
+VS2024754;Carlos Valeria;Flores González;Contabilidad;Ciencias Económicas;21;Femenino;2.05;89.94;Virtual;Parcial;0;Medio;Ninguna;Media;Malo;15;No;No Aplica;Medio Riesgo;0.503654009
+JZ2024755;Lucía Juan;Pérez González;Enfermería;Ciencias de la Salud;24;Otro;3.78;82.84;Presencial;Ninguna;10;Alto;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.473764565
+MZ2024756;Jorge María;Pérez Rodríguez;Enfermería;Ciencias de la Salud;26;Femenino;4.13;98.53;Mixta;Ninguna;30;Alto;Deporte;Media;Regular;21;Sí;Problemas Económicos;Bajo Riesgo;0.385031431
+PZ2024757;Carlos Pedro;Pérez González;Economía;Ciencias Económicas;19;Femenino;3.78;64.15;Mixta;Completa;10;Medio;Ninguna;Alta;Regular;15;Sí;Problemas de Salud;Medio Riesgo;0.479210173
+MZ2024758;María María;Martínez Flores;Medicina;Ciencias de la Salud;27;Masculino;4.87;82.53;Mixta;Ninguna;30;Bajo;Arte;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.373273734
+LZ2024759;Juan Luis;Ramírez Gómez;Arquitectura;Artes y Diseño;24;Femenino;3.04;91.73;Virtual;Beca académica;0;Bajo;Deporte;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.482682378
+DZ2024760;Carlos Diego;Rodríguez Díaz;Enfermería;Ciencias de la Salud;27;Femenino;2.4;64.43;Virtual;Beca académica;30;Medio;Deporte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.476268177
+AZ2024761;Jorge Ana;Gómez Torres;Ingeniería Civil;Ingeniería;22;Masculino;3.73;51.02;Mixta;Ninguna;10;Alto;Ninguna;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.502924387
+CS2024762;Laura Carlos;Flores González;Derecho;Ciencias Jurídicas;30;Femenino;2.66;53.3;Mixta;Ninguna;0;Alto;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.569252259
+AZ2024763;Valeria Ana;Pérez Díaz;Enfermería;Ciencias de la Salud;27;Masculino;4.78;95.43;Virtual;Completa;40;Bajo;Club Académico;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.4117879
+DZ2024764;Ana Diego;Díaz Gómez;Contabilidad;Ciencias Económicas;17;Femenino;2.39;67.61;Virtual;Ninguna;10;Bajo;Voluntariado;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.601258783
+JZ2024765;Luis Juan;Pérez González;Derecho;Ciencias Jurídicas;18;Masculino;2.03;99.75;Virtual;Ninguna;20;Alto;Deporte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.516617537
+LZ2024766;Jorge Lucía;Ramírez González;Psicología;Humanidades;26;Otro;3.51;62.43;Virtual;Ninguna;10;Alto;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.567947982
+LZ2024767;Ana Laura;Martínez Torres;Ingeniería Civil;Ingeniería;30;Otro;3.96;55.01;Presencial;Ninguna;30;Alto;Voluntariado;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.453713631
+MS2024768;María María;Flores Hernández;Diseño Gráfico;Artes y Diseño;20;Masculino;3.84;86.02;Virtual;Beca deportiva;30;Medio;Deporte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.403728573
+LZ2024769;Sofía Luis;Pérez Hernández;Derecho;Ciencias Jurídicas;25;Masculino;2.3;79.35;Mixta;Completa;20;Alto;Deporte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.512856993
+MZ2024770;Lucía María;Hernández Rodríguez;Medicina;Ciencias de la Salud;27;Otro;2.47;72.34;Virtual;Ninguna;20;Alto;Ninguna;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.530145912
+DZ2024771;Jorge Diego;Ramírez Rodríguez;Contabilidad;Ciencias Económicas;24;Masculino;3.67;58.11;Presencial;Completa;0;Medio;Voluntariado;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.511465032
+LS2024772;Luis Lucía;Torres Torres;Administración de Empresas;Ciencias Económicas;18;Masculino;3.62;57.24;Virtual;Ninguna;20;Medio;Ninguna;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.515009615
+DZ2024773;Sofía Diego;Rodríguez Flores;Ingeniería Civil;Ingeniería;24;Femenino;2.61;68.15;Virtual;Ninguna;10;Medio;Voluntariado;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.507030135
+JZ2024774;Pedro Juan;Martínez Pérez;Ingeniería Civil;Ingeniería;18;Otro;3.93;57.47;Virtual;Ninguna;30;Medio;Deporte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.553389155
+DZ2024775;Valeria Diego;Ramírez Gómez;Economía;Ciencias Económicas;25;Otro;4.2;52.85;Virtual;Ninguna;10;Bajo;Ninguna;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.478178757
+AZ2024776;Carlos Ana;Díaz Díaz;Medicina;Ciencias de la Salud;20;Masculino;3.12;95.74;Presencial;Beca deportiva;0;Alto;Arte;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.428898677
+VZ2024777;Carlos Valeria;Pérez Díaz;Economía;Ciencias Económicas;30;Masculino;3.68;77.71;Virtual;Ninguna;20;Alto;Deporte;Media;Malo;21;Sí;Problemas Económicos;Medio Riesgo;0.463861201
+MS2024778;María María;Flores Díaz;Economía;Ciencias Económicas;29;Femenino;4.3;52.11;Presencial;Ninguna;10;Medio;Ninguna;Baja;Malo;21;Sí;Trabajo;Medio Riesgo;0.514797675
+DZ2024779;Jorge Diego;Ramírez Rodríguez;Psicología;Humanidades;29;Otro;4.89;59.42;Presencial;Parcial;30;Alto;Arte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.500492441
+AZ2024780;Lucía Ana;Martínez Torres;Derecho;Ciencias Jurídicas;23;Otro;4.18;76.78;Mixta;Ninguna;10;Medio;Ninguna;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.416359601
+JZ2024781;Sofía Juan;Martínez Pérez;Diseño Gráfico;Artes y Diseño;26;Otro;2.11;63.26;Virtual;Completa;20;Medio;Voluntariado;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.591919929
+CS2024782;Diego Carlos;Flores Gómez;Psicología;Humanidades;19;Otro;4.75;90.78;Mixta;Ninguna;10;Medio;Club Académico;Alta;Regular;15;No;No Aplica;Bajo Riesgo;0.377888055
+PZ2024783;Laura Pedro;Pérez Ramírez;Ingeniería Civil;Ingeniería;20;Otro;3.34;73.96;Virtual;Parcial;20;Bajo;Club Académico;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.550529608
+AZ2024784;Laura Ana;Rodríguez Ramírez;Ingeniería Civil;Ingeniería;27;Femenino;3.76;71.01;Virtual;Beca académica;0;Alto;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.491200916
+MZ2024785;Juan María;Pérez Rodríguez;Enfermería;Ciencias de la Salud;21;Masculino;3.1;55.45;Mixta;Ninguna;20;Medio;Arte;Alta;Regular;15;Sí;Problemas Familiares;Medio Riesgo;0.518965911
+JZ2024786;Lucía Jorge;Pérez Díaz;Diseño Gráfico;Artes y Diseño;25;Masculino;3.51;64.37;Mixta;Ninguna;40;Alto;Ninguna;Alta;Bueno;15;Sí;Problemas de Salud;Medio Riesgo;0.556868544
+DS2024787;Juan Diego;Torres Díaz;Comunicación Social;Humanidades;26;Masculino;3.44;58.93;Virtual;Ninguna;10;Bajo;Deporte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.495484528
+CZ2024788;Sofía Carlos;Díaz Rodríguez;Administración de Empresas;Ciencias Económicas;18;Masculino;4.7;82.9;Presencial;Ninguna;0;Bajo;Ninguna;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.409595748
+MS2024789;Juan María;Torres Gómez;Ingeniería Civil;Ingeniería;23;Femenino;4.35;79.48;Virtual;Parcial;10;Alto;Deporte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.489363831
+PZ2024790;Juan Pedro;Pérez Gómez;Ingeniería de Sistemas;Ingeniería;29;Femenino;2.2;87.89;Virtual;Completa;40;Medio;Arte;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.533433721
+CZ2024791;María Carlos;Díaz González;Economía;Ciencias Económicas;19;Masculino;4.75;89.35;Presencial;Ninguna;10;Bajo;Club Académico;Baja;Regular;12;No;No Aplica;Bajo Riesgo;0.390323058
+LZ2024792;Lucía Lucía;Ramírez Martínez;Derecho;Ciencias Jurídicas;28;Otro;2.65;76.78;Mixta;Completa;40;Bajo;Deporte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.465703714
+AZ2024793;Luis Ana;Gómez Rodríguez;Psicología;Humanidades;19;Otro;4.08;56.85;Presencial;Beca deportiva;20;Medio;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.532283916
+DZ2024794;Valeria Diego;Hernández Ramírez;Biología;Ciencias de la Salud;24;Masculino;2.32;84.49;Presencial;Ninguna;0;Bajo;Deporte;Baja;Bueno;18;Sí;Problemas de Salud;Medio Riesgo;0.530832122
+VZ2024795;Carlos Valeria;Gómez Pérez;Enfermería;Ciencias de la Salud;27;Masculino;4.77;79.89;Mixta;Ninguna;20;Medio;Deporte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.416805213
+SZ2024796;Lucía Sofía;Díaz Rodríguez;Medicina;Ciencias de la Salud;22;Otro;2.24;77.86;Presencial;Beca académica;10;Alto;Ninguna;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.580447641
+DZ2024797;Valeria Diego;Pérez Gómez;Arquitectura;Artes y Diseño;21;Masculino;3.36;75.06;Mixta;Ninguna;10;Alto;Arte;Alta;Bueno;12;No;No Aplica;Medio Riesgo;0.533586004
+PZ2024798;Diego Pedro;Gómez Flores;Enfermería;Ciencias de la Salud;21;Femenino;4.14;62.93;Mixta;Ninguna;30;Medio;Club Académico;Media;Regular;18;No;No Aplica;Medio Riesgo;0.510580092
+CZ2024799;Lucía Carlos;Díaz Pérez;Derecho;Ciencias Jurídicas;21;Masculino;2.75;62.01;Presencial;Ninguna;20;Medio;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.623196903
+AS2024800;Ana Ana;Torres Díaz;Ingeniería Civil;Ingeniería;23;Otro;4.66;63.22;Presencial;Ninguna;10;Bajo;Voluntariado;Baja;Malo;15;Sí;Problemas de Salud;Medio Riesgo;0.494711387
+DZ2024801;Laura Diego;Díaz González;Comunicación Social;Humanidades;20;Femenino;4.95;60.57;Virtual;Ninguna;30;Medio;Voluntariado;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.552417915
+PZ2024802;Sofía Pedro;Gómez Flores;Economía;Ciencias Económicas;26;Masculino;3.78;62.54;Virtual;Parcial;40;Medio;Club Académico;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.558133324
+JS2024803;Juan Juan;Torres Hernández;Economía;Ciencias Económicas;28;Femenino;4.19;52.25;Presencial;Ninguna;40;Bajo;Deporte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.488188667
+PZ2024804;Juan Pedro;Ramírez Ramírez;Derecho;Ciencias Jurídicas;17;Femenino;2.32;81.49;Presencial;Ninguna;10;Alto;Ninguna;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.482797645
+JS2024805;Luis Jorge;Torres Hernández;Medicina;Ciencias de la Salud;19;Otro;3;87.09;Presencial;Ninguna;0;Alto;Voluntariado;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.523013334
+LZ2024806;Valeria Lucía;Díaz Flores;Comunicación Social;Humanidades;30;Masculino;4.94;58.88;Mixta;Ninguna;0;Alto;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.498317012
+SZ2024807;María Sofía;Rodríguez Flores;Administración de Empresas;Ciencias Económicas;24;Masculino;4.53;84.44;Virtual;Parcial;30;Alto;Club Académico;Alta;Bueno;15;Sí;Problemas Familiares;Medio Riesgo;0.455706129
+JZ2024808;Carlos Jorge;Rodríguez Hernández;Psicología;Humanidades;25;Masculino;4.56;51.55;Presencial;Beca académica;40;Bajo;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.535710696
+LZ2024809;Sofía Lucía;Ramírez Torres;Diseño Gráfico;Artes y Diseño;17;Femenino;4.5;92.22;Presencial;Completa;20;Bajo;Ninguna;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.485919253
+SZ2024810;Pedro Sofía;Hernández Gómez;Enfermería;Ciencias de la Salud;20;Masculino;4.63;52.48;Virtual;Parcial;30;Bajo;Ninguna;Baja;Regular;21;Sí;Falta de Motivación;Medio Riesgo;0.495890511
+VZ2024811;Jorge Valeria;González Hernández;Diseño Gráfico;Artes y Diseño;17;Masculino;3.43;65.88;Virtual;Completa;10;Medio;Club Académico;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.581037445
+LS2024812;Lucía Lucía;Flores Gómez;Comunicación Social;Humanidades;26;Femenino;4.83;63.7;Mixta;Ninguna;20;Bajo;Ninguna;Media;Regular;18;No;No Aplica;Medio Riesgo;0.463773613
+LS2024813;Sofía Lucía;Torres Hernández;Contabilidad;Ciencias Económicas;19;Otro;2.85;88.73;Virtual;Ninguna;0;Bajo;Voluntariado;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.430040759
+JZ2024814;Juan Juan;Rodríguez Ramírez;Contabilidad;Ciencias Económicas;26;Otro;2.25;65.65;Virtual;Beca académica;30;Medio;Arte;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.542747293
+SZ2024815;Carlos Sofía;Díaz Hernández;Biología;Ciencias de la Salud;24;Masculino;2.6;86.81;Presencial;Ninguna;10;Bajo;Ninguna;Media;Malo;15;No;No Aplica;Medio Riesgo;0.495837674
+VZ2024816;Luis Valeria;Rodríguez Ramírez;Comunicación Social;Humanidades;17;Otro;2.29;63.99;Virtual;Completa;10;Alto;Ninguna;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.551641175
+LZ2024817;Luis Laura;Gómez Ramírez;Contabilidad;Ciencias Económicas;26;Masculino;4.08;80.25;Virtual;Ninguna;0;Alto;Voluntariado;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.459707219
+DZ2024818;Ana Diego;Hernández González;Administración de Empresas;Ciencias Económicas;20;Otro;4;99.69;Mixta;Parcial;30;Alto;Deporte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.494014425
+JZ2024819;Sofía Jorge;González Flores;Biología;Ciencias de la Salud;24;Femenino;3.31;62.82;Mixta;Ninguna;40;Medio;Club Académico;Baja;Bueno;15;Sí;Carga Académica;Medio Riesgo;0.592543365
+LZ2024820;Diego Luis;Martínez Rodríguez;Ingeniería Civil;Ingeniería;17;Masculino;3.07;82.51;Virtual;Ninguna;0;Medio;Arte;Baja;Bueno;12;Sí;Problemas Familiares;Medio Riesgo;0.538696356
+AS2024821;Luis Ana;Torres Díaz;Psicología;Humanidades;22;Femenino;3.16;99.94;Virtual;Parcial;30;Alto;Voluntariado;Media;Regular;12;No;No Aplica;Medio Riesgo;0.406591213
+LZ2024822;Luis Lucía;González Pérez;Derecho;Ciencias Jurídicas;22;Otro;4.35;88.15;Presencial;Ninguna;10;Medio;Club Académico;Media;Bueno;18;Sí;Carga Académica;Medio Riesgo;0.498356531
+JS2024823;Juan Juan;Flores Flores;Biología;Ciencias de la Salud;19;Femenino;2.21;74.44;Presencial;Ninguna;10;Bajo;Arte;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.568198726
+LZ2024824;Laura Luis;Martínez Pérez;Derecho;Ciencias Jurídicas;18;Otro;2.33;97.84;Virtual;Beca académica;30;Alto;Club Académico;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.536820328
+DZ2024825;Diego Diego;Gómez Ramírez;Administración de Empresas;Ciencias Económicas;28;Otro;4.81;98.06;Virtual;Completa;20;Medio;Ninguna;Media;Malo;12;No;No Aplica;Bajo Riesgo;0.387901227
+JS2024826;Ana Jorge;Torres Martínez;Arquitectura;Artes y Diseño;19;Otro;4.46;80.67;Mixta;Ninguna;20;Medio;Arte;Baja;Malo;18;Sí;Problemas Familiares;Medio Riesgo;0.47892849
+MZ2024827;Ana María;Pérez González;Arquitectura;Artes y Diseño;30;Femenino;2.51;81.7;Virtual;Ninguna;30;Medio;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.45447275
+SZ2024828;Diego Sofía;Ramírez Rodríguez;Medicina;Ciencias de la Salud;17;Otro;2.83;63.99;Virtual;Parcial;40;Bajo;Voluntariado;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.611800124
+LZ2024829;Ana Lucía;Martínez Rodríguez;Biología;Ciencias de la Salud;23;Femenino;2.22;90.09;Mixta;Ninguna;40;Bajo;Deporte;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.545185152
+LZ2024830;Sofía Laura;Martínez Flores;Biología;Ciencias de la Salud;24;Otro;3.64;52.41;Mixta;Ninguna;30;Medio;Arte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.505436917
+LZ2024831;Diego Luis;Martínez Díaz;Ingeniería Civil;Ingeniería;26;Masculino;3.51;87;Virtual;Ninguna;20;Medio;Ninguna;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.424481184
+SZ2024832;Ana Sofía;Ramírez González;Economía;Ciencias Económicas;23;Masculino;4.18;67.15;Mixta;Ninguna;40;Alto;Deporte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.470710474
+LZ2024833;Valeria Lucía;Gómez Torres;Economía;Ciencias Económicas;25;Otro;3.06;54.83;Presencial;Parcial;10;Bajo;Voluntariado;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.614285339
+JZ2024834;Carlos Juan;Hernández Pérez;Ingeniería de Sistemas;Ingeniería;29;Femenino;4.48;99.51;Virtual;Ninguna;0;Bajo;Voluntariado;Baja;Regular;21;No;No Aplica;Bajo Riesgo;0.322383241
+LZ2024835;Luis Laura;Díaz Rodríguez;Enfermería;Ciencias de la Salud;28;Femenino;2.75;57.48;Presencial;Parcial;0;Alto;Deporte;Media;Malo;18;Sí;Trabajo;Medio Riesgo;0.555146483
+JZ2024836;Ana Juan;Díaz Díaz;Arquitectura;Artes y Diseño;28;Femenino;2.47;63.35;Virtual;Parcial;40;Alto;Voluntariado;Media;Regular;15;No;No Aplica;Medio Riesgo;0.510962494
+JS2024837;Luis Juan;Torres Hernández;Psicología;Humanidades;22;Masculino;4.12;99.71;Presencial;Beca deportiva;30;Bajo;Voluntariado;Alta;Bueno;12;Sí;Problemas Familiares;Medio Riesgo;0.439994158
+LZ2024838;Sofía Laura;Pérez Gómez;Biología;Ciencias de la Salud;26;Femenino;2.56;51.8;Virtual;Ninguna;20;Alto;Voluntariado;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.548109738
+MS2024839;Valeria María;Torres Díaz;Ingeniería Civil;Ingeniería;27;Masculino;3.81;56.93;Virtual;Ninguna;30;Bajo;Arte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.458376374
+CZ2024840;María Carlos;Rodríguez Flores;Economía;Ciencias Económicas;20;Masculino;4.54;53.67;Presencial;Ninguna;20;Alto;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.558328003
+SZ2024841;Jorge Sofía;Rodríguez Díaz;Psicología;Humanidades;21;Otro;4.12;59.58;Presencial;Parcial;40;Medio;Ninguna;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.480007047
+LZ2024842;Lucía Luis;Rodríguez Pérez;Psicología;Humanidades;20;Femenino;2.41;75.39;Presencial;Ninguna;20;Alto;Club Académico;Alta;Malo;18;Sí;Carga Académica;Medio Riesgo;0.515110655
+SZ2024843;Lucía Sofía;Rodríguez Ramírez;Contabilidad;Ciencias Económicas;29;Masculino;2.56;80.01;Virtual;Ninguna;20;Alto;Arte;Media;Regular;15;Sí;Carga Académica;Medio Riesgo;0.447888898
+LS2024844;Lucía Luis;Torres Díaz;Medicina;Ciencias de la Salud;24;Masculino;2.61;99.96;Presencial;Ninguna;30;Medio;Arte;Baja;Bueno;18;No;No Aplica;Medio Riesgo;0.492180632
+JZ2024845;Pedro Juan;Hernández Torres;Medicina;Ciencias de la Salud;25;Masculino;4.11;89.48;Presencial;Ninguna;30;Medio;Ninguna;Baja;Regular;18;No;No Aplica;Bajo Riesgo;0.393175421
+CZ2024846;Pedro Carlos;Ramírez Torres;Ingeniería Civil;Ingeniería;20;Masculino;4.63;57.09;Virtual;Ninguna;30;Bajo;Deporte;Baja;Regular;21;Sí;Falta de Motivación;Medio Riesgo;0.482436284
+LS2024847;Jorge Laura;Torres Flores;Comunicación Social;Humanidades;18;Masculino;2.35;71.97;Mixta;Ninguna;20;Medio;Arte;Alta;Regular;15;Sí;Carga Académica;Medio Riesgo;0.502893514
+JZ2024848;María Juan;Ramírez González;Arquitectura;Artes y Diseño;18;Otro;3.32;74.89;Presencial;Ninguna;0;Medio;Arte;Alta;Regular;15;Sí;Carga Académica;Medio Riesgo;0.452538772
+PS2024849;Jorge Pedro;Torres Pérez;Contabilidad;Ciencias Económicas;28;Femenino;4.92;82.98;Presencial;Beca deportiva;30;Alto;Ninguna;Media;Regular;15;No;No Aplica;Bajo Riesgo;0.39308364
+SZ2024850;Ana Sofía;Gómez Rodríguez;Enfermería;Ciencias de la Salud;28;Masculino;2.09;51.28;Mixta;Parcial;30;Bajo;Arte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.651742093
+AZ2024851;Pedro Ana;Rodríguez Torres;Biología;Ciencias de la Salud;29;Masculino;4.91;64;Mixta;Ninguna;0;Medio;Arte;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.406284405
+CZ2024852;Diego Carlos;Pérez Pérez;Derecho;Ciencias Jurídicas;21;Masculino;4.04;64.47;Presencial;Ninguna;30;Medio;Deporte;Media;Malo;18;Sí;Problemas Familiares;Medio Riesgo;0.544432399
+SZ2024853;Valeria Sofía;Pérez Ramírez;Ingeniería Civil;Ingeniería;20;Otro;4.95;57.02;Presencial;Ninguna;20;Alto;Deporte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.537722343
+DZ2024854;Valeria Diego;Pérez Ramírez;Derecho;Ciencias Jurídicas;21;Otro;3.77;71.59;Virtual;Parcial;40;Alto;Club Académico;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.566539275
+JZ2024855;Valeria Jorge;Díaz Martínez;Diseño Gráfico;Artes y Diseño;21;Masculino;3.88;58.79;Virtual;Ninguna;0;Medio;Ninguna;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.483306994
+LZ2024856;Valeria Lucía;Rodríguez Torres;Medicina;Ciencias de la Salud;26;Otro;4.51;52.1;Virtual;Ninguna;20;Medio;Ninguna;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.455568415
+JZ2024857;Laura Juan;Gómez Gómez;Ingeniería de Sistemas;Ingeniería;26;Otro;4.73;51.9;Presencial;Ninguna;0;Alto;Club Académico;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.46438357
+CZ2024858;Lucía Carlos;Gómez Pérez;Arquitectura;Artes y Diseño;25;Otro;4.61;98.38;Mixta;Completa;10;Bajo;Deporte;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.418653391
+JZ2024859;Ana Jorge;Hernández Hernández;Contabilidad;Ciencias Económicas;17;Femenino;2.97;97.74;Presencial;Ninguna;40;Bajo;Club Académico;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.519103639
+SS2024860;Sofía Sofía;Flores Martínez;Economía;Ciencias Económicas;22;Femenino;3.91;98.35;Virtual;Ninguna;30;Alto;Ninguna;Alta;Malo;15;No;No Aplica;Bajo Riesgo;0.397620304
+DZ2024861;Lucía Diego;Ramírez Gómez;Comunicación Social;Humanidades;28;Femenino;3.49;87.86;Presencial;Beca académica;10;Alto;Ninguna;Baja;Regular;12;Sí;Carga Académica;Bajo Riesgo;0.390541503
+LZ2024862;Juan Laura;Martínez Ramírez;Medicina;Ciencias de la Salud;19;Femenino;3.85;69.92;Presencial;Ninguna;30;Medio;Arte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.584410007
+CZ2024863;Juan Carlos;González Hernández;Administración de Empresas;Ciencias Económicas;27;Otro;3.78;77.83;Virtual;Ninguna;0;Alto;Ninguna;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.508045953
+MZ2024864;Lucía María;Hernández González;Administración de Empresas;Ciencias Económicas;28;Otro;4.42;56.94;Presencial;Ninguna;20;Bajo;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.484950242
+JZ2024865;Pedro Juan;Díaz Pérez;Medicina;Ciencias de la Salud;26;Femenino;3.23;93.28;Mixta;Ninguna;0;Alto;Club Académico;Alta;Regular;21;No;No Aplica;Bajo Riesgo;0.37553068
+JZ2024866;María Juan;Pérez González;Biología;Ciencias de la Salud;28;Masculino;4.12;86.5;Presencial;Parcial;10;Bajo;Club Académico;Media;Regular;21;No;No Aplica;Bajo Riesgo;0.397865726
+CZ2024867;Juan Carlos;Díaz Torres;Economía;Ciencias Económicas;19;Masculino;2.98;89.76;Presencial;Ninguna;0;Alto;Ninguna;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.497121246
+JZ2024868;Pedro Jorge;Pérez Flores;Comunicación Social;Humanidades;20;Masculino;2.36;74.7;Virtual;Ninguna;30;Alto;Arte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.55197798
+MZ2024869;Jorge María;Ramírez Martínez;Comunicación Social;Humanidades;22;Femenino;4.49;82.41;Virtual;Ninguna;0;Alto;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.458392637
+SS2024870;Ana Sofía;Flores Ramírez;Economía;Ciencias Económicas;18;Otro;2.89;98.21;Virtual;Ninguna;20;Medio;Ninguna;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.440120831
+LZ2024871;Pedro Lucía;González Pérez;Comunicación Social;Humanidades;19;Masculino;2.99;59.98;Mixta;Beca académica;0;Alto;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.566290293
+JZ2024872;Laura Jorge;González González;Comunicación Social;Humanidades;26;Femenino;3.07;88.73;Mixta;Ninguna;30;Bajo;Club Académico;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.51033448
+DZ2024873;Pedro Diego;Gómez Díaz;Ingeniería Civil;Ingeniería;28;Otro;2.87;80.55;Presencial;Ninguna;10;Medio;Ninguna;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.51766267
+PZ2024874;Jorge Pedro;Díaz González;Medicina;Ciencias de la Salud;28;Masculino;2.35;96.56;Mixta;Ninguna;20;Bajo;Deporte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.513367563
+LS2024875;Valeria Laura;Flores Torres;Arquitectura;Artes y Diseño;26;Otro;2.27;72.61;Virtual;Ninguna;10;Bajo;Ninguna;Media;Regular;21;No;No Aplica;Medio Riesgo;0.486984283
+JZ2024876;Juan Jorge;Rodríguez Hernández;Diseño Gráfico;Artes y Diseño;17;Masculino;2.67;75.93;Virtual;Ninguna;10;Bajo;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.508725514
+JS2024877;Sofía Juan;Torres Hernández;Arquitectura;Artes y Diseño;17;Otro;2.53;88.24;Mixta;Parcial;30;Bajo;Voluntariado;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.518792383
+PZ2024878;Sofía Pedro;Ramírez Gómez;Economía;Ciencias Económicas;18;Otro;4.56;50.24;Presencial;Ninguna;20;Alto;Ninguna;Media;Malo;12;No;No Aplica;Medio Riesgo;0.575492532
+AZ2024879;Jorge Ana;Pérez Torres;Psicología;Humanidades;30;Otro;3.37;72.48;Presencial;Ninguna;30;Bajo;Voluntariado;Media;Regular;15;No;No Aplica;Medio Riesgo;0.45780089
+LZ2024880;Juan Luis;Díaz Pérez;Biología;Ciencias de la Salud;22;Masculino;2.83;98.59;Virtual;Parcial;0;Bajo;Arte;Media;Malo;12;No;No Aplica;Medio Riesgo;0.45160723
+LZ2024881;Ana Laura;Díaz González;Enfermería;Ciencias de la Salud;22;Femenino;4.91;54.19;Presencial;Completa;40;Alto;Voluntariado;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.528649091
+VS2024882;Luis Valeria;Torres Rodríguez;Diseño Gráfico;Artes y Diseño;22;Otro;3.47;94.05;Presencial;Parcial;10;Alto;Voluntariado;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.438995125
+JZ2024883;Jorge Jorge;Gómez Pérez;Contabilidad;Ciencias Económicas;17;Otro;4.2;65.61;Mixta;Ninguna;30;Bajo;Deporte;Alta;Regular;15;Sí;Falta de Motivación;Medio Riesgo;0.477883592
+AS2024884;Carlos Ana;Torres Gómez;Biología;Ciencias de la Salud;21;Otro;4.01;91.77;Mixta;Parcial;0;Bajo;Voluntariado;Media;Regular;15;Sí;Problemas de Salud;Medio Riesgo;0.416379262
+VZ2024885;Luis Valeria;Pérez Flores;Psicología;Humanidades;28;Masculino;4.01;89.34;Mixta;Ninguna;20;Bajo;Ninguna;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.489843336
+LZ2024886;Diego Luis;Hernández Gómez;Medicina;Ciencias de la Salud;20;Otro;3.57;92.99;Mixta;Completa;0;Medio;Voluntariado;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.454784434
+MS2024887;Jorge María;Flores Martínez;Enfermería;Ciencias de la Salud;27;Masculino;4.52;94.31;Mixta;Completa;40;Bajo;Arte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.412596891
+MZ2024888;Carlos María;Hernández González;Derecho;Ciencias Jurídicas;21;Masculino;2.4;54.32;Mixta;Parcial;20;Bajo;Club Académico;Media;Regular;12;No;No Aplica;Medio Riesgo;0.575818319
+SZ2024889;Sofía Sofía;Pérez González;Biología;Ciencias de la Salud;27;Femenino;2.03;95.21;Virtual;Parcial;10;Alto;Voluntariado;Media;Bueno;12;Sí;Trabajo;Medio Riesgo;0.508424901
+AZ2024890;Jorge Ana;González Pérez;Comunicación Social;Humanidades;30;Masculino;3.7;71.45;Virtual;Completa;10;Bajo;Voluntariado;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.504252214
+LZ2024891;Pedro Laura;Díaz Hernández;Diseño Gráfico;Artes y Diseño;20;Otro;2.45;86.63;Mixta;Ninguna;30;Alto;Ninguna;Media;Malo;12;No;No Aplica;Medio Riesgo;0.530285075
+LZ2024892;Valeria Luis;Martínez Rodríguez;Ingeniería Civil;Ingeniería;23;Otro;2.04;82.37;Virtual;Ninguna;10;Alto;Deporte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.474708335
+VS2024893;Lucía Valeria;Flores González;Derecho;Ciencias Jurídicas;28;Otro;4.03;88.4;Presencial;Ninguna;0;Bajo;Deporte;Alta;Malo;21;No;No Aplica;Bajo Riesgo;0.396865377
+PZ2024894;Juan Pedro;Ramírez Gómez;Comunicación Social;Humanidades;23;Masculino;2.37;83.33;Virtual;Ninguna;40;Medio;Ninguna;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.547441344
+JZ2024895;Jorge Jorge;Díaz Gómez;Biología;Ciencias de la Salud;17;Masculino;3.46;77.77;Mixta;Ninguna;30;Alto;Arte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.522387955
+VZ2024896;Laura Valeria;Ramírez González;Biología;Ciencias de la Salud;20;Otro;2.4;52.51;Presencial;Ninguna;30;Medio;Arte;Baja;Regular;15;Sí;Carga Académica;Medio Riesgo;0.565045118
+LZ2024897;Juan Luis;Rodríguez Flores;Psicología;Humanidades;25;Otro;4.88;92.09;Mixta;Ninguna;0;Alto;Club Académico;Media;Malo;21;No;No Aplica;Medio Riesgo;0.417534061
+JZ2024898;Pedro Juan;Rodríguez Ramírez;Ingeniería Civil;Ingeniería;24;Masculino;3.63;84.08;Presencial;Beca académica;20;Alto;Arte;Media;Regular;15;Sí;Falta de Motivación;Medio Riesgo;0.435134587
+CZ2024899;Jorge Carlos;Gómez Hernández;Ingeniería Civil;Ingeniería;26;Masculino;3.26;56.09;Presencial;Parcial;40;Bajo;Deporte;Media;Malo;15;Sí;Problemas Económicos;Medio Riesgo;0.571604519
+JZ2024900;Jorge Jorge;Pérez Martínez;Enfermería;Ciencias de la Salud;29;Masculino;3.85;80.79;Mixta;Parcial;40;Alto;Ninguna;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.398493356
+VZ2024901;Pedro Valeria;Martínez Torres;Ingeniería Civil;Ingeniería;23;Masculino;2.62;76.85;Mixta;Parcial;20;Alto;Club Académico;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.476096612
+MZ2024902;Jorge María;Gómez Flores;Administración de Empresas;Ciencias Económicas;26;Otro;2.06;89.45;Presencial;Ninguna;20;Bajo;Voluntariado;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.461516292
+AS2024903;Ana Ana;Flores Gómez;Derecho;Ciencias Jurídicas;26;Masculino;3.65;74.77;Presencial;Ninguna;10;Bajo;Deporte;Media;Regular;18;No;No Aplica;Medio Riesgo;0.451446146
+VZ2024904;Lucía Valeria;Díaz Hernández;Diseño Gráfico;Artes y Diseño;27;Femenino;4.61;95.38;Presencial;Ninguna;20;Bajo;Arte;Media;Bueno;15;No;No Aplica;Medio Riesgo;0.452519142
+LZ2024905;Juan Luis;Hernández Hernández;Comunicación Social;Humanidades;28;Masculino;3.97;69.05;Presencial;Ninguna;20;Medio;Ninguna;Alta;Regular;18;No;No Aplica;Medio Riesgo;0.420843959
+CZ2024906;Luis Carlos;González Martínez;Ingeniería de Sistemas;Ingeniería;27;Otro;2.44;60.22;Virtual;Ninguna;20;Medio;Voluntariado;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.483375731
+SZ2024907;Lucía Sofía;Martínez Torres;Ingeniería Civil;Ingeniería;27;Masculino;2.49;57.96;Virtual;Ninguna;0;Medio;Club Académico;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.523891637
+AZ2024908;Laura Ana;Gómez Hernández;Medicina;Ciencias de la Salud;24;Masculino;4.02;67.58;Virtual;Parcial;40;Alto;Club Académico;Media;Regular;15;No;No Aplica;Medio Riesgo;0.472985858
+AZ2024909;Pedro Ana;Rodríguez Torres;Psicología;Humanidades;19;Masculino;3.97;85.84;Virtual;Completa;20;Bajo;Voluntariado;Media;Malo;12;No;No Aplica;Medio Riesgo;0.478262587
+LZ2024910;Valeria Luis;Ramírez Ramírez;Arquitectura;Artes y Diseño;26;Otro;4.79;69.16;Presencial;Ninguna;30;Alto;Club Académico;Baja;Bueno;15;No;No Aplica;Medio Riesgo;0.511571911
+DZ2024911;María Diego;González Martínez;Psicología;Humanidades;18;Otro;2.19;75.07;Virtual;Ninguna;0;Medio;Club Académico;Alta;Bueno;21;No;No Aplica;Medio Riesgo;0.561190192
+DZ2024912;Laura Diego;Gómez Flores;Arquitectura;Artes y Diseño;26;Masculino;2.61;93.7;Mixta;Parcial;10;Alto;Voluntariado;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.498009484
+SZ2024913;Luis Sofía;Rodríguez Rodríguez;Administración de Empresas;Ciencias Económicas;26;Masculino;2.21;57.41;Virtual;Ninguna;40;Medio;Club Académico;Baja;Malo;18;Sí;Trabajo;Medio Riesgo;0.571591723
+LZ2024914;Laura Lucía;Gómez Pérez;Ingeniería de Sistemas;Ingeniería;26;Masculino;2.29;53.31;Virtual;Ninguna;10;Medio;Club Académico;Media;Malo;12;No;No Aplica;Medio Riesgo;0.587355875
+LZ2024915;Luis Lucía;González Ramírez;Ingeniería Civil;Ingeniería;29;Femenino;4.24;68.48;Mixta;Ninguna;0;Bajo;Arte;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.532328817
+JZ2024916;Luis Jorge;Martínez Martínez;Medicina;Ciencias de la Salud;30;Otro;3.27;74.58;Virtual;Ninguna;10;Bajo;Club Académico;Baja;Bueno;12;No;No Aplica;Medio Riesgo;0.506668193
+VZ2024917;Carlos Valeria;Díaz Pérez;Biología;Ciencias de la Salud;25;Femenino;4.64;72.46;Presencial;Ninguna;0;Medio;Arte;Media;Regular;21;No;No Aplica;Medio Riesgo;0.433704335
+DZ2024918;Pedro Diego;Martínez Gómez;Biología;Ciencias de la Salud;25;Masculino;3.07;89.73;Mixta;Ninguna;20;Alto;Ninguna;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.443450191
+VZ2024919;María Valeria;González Pérez;Biología;Ciencias de la Salud;29;Masculino;3.03;61.37;Mixta;Ninguna;30;Bajo;Deporte;Baja;Regular;15;No;No Aplica;Medio Riesgo;0.492336174
+LZ2024920;Ana Laura;Rodríguez Hernández;Psicología;Humanidades;23;Masculino;4.77;66.43;Virtual;Ninguna;0;Bajo;Club Académico;Media;Regular;15;No;No Aplica;Medio Riesgo;0.4459558
+MZ2024921;Luis María;Martínez Pérez;Comunicación Social;Humanidades;29;Otro;2.59;67.2;Virtual;Parcial;20;Bajo;Ninguna;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.535881539
+CZ2024922;María Carlos;Ramírez Hernández;Administración de Empresas;Ciencias Económicas;29;Otro;2.69;73.92;Presencial;Ninguna;40;Medio;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.568382169
+JZ2024923;María Jorge;Hernández Ramírez;Economía;Ciencias Económicas;24;Otro;4.22;63.88;Presencial;Ninguna;40;Alto;Deporte;Alta;Regular;12;Sí;Trabajo;Medio Riesgo;0.448973506
+SZ2024924;Sofía Sofía;Martínez Hernández;Medicina;Ciencias de la Salud;30;Otro;2.49;53.26;Presencial;Ninguna;40;Bajo;Ninguna;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.590239539
+LZ2024925;María Lucía;Pérez González;Arquitectura;Artes y Diseño;20;Otro;2.47;70.12;Presencial;Ninguna;40;Medio;Club Académico;Media;Regular;18;Sí;Problemas de Salud;Medio Riesgo;0.534804898
+JZ2024926;Carlos Jorge;Gómez Ramírez;Ingeniería de Sistemas;Ingeniería;24;Otro;3.85;92.11;Mixta;Ninguna;40;Medio;Deporte;Alta;Bueno;15;No;No Aplica;Medio Riesgo;0.474953979
+MS2024927;Sofía María;Flores Flores;Medicina;Ciencias de la Salud;21;Otro;3.96;96.31;Virtual;Ninguna;30;Medio;Deporte;Media;Regular;12;No;No Aplica;Medio Riesgo;0.403753707
+CZ2024928;Pedro Carlos;Martínez Ramírez;Economía;Ciencias Económicas;26;Femenino;2.03;87.41;Virtual;Ninguna;10;Alto;Deporte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.448420901
+LZ2024929;Valeria Lucía;Martínez Gómez;Medicina;Ciencias de la Salud;28;Masculino;2.39;97.09;Presencial;Parcial;30;Alto;Voluntariado;Alta;Bueno;18;Sí;Carga Académica;Medio Riesgo;0.467909525
+JS2024930;Valeria Juan;Flores González;Enfermería;Ciencias de la Salud;30;Masculino;4.41;87.77;Mixta;Ninguna;10;Alto;Arte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.426648696
+CZ2024931;Ana Carlos;Martínez Flores;Enfermería;Ciencias de la Salud;26;Otro;2.8;60.12;Virtual;Ninguna;30;Medio;Club Académico;Media;Regular;21;No;No Aplica;Medio Riesgo;0.519375574
+VZ2024932;Valeria Valeria;Martínez Gómez;Ingeniería de Sistemas;Ingeniería;24;Masculino;2.67;81.69;Presencial;Beca deportiva;40;Medio;Ninguna;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.485887156
+DZ2024933;Carlos Diego;Hernández Gómez;Ingeniería de Sistemas;Ingeniería;20;Femenino;4.41;55.87;Virtual;Ninguna;0;Bajo;Club Académico;Baja;Bueno;18;Sí;Falta de Motivación;Medio Riesgo;0.566181717
+LZ2024934;Diego Lucía;Rodríguez González;Administración de Empresas;Ciencias Económicas;20;Masculino;2.88;65.91;Mixta;Ninguna;20;Alto;Deporte;Alta;Regular;21;No;No Aplica;Medio Riesgo;0.494388811
+LZ2024935;Sofía Luis;Hernández Rodríguez;Ingeniería Civil;Ingeniería;27;Femenino;4.95;83.62;Mixta;Ninguna;20;Bajo;Arte;Alta;Malo;12;Sí;Carga Académica;Medio Riesgo;0.405646096
+MS2024936;Diego María;Flores Torres;Medicina;Ciencias de la Salud;24;Otro;4.5;81.06;Mixta;Beca académica;40;Bajo;Club Académico;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.462987459
+DZ2024937;Sofía Diego;Gómez Gómez;Enfermería;Ciencias de la Salud;22;Otro;2.5;57.81;Presencial;Parcial;40;Medio;Ninguna;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.585970484
+CZ2024938;Carlos Carlos;Pérez Hernández;Medicina;Ciencias de la Salud;26;Masculino;4.62;65.57;Virtual;Parcial;30;Bajo;Club Académico;Media;Regular;18;No;No Aplica;Medio Riesgo;0.452723464
+JZ2024939;Jorge Jorge;Hernández Pérez;Administración de Empresas;Ciencias Económicas;21;Femenino;3.6;87.07;Mixta;Ninguna;40;Medio;Arte;Baja;Malo;21;No;No Aplica;Medio Riesgo;0.483542743
+VZ2024940;Laura Valeria;González Gómez;Ingeniería Civil;Ingeniería;24;Femenino;4.65;77.38;Mixta;Ninguna;30;Alto;Deporte;Media;Malo;18;No;No Aplica;Medio Riesgo;0.482214085
+LZ2024941;Diego Luis;Gómez Flores;Economía;Ciencias Económicas;23;Femenino;2.92;58.35;Virtual;Ninguna;30;Bajo;Ninguna;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.555950849
+CZ2024942;Ana Carlos;Rodríguez Ramírez;Diseño Gráfico;Artes y Diseño;28;Femenino;2.33;55.36;Virtual;Ninguna;30;Alto;Deporte;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.558522688
+PZ2024943;Ana Pedro;Pérez Flores;Diseño Gráfico;Artes y Diseño;30;Otro;3.48;94.96;Mixta;Ninguna;20;Medio;Voluntariado;Media;Malo;18;No;No Aplica;Medio Riesgo;0.438481882
+DZ2024944;Sofía Diego;Ramírez Pérez;Diseño Gráfico;Artes y Diseño;18;Otro;4.47;91.51;Virtual;Ninguna;40;Medio;Arte;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.401600206
+AZ2024945;Lucía Ana;Gómez Flores;Ingeniería Civil;Ingeniería;27;Masculino;3.53;75.66;Virtual;Parcial;20;Bajo;Arte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.531237101
+SZ2024946;Carlos Sofía;González Hernández;Enfermería;Ciencias de la Salud;29;Otro;4.74;52.37;Presencial;Ninguna;40;Alto;Club Académico;Media;Regular;21;No;No Aplica;Medio Riesgo;0.485729935
+LZ2024947;Juan Laura;Díaz González;Derecho;Ciencias Jurídicas;28;Otro;2.82;86.19;Presencial;Beca deportiva;20;Medio;Club Académico;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.402301337
+LS2024948;Carlos Lucía;Torres Hernández;Ingeniería Civil;Ingeniería;23;Masculino;4.28;57.69;Virtual;Ninguna;30;Bajo;Ninguna;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.50291481
+LZ2024949;Pedro Lucía;Rodríguez Rodríguez;Diseño Gráfico;Artes y Diseño;30;Masculino;4.72;66.78;Presencial;Completa;10;Bajo;Arte;Baja;Regular;12;No;No Aplica;Medio Riesgo;0.412137957
+LZ2024950;María Lucía;Pérez Gómez;Enfermería;Ciencias de la Salud;23;Otro;3.01;79.58;Presencial;Ninguna;30;Bajo;Ninguna;Media;Regular;18;No;No Aplica;Medio Riesgo;0.47466854
+LZ2024951;Luis Lucía;Rodríguez Martínez;Psicología;Humanidades;24;Femenino;4.18;73.8;Presencial;Ninguna;30;Medio;Arte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.421416967
+DZ2024952;Ana Diego;Martínez Flores;Enfermería;Ciencias de la Salud;17;Femenino;3.86;56;Mixta;Beca académica;0;Alto;Voluntariado;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.586868346
+JZ2024953;Carlos Juan;Pérez Ramírez;Diseño Gráfico;Artes y Diseño;24;Femenino;3.06;75.8;Virtual;Ninguna;0;Bajo;Voluntariado;Media;Bueno;12;No;No Aplica;Medio Riesgo;0.547162884
+PZ2024954;Ana Pedro;Hernández Díaz;Contabilidad;Ciencias Económicas;29;Masculino;3.25;87.15;Presencial;Ninguna;20;Bajo;Arte;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.40067856
+SS2024955;María Sofía;Flores Flores;Enfermería;Ciencias de la Salud;19;Masculino;5;65.15;Virtual;Ninguna;20;Medio;Voluntariado;Baja;Regular;18;No;No Aplica;Medio Riesgo;0.450987324
+LZ2024956;Lucía Luis;Martínez González;Ingeniería de Sistemas;Ingeniería;29;Masculino;2.62;99.06;Mixta;Parcial;10;Medio;Arte;Alta;Malo;12;Sí;Carga Académica;Medio Riesgo;0.412811345
+AZ2024957;Juan Ana;González Flores;Ingeniería Civil;Ingeniería;17;Femenino;2.74;92.23;Mixta;Beca académica;30;Alto;Club Académico;Baja;Malo;12;Sí;Problemas Económicos;Medio Riesgo;0.499528774
+AZ2024958;Lucía Ana;Díaz Ramírez;Enfermería;Ciencias de la Salud;20;Masculino;4.91;52.39;Virtual;Ninguna;40;Alto;Arte;Alta;Bueno;21;Sí;Problemas Económicos;Medio Riesgo;0.558792769
+MZ2024959;Luis María;Hernández González;Biología;Ciencias de la Salud;27;Masculino;3.46;90.77;Mixta;Beca académica;30;Alto;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.48792194
+MZ2024960;Juan María;Gómez Ramírez;Enfermería;Ciencias de la Salud;23;Otro;2.64;50.83;Presencial;Ninguna;30;Bajo;Club Académico;Media;Malo;18;No;No Aplica;Medio Riesgo;0.610186702
+MZ2024961;Diego María;Ramírez Pérez;Enfermería;Ciencias de la Salud;22;Masculino;4.72;69.9;Virtual;Ninguna;30;Medio;Deporte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.461491378
+LZ2024962;Diego Luis;Gómez Díaz;Administración de Empresas;Ciencias Económicas;20;Otro;3.46;97.55;Virtual;Ninguna;10;Medio;Voluntariado;Media;Malo;21;No;No Aplica;Medio Riesgo;0.451789656
+MZ2024963;Sofía María;Hernández Martínez;Medicina;Ciencias de la Salud;29;Femenino;4.92;57.51;Virtual;Ninguna;10;Bajo;Voluntariado;Baja;Regular;21;No;No Aplica;Medio Riesgo;0.429674974
+PZ2024964;Pedro Pedro;Pérez Díaz;Comunicación Social;Humanidades;26;Femenino;3.92;79.23;Virtual;Ninguna;30;Bajo;Arte;Baja;Malo;15;Sí;Trabajo;Medio Riesgo;0.456450336
+SZ2024965;Valeria Sofía;Gómez Torres;Derecho;Ciencias Jurídicas;22;Masculino;4.84;96.38;Virtual;Beca académica;10;Medio;Club Académico;Media;Regular;18;Sí;Problemas Familiares;Bajo Riesgo;0.369570608
+MZ2024966;Sofía María;Rodríguez González;Diseño Gráfico;Artes y Diseño;29;Otro;4.15;50.5;Virtual;Ninguna;30;Medio;Deporte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.461968708
+JZ2024967;Diego Jorge;Martínez Gómez;Derecho;Ciencias Jurídicas;22;Masculino;2.02;87.67;Presencial;Parcial;0;Bajo;Club Académico;Alta;Bueno;18;No;No Aplica;Medio Riesgo;0.518990523
+PZ2024968;Luis Pedro;Rodríguez Martínez;Ingeniería de Sistemas;Ingeniería;24;Masculino;2.1;83.07;Mixta;Ninguna;30;Medio;Arte;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.519417894
+PZ2024969;Valeria Pedro;Ramírez Rodríguez;Ingeniería Civil;Ingeniería;27;Otro;2.97;74.55;Mixta;Ninguna;20;Medio;Voluntariado;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.442942169
+LZ2024970;Lucía Luis;Ramírez Gómez;Biología;Ciencias de la Salud;26;Otro;3.58;61.97;Presencial;Ninguna;30;Alto;Club Académico;Media;Regular;18;No;No Aplica;Medio Riesgo;0.496770669
+AZ2024971;Sofía Ana;Ramírez Ramírez;Comunicación Social;Humanidades;27;Femenino;4.41;82.41;Mixta;Completa;30;Bajo;Ninguna;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.50742717
+MZ2024972;María María;González Ramírez;Derecho;Ciencias Jurídicas;21;Masculino;2.71;58.91;Presencial;Parcial;0;Medio;Arte;Alta;Regular;12;No;No Aplica;Medio Riesgo;0.5034492
+JS2024973;Juan Jorge;Torres Flores;Enfermería;Ciencias de la Salud;23;Femenino;4.13;97.59;Virtual;Ninguna;0;Bajo;Voluntariado;Baja;Malo;15;No;No Aplica;Bajo Riesgo;0.398230045
+SZ2024974;Luis Sofía;González González;Arquitectura;Artes y Diseño;30;Femenino;3.95;92.38;Virtual;Ninguna;10;Alto;Club Académico;Media;Regular;18;No;No Aplica;Bajo Riesgo;0.369233217
+JZ2024975;Luis Juan;Pérez Hernández;Biología;Ciencias de la Salud;28;Otro;4.8;73.93;Virtual;Ninguna;0;Bajo;Arte;Alta;Regular;18;No;No Aplica;Bajo Riesgo;0.368872406
+JZ2024976;Ana Jorge;Hernández Gómez;Enfermería;Ciencias de la Salud;20;Otro;3.31;92.74;Virtual;Parcial;20;Alto;Ninguna;Media;Malo;15;No;No Aplica;Medio Riesgo;0.469895694
+AS2024977;María Ana;Torres Díaz;Biología;Ciencias de la Salud;28;Femenino;2.43;58.45;Virtual;Parcial;40;Bajo;Club Académico;Media;Bueno;21;No;No Aplica;Medio Riesgo;0.613290364
+VZ2024978;María Valeria;Hernández Martínez;Administración de Empresas;Ciencias Económicas;20;Masculino;4.77;58.31;Presencial;Ninguna;0;Alto;Club Académico;Media;Bueno;21;Sí;Falta de Motivación;Medio Riesgo;0.573610547
+SZ2024979;Valeria Sofía;Pérez Martínez;Derecho;Ciencias Jurídicas;23;Femenino;4.89;54.28;Presencial;Ninguna;0;Alto;Arte;Alta;Regular;21;Sí;Carga Académica;Medio Riesgo;0.446629995
+LZ2024980;Jorge Laura;Rodríguez Rodríguez;Enfermería;Ciencias de la Salud;17;Otro;2.27;52.69;Presencial;Parcial;20;Bajo;Deporte;Media;Bueno;18;No;No Aplica;Medio Riesgo;0.672539877
+CZ2024981;María Carlos;Martínez Martínez;Derecho;Ciencias Jurídicas;22;Masculino;3.31;98.78;Virtual;Parcial;30;Bajo;Voluntariado;Alta;Malo;21;No;No Aplica;Medio Riesgo;0.413866829
+JZ2024982;Valeria Juan;Martínez Hernández;Derecho;Ciencias Jurídicas;23;Femenino;4.02;54.27;Mixta;Ninguna;20;Bajo;Ninguna;Media;Regular;15;Sí;Problemas de Salud;Medio Riesgo;0.524995086
+LZ2024983;Pedro Luis;Martínez Ramírez;Comunicación Social;Humanidades;29;Masculino;4.2;91.39;Presencial;Ninguna;30;Bajo;Voluntariado;Baja;Bueno;21;Sí;Trabajo;Medio Riesgo;0.452636082
+MS2024984;María María;Torres Ramírez;Administración de Empresas;Ciencias Económicas;18;Otro;2.37;97.02;Presencial;Ninguna;30;Medio;Club Académico;Media;Malo;12;No;No Aplica;Medio Riesgo;0.506384359
+SZ2024985;Valeria Sofía;Gómez Gómez;Economía;Ciencias Económicas;18;Femenino;3.13;50.72;Virtual;Ninguna;20;Medio;Ninguna;Baja;Malo;12;No;No Aplica;Medio Riesgo;0.589722032
+DS2024986;Sofía Diego;Torres Rodríguez;Contabilidad;Ciencias Económicas;22;Masculino;3.6;53.6;Presencial;Ninguna;10;Bajo;Deporte;Media;Malo;21;No;No Aplica;Medio Riesgo;0.573404449
+CZ2024987;Diego Carlos;Díaz Díaz;Derecho;Ciencias Jurídicas;28;Otro;4.73;65.84;Virtual;Ninguna;10;Alto;Club Académico;Media;Bueno;12;Sí;Carga Académica;Medio Riesgo;0.517618445
+AZ2024988;Valeria Ana;González Gómez;Contabilidad;Ciencias Económicas;29;Otro;3.7;62.52;Mixta;Beca deportiva;40;Bajo;Club Académico;Alta;Malo;12;No;No Aplica;Medio Riesgo;0.499904316
+SZ2024989;Jorge Sofía;González Ramírez;Comunicación Social;Humanidades;18;Femenino;4.82;51.86;Presencial;Ninguna;30;Bajo;Deporte;Alta;Regular;15;No;No Aplica;Medio Riesgo;0.48965319
+LS2024990;Luis Laura;Flores Martínez;Ingeniería Civil;Ingeniería;28;Masculino;3.41;57.73;Mixta;Ninguna;20;Alto;Arte;Alta;Malo;18;No;No Aplica;Medio Riesgo;0.515504345
+CZ2024991;Juan Carlos;Ramírez Ramírez;Psicología;Humanidades;20;Masculino;2.66;64.86;Virtual;Ninguna;40;Medio;Voluntariado;Baja;Malo;18;No;No Aplica;Medio Riesgo;0.561923272
+JZ2024992;Laura Juan;Pérez Díaz;Biología;Ciencias de la Salud;25;Otro;2.18;81.46;Mixta;Ninguna;20;Alto;Arte;Media;Regular;15;No;No Aplica;Medio Riesgo;0.485094386
+LS2024993;Jorge Laura;Torres Martínez;Arquitectura;Artes y Diseño;25;Masculino;3.12;87.36;Virtual;Completa;0;Bajo;Ninguna;Media;Malo;21;No;No Aplica;Medio Riesgo;0.464511738
+LS2024994;Pedro Laura;Torres Ramírez;Ingeniería de Sistemas;Ingeniería;22;Femenino;3.97;64.18;Virtual;Completa;20;Bajo;Ninguna;Alta;Malo;15;No;No Aplica;Medio Riesgo;0.492196975
+MZ2024995;Laura María;Martínez Ramírez;Economía;Ciencias Económicas;25;Otro;3.12;61.92;Mixta;Ninguna;40;Alto;Club Académico;Baja;Malo;18;Sí;Problemas Familiares;Medio Riesgo;0.549752086
+MS2024996;Lucía María;Flores Martínez;Psicología;Humanidades;30;Masculino;3.19;97.83;Mixta;Ninguna;20;Alto;Ninguna;Baja;Malo;15;No;No Aplica;Medio Riesgo;0.41578663
+AZ2024997;Carlos Ana;Gómez Ramírez;Arquitectura;Artes y Diseño;24;Femenino;3.55;95.44;Presencial;Parcial;30;Bajo;Club Académico;Baja;Bueno;21;No;No Aplica;Medio Riesgo;0.478152654
+CS2024998;Carlos Carlos;Torres Hernández;Enfermería;Ciencias de la Salud;20;Otro;3.72;87.06;Presencial;Ninguna;10;Alto;Deporte;Baja;Bueno;21;Sí;Trabajo;Medio Riesgo;0.503866106
+JZ2024999;Juan Juan;González Pérez;Medicina;Ciencias de la Salud;17;Masculino;3.39;86.77;Mixta;Ninguna;30;Medio;Club Académico;Media;Regular;15;No;No Aplica;Medio Riesgo;0.477142065
+LZ20241000;Valeria Luis;Martínez Torres;Medicina;Ciencias de la Salud;25;Masculino;4.39;81.65;Presencial;Completa;20;Bajo;Ninguna;Alta;Regular;12;No;No Aplica;Bajo Riesgo;0.384253408
