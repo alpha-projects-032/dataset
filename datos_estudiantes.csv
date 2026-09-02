@@ -1,0 +1,1001 @@
+﻿Edad;Sexo;Carrera;HorasEstudio;Promedio;Deporte;Dispositivo;Satisfacción
+28;Femenino;Biología;13.9;80.0;No;PC;3.0
+29;Otro;Administración de Empresas;11.0;61.2;Sí;PC;3.0
+30;Femenino;Enfermería;14.3;50.4;No;PC;5.0
+30;Masculino;Medicina;12.5;48.2;No;Laptop;3.0
+19;Masculino;Medicina;13.7;42.2;No;Tablet;2.0
+29;Masculino;Comunicación Social;11.4;80.2;No;Tablet;3.0
+18;Otro;Administración de Empresas;12.2;68.6;No;PC;3.0
+27;Otro;Contabilidad;10.3;71.8;Sí;Tablet;5.0
+18;Femenino;Contabilidad;9.4;51.6;No;Tablet;2.0
+17;Otro;Economía;10.1;87.6;No;Laptop;5.0
+24;Femenino;Enfermería;9.3;67.0;No;PC;5.0
+22;Otro;Economía;8.3;76.4;No;PC;3.0
+28;Masculino;Medicina;15.8;73.6;No;Tablet;5.0
+24;Otro;Administración de Empresas;11.6;92.2;Sí;Laptop;3.0
+17;Masculino;Ingeniería de Sistemas;10.4;40.4;No;Tablet;2.0
+28;Otro;Psicología;12.8;60.8;No;PC;2.0
+30;Masculino;Arquitectura;12.6;62.6;Sí;Tablet;5.0
+21;Otro;Contabilidad;15.4;63.4;No;PC;2.0
+23;Masculino;Ingeniería Civil;14.6;99.8;Sí;PC;2.0
+27;Femenino;Diseño Gráfico;13.7;68.6;No;PC;2.0
+26;Otro;Economía;8.6;52.8;No;PC;2.0
+24;Masculino;Medicina;9.9;60.4;No;Tablet;2.0
+25;Femenino;Administración de Empresas;9.3;96.0;Sí;Tablet;5.0
+17;Femenino;Medicina;10.1;89.0;Sí;Laptop;3.0
+19;Masculino;Comunicación Social;12.5;74.0;Sí;Laptop;3.0
+19;Otro;Psicología;10.9;94.2;No;Tablet;3.0
+24;Femenino;Ingeniería Civil;13.5;94.0;Sí;Tablet;5.0
+29;Masculino;Derecho;14.3;41.0;No;Laptop;3.0
+25;Femenino;Administración de Empresas;12.7;97.2;No;Laptop;5.0
+20;Femenino;Diseño Gráfico;10.4;80.4;No;PC;3.0
+26;Masculino;Enfermería;8.1;76.8;No;PC;2.0
+23;Femenino;Administración de Empresas;14.5;81.4;No;PC;2.0
+25;Otro;Psicología;10.4;96.4;No;Tablet;2.0
+26;Femenino;Comunicación Social;12.0;62.2;No;Tablet;3.0
+29;Otro;Biología;11.5;66.8;No;Tablet;3.0
+24;Masculino;Arquitectura;12.2;82.0;No;PC;2.0
+29;Masculino;Ingeniería de Sistemas;10.8;80.0;No;PC;5.0
+19;Otro;Ingeniería de Sistemas;13.0;59.4;No;Tablet;5.0
+29;Femenino;Contabilidad;12.6;49.2;No;Laptop;3.0
+30;Femenino;Medicina;11.0;49.0;Sí;Laptop;2.0
+19;Femenino;Economía;10.7;60.8;No;PC;5.0
+21;Femenino;Contabilidad;12.9;48.4;No;PC;2.0
+30;Masculino;Ingeniería de Sistemas;13.3;77.6;No;Laptop;2.0
+21;Otro;Arquitectura;11.8;87.2;Sí;Tablet;2.0
+17;Otro;Arquitectura;9.7;59.4;No;Tablet;2.0
+22;Masculino;Enfermería;11.8;40.2;No;Tablet;5.0
+29;Femenino;Derecho;10.6;89.6;No;Tablet;2.0
+18;Femenino;Ingeniería Civil;11.6;92.6;No;Tablet;5.0
+21;Masculino;Derecho;10.9;45.4;No;PC;2.0
+24;Femenino;Diseño Gráfico;10.5;42.4;Sí;PC;5.0
+20;Otro;Biología;8.0;68.2;No;PC;5.0
+28;Otro;Economía;8.3;56.0;No;Tablet;5.0
+17;Masculino;Biología;11.8;71.2;Sí;Laptop;5.0
+24;Masculino;Contabilidad;13.3;70.4;No;PC;3.0
+21;Masculino;Comunicación Social;10.0;69.2;No;PC;2.0
+28;Otro;Diseño Gráfico;8.7;87.0;Sí;Tablet;2.0
+19;Otro;Ingeniería de Sistemas;11.6;67.2;Sí;Tablet;5.0
+24;Femenino;Psicología;9.4;58.6;Sí;PC;2.0
+22;Otro;Ingeniería Civil;11.2;67.6;No;Laptop;3.0
+18;Otro;Ingeniería Civil;13.6;86.6;No;Tablet;5.0
+27;Otro;Administración de Empresas;13.0;69.8;No;Laptop;2.0
+27;Masculino;Psicología;11.2;44.4;Sí;PC;3.0
+20;Otro;Derecho;12.4;74.0;Sí;Laptop;2.0
+28;Femenino;Diseño Gráfico;8.0;81.4;No;PC;5.0
+28;Masculino;Comunicación Social;11.1;43.8;No;PC;5.0
+22;Otro;Arquitectura;7.0;52.4;No;Laptop;2.0
+25;Masculino;Ingeniería Civil;11.0;41.4;No;Laptop;5.0
+28;Otro;Biología;9.5;80.4;No;PC;3.0
+26;Masculino;Medicina;14.3;76.6;Sí;Laptop;2.0
+24;Femenino;Diseño Gráfico;12.9;54.0;No;PC;2.0
+22;Masculino;Economía;14.8;70.0;No;Laptop;3.0
+27;Femenino;Contabilidad;13.3;55.2;No;Laptop;3.0
+21;Masculino;Ingeniería de Sistemas;8.2;91.4;No;Laptop;2.0
+20;Otro;Economía;10.3;78.2;No;PC;5.0
+20;Otro;Diseño Gráfico;13.5;76.2;No;PC;2.0
+18;Otro;Contabilidad;10.5;75.2;No;Tablet;2.0
+27;Otro;Arquitectura;13.8;89.4;No;Tablet;2.0
+28;Femenino;Biología;12.1;51.4;No;Laptop;5.0
+28;Otro;Ingeniería de Sistemas;11.4;78.2;Sí;Tablet;3.0
+28;Femenino;Biología;8.3;87.8;No;Laptop;3.0
+27;Femenino;Derecho;8.6;53.6;No;Tablet;3.0
+25;Otro;Medicina;10.7;69.2;No;PC;2.0
+21;Femenino;Enfermería;13.6;43.2;No;Laptop;5.0
+18;Masculino;Diseño Gráfico;11.8;55.6;No;PC;3.0
+27;Femenino;Arquitectura;8.8;87.2;No;Tablet;5.0
+20;Femenino;Enfermería;10.7;71.0;No;PC;2.0
+29;Masculino;Ingeniería de Sistemas;14.1;58.4;Sí;Laptop;5.0
+17;Femenino;Biología;8.7;95.4;No;Tablet;3.0
+29;Otro;Medicina;9.6;100.0;No;Laptop;5.0
+29;Otro;Economía;14.6;50.2;Sí;Laptop;2.0
+23;Femenino;Contabilidad;7.8;70.6;No;Tablet;2.0
+21;Otro;Contabilidad;8.6;57.8;No;PC;5.0
+27;Femenino;Economía;12.3;42.2;No;PC;2.0
+18;Femenino;Psicología;10.7;72.0;No;Tablet;2.0
+24;Femenino;Economía;11.3;89.0;No;Laptop;2.0
+25;Masculino;Economía;15.9;65.6;Sí;Tablet;5.0
+22;Otro;Ingeniería de Sistemas;10.7;66.6;No;PC;3.0
+18;Otro;Diseño Gráfico;12.3;66.2;No;PC;2.0
+20;Masculino;Medicina;10.8;90.0;Sí;PC;5.0
+17;Femenino;Ingeniería de Sistemas;9.6;44.4;No;PC;3.0
+30;Femenino;Ingeniería Civil;13.0;83.8;No;Tablet;5.0
+25;Otro;Psicología;11.4;96.4;No;PC;3.0
+27;Masculino;Psicología;14.2;72.4;No;PC;3.0
+28;Masculino;Ingeniería Civil;15.8;48.4;No;PC;5.0
+20;Otro;Derecho;13.8;40.8;No;PC;5.0
+29;Femenino;Arquitectura;11.1;40.8;No;Tablet;5.0
+24;Femenino;Diseño Gráfico;7.0;60.4;No;Tablet;5.0
+18;Femenino;Diseño Gráfico;8.2;91.8;Sí;Laptop;2.0
+28;Otro;Psicología;8.9;41.8;Sí;Tablet;5.0
+19;Masculino;Comunicación Social;12.5;87.6;No;Tablet;5.0
+24;Otro;Diseño Gráfico;12.0;72.8;No;PC;2.0
+24;Masculino;Derecho;8.4;58.8;Sí;PC;2.0
+18;Masculino;Derecho;9.3;69.4;No;Tablet;2.0
+30;Masculino;Psicología;10.3;62.8;No;Tablet;5.0
+20;Masculino;Diseño Gráfico;10.1;80.4;No;PC;5.0
+21;Femenino;Biología;13.6;82.8;No;PC;2.0
+28;Otro;Ingeniería Civil;10.8;87.4;No;PC;3.0
+21;Masculino;Biología;8.3;49.6;No;PC;5.0
+19;Otro;Derecho;10.1;89.2;No;Laptop;5.0
+22;Femenino;Derecho;12.4;78.0;No;Laptop;5.0
+30;Masculino;Comunicación Social;8.4;66.0;No;Tablet;2.0
+20;Femenino;Contabilidad;7.6;80.0;No;Laptop;3.0
+23;Femenino;Contabilidad;11.8;86.8;No;PC;5.0
+19;Femenino;Ingeniería de Sistemas;8.4;58.0;No;Laptop;2.0
+27;Masculino;Administración de Empresas;15.3;75.0;No;Tablet;3.0
+29;Masculino;Enfermería;14.7;45.4;No;PC;5.0
+27;Otro;Ingeniería Civil;7.6;75.6;No;Tablet;3.0
+23;Otro;Comunicación Social;12.5;44.2;No;PC;2.0
+26;Femenino;Administración de Empresas;7.9;48.6;No;Tablet;5.0
+24;Femenino;Contabilidad;13.7;61.6;No;Laptop;2.0
+19;Femenino;Diseño Gráfico;11.9;73.6;Sí;Laptop;3.0
+22;Femenino;Medicina;11.0;69.4;Sí;Laptop;5.0
+30;Otro;Biología;14.2;70.0;No;PC;2.0
+30;Otro;Arquitectura;9.3;47.0;No;Tablet;5.0
+28;Femenino;Derecho;14.2;87.4;No;PC;3.0
+22;Masculino;Ingeniería de Sistemas;8.0;88.4;No;PC;3.0
+28;Masculino;Comunicación Social;9.2;82.2;No;Tablet;3.0
+30;Otro;Diseño Gráfico;10.6;52.6;No;Laptop;2.0
+18;Femenino;Medicina;8.0;82.8;No;Laptop;5.0
+27;Otro;Enfermería;12.7;94.6;No;Tablet;2.0
+29;Masculino;Enfermería;6.0;60.2;No;Laptop;3.0
+25;Masculino;Economía;11.5;69.4;No;Tablet;5.0
+17;Masculino;Ingeniería de Sistemas;8.7;90.6;No;Tablet;5.0
+24;Masculino;Ingeniería Civil;9.0;54.8;Sí;Laptop;2.0
+20;Masculino;Biología;13.5;42.0;No;Laptop;3.0
+23;Femenino;Comunicación Social;13.2;67.0;Sí;Tablet;3.0
+23;Femenino;Ingeniería Civil;7.9;81.8;No;Tablet;2.0
+29;Femenino;Contabilidad;6.7;69.2;No;Laptop;2.0
+20;Masculino;Economía;11.3;97.6;No;PC;2.0
+17;Femenino;Derecho;15.7;88.4;No;Tablet;3.0
+20;Otro;Economía;13.4;67.6;No;Tablet;2.0
+25;Femenino;Medicina;10.9;98.2;No;Laptop;2.0
+17;Masculino;Economía;11.7;56.4;No;PC;2.0
+17;Masculino;Diseño Gráfico;8.4;84.2;No;Tablet;2.0
+21;Otro;Derecho;14.3;62.0;No;Laptop;3.0
+21;Otro;Psicología;16.3;49.0;Sí;Tablet;2.0
+29;Otro;Psicología;13.1;67.6;Sí;PC;3.0
+28;Femenino;Comunicación Social;10.2;91.6;No;PC;5.0
+19;Otro;Ingeniería Civil;12.7;42.0;No;PC;3.0
+21;Femenino;Enfermería;11.3;75.8;No;PC;2.0
+22;Otro;Contabilidad;15.7;83.8;No;Laptop;5.0
+22;Femenino;Diseño Gráfico;13.2;67.8;No;PC;5.0
+21;Femenino;Economía;12.9;68.6;No;PC;3.0
+28;Masculino;Contabilidad;9.4;61.2;No;Laptop;5.0
+30;Femenino;Psicología;9.8;50.8;Sí;Tablet;5.0
+27;Femenino;Derecho;7.0;95.6;No;Laptop;5.0
+17;Masculino;Ingeniería de Sistemas;10.9;74.8;No;Laptop;3.0
+20;Otro;Contabilidad;9.5;53.6;No;PC;2.0
+22;Femenino;Economía;10.9;99.6;No;PC;5.0
+29;Masculino;Ingeniería de Sistemas;8.8;85.8;No;Tablet;3.0
+23;Femenino;Enfermería;8.3;93.2;Sí;Tablet;5.0
+29;Femenino;Enfermería;12.2;97.0;No;Tablet;2.0
+28;Masculino;Ingeniería de Sistemas;11.5;66.0;Sí;Laptop;5.0
+24;Otro;Enfermería;11.9;48.0;Sí;Laptop;2.0
+17;Femenino;Enfermería;9.7;49.4;No;PC;2.0
+21;Otro;Contabilidad;9.7;93.4;No;Tablet;5.0
+22;Otro;Arquitectura;8.0;83.0;No;Tablet;3.0
+21;Femenino;Ingeniería Civil;9.8;87.4;No;Tablet;5.0
+21;Otro;Enfermería;13.8;55.6;No;Laptop;5.0
+28;Otro;Enfermería;11.0;45.8;No;Tablet;5.0
+20;Otro;Enfermería;10.4;65.6;Sí;Laptop;5.0
+21;Femenino;Economía;14.1;86.2;No;Tablet;2.0
+19;Femenino;Enfermería;13.7;92.4;Sí;PC;5.0
+28;Otro;Economía;10.3;56.2;No;Tablet;2.0
+26;Masculino;Administración de Empresas;9.7;77.4;No;PC;5.0
+17;Otro;Ingeniería de Sistemas;10.3;89.2;No;PC;2.0
+19;Femenino;Administración de Empresas;15.4;44.2;No;Tablet;2.0
+26;Masculino;Contabilidad;13.9;68.8;No;PC;2.0
+23;Otro;Psicología;9.7;81.4;No;Tablet;5.0
+24;Masculino;Biología;11.0;81.2;No;Laptop;3.0
+18;Otro;Ingeniería Civil;14.6;100.0;No;Laptop;2.0
+23;Otro;Comunicación Social;10.2;48.6;Sí;Laptop;2.0
+19;Masculino;Biología;11.7;99.2;No;Laptop;2.0
+19;Femenino;Medicina;9.0;51.2;No;Laptop;2.0
+18;Femenino;Medicina;8.2;54.4;Sí;PC;5.0
+26;Otro;Medicina;9.8;93.8;No;Laptop;3.0
+20;Otro;Ingeniería Civil;6.9;44.4;No;Laptop;5.0
+25;Femenino;Arquitectura;15.0;76.6;No;Laptop;5.0
+22;Otro;Medicina;12.1;42.6;Sí;Tablet;3.0
+22;Femenino;Arquitectura;6.8;56.8;No;Laptop;3.0
+26;Masculino;Biología;11.9;85.2;No;Tablet;5.0
+29;Otro;Economía;12.4;57.0;Sí;Laptop;3.0
+26;Otro;Medicina;9.4;70.6;No;Tablet;5.0
+24;Otro;Psicología;15.0;92.0;No;PC;5.0
+17;Femenino;Arquitectura;9.5;73.2;No;Laptop;2.0
+20;Femenino;Enfermería;11.8;45.8;No;Laptop;3.0
+25;Femenino;Diseño Gráfico;12.7;81.6;No;Tablet;2.0
+23;Femenino;Contabilidad;13.4;44.4;Sí;Laptop;2.0
+25;Masculino;Contabilidad;12.9;74.4;Sí;Tablet;3.0
+20;Otro;Medicina;14.0;59.4;Sí;PC;5.0
+24;Otro;Medicina;12.8;97.4;No;Tablet;2.0
+20;Femenino;Economía;10.9;93.8;No;Laptop;2.0
+17;Otro;Diseño Gráfico;8.7;42.2;No;Tablet;2.0
+28;Femenino;Biología;10.1;44.4;No;Laptop;5.0
+29;Masculino;Derecho;9.6;53.2;No;PC;3.0
+24;Masculino;Enfermería;11.5;83.8;No;Tablet;3.0
+29;Otro;Comunicación Social;11.9;62.6;No;PC;2.0
+18;Femenino;Biología;11.4;87.0;No;Tablet;2.0
+30;Otro;Biología;10.9;91.0;Sí;Laptop;5.0
+18;Femenino;Ingeniería Civil;11.3;83.0;No;PC;5.0
+18;Otro;Ingeniería Civil;8.3;86.4;No;PC;2.0
+27;Femenino;Psicología;9.7;54.6;No;PC;3.0
+21;Femenino;Ingeniería Civil;9.4;84.8;No;PC;3.0
+23;Femenino;Enfermería;11.7;72.4;No;Tablet;3.0
+19;Masculino;Psicología;12.4;83.4;No;PC;3.0
+19;Masculino;Biología;13.0;71.4;No;Laptop;2.0
+23;Femenino;Arquitectura;12.1;84.0;No;Laptop;5.0
+18;Masculino;Diseño Gráfico;10.0;48.4;No;PC;3.0
+30;Masculino;Ingeniería de Sistemas;6.7;41.6;No;PC;3.0
+19;Masculino;Ingeniería Civil;10.0;89.6;No;Tablet;3.0
+26;Otro;Psicología;15.7;61.2;No;PC;5.0
+28;Masculino;Medicina;7.2;44.6;No;PC;5.0
+18;Femenino;Enfermería;13.1;79.0;No;Laptop;2.0
+18;Masculino;Derecho;11.8;84.6;No;PC;5.0
+27;Femenino;Administración de Empresas;8.5;68.2;No;Tablet;5.0
+24;Femenino;Economía;10.0;93.8;No;Laptop;3.0
+22;Otro;Diseño Gráfico;12.2;92.2;No;Laptop;3.0
+26;Femenino;Comunicación Social;7.7;91.0;Sí;Laptop;3.0
+29;Otro;Diseño Gráfico;11.6;90.4;No;Laptop;3.0
+25;Femenino;Medicina;10.5;72.0;No;Tablet;5.0
+18;Otro;Enfermería;10.7;47.0;No;Laptop;3.0
+17;Masculino;Derecho;8.6;53.2;No;Laptop;2.0
+27;Otro;Medicina;10.1;92.4;Sí;Tablet;3.0
+27;Femenino;Comunicación Social;8.9;91.4;No;PC;3.0
+17;Femenino;Ingeniería Civil;10.7;64.8;Sí;Laptop;5.0
+25;Masculino;Arquitectura;8.6;78.8;No;Tablet;5.0
+24;Otro;Contabilidad;12.1;41.2;No;Tablet;3.0
+22;Femenino;Comunicación Social;11.2;51.4;No;Tablet;5.0
+17;Masculino;Enfermería;13.9;61.2;No;Tablet;3.0
+23;Otro;Derecho;8.5;41.4;Sí;PC;2.0
+30;Otro;Arquitectura;12.7;90.8;Sí;PC;2.0
+19;Masculino;Ingeniería de Sistemas;11.5;87.2;No;Laptop;2.0
+27;Otro;Ingeniería de Sistemas;12.5;88.6;No;Laptop;2.0
+17;Femenino;Derecho;14.1;62.6;No;Laptop;5.0
+17;Otro;Enfermería;12.5;47.2;Sí;Tablet;2.0
+22;Masculino;Biología;6.7;63.0;No;Tablet;2.0
+29;Femenino;Ingeniería de Sistemas;16.4;58.2;No;PC;2.0
+22;Femenino;Derecho;9.5;48.4;No;PC;3.0
+19;Masculino;Arquitectura;7.6;57.6;No;Tablet;3.0
+27;Masculino;Diseño Gráfico;14.9;88.4;No;Tablet;5.0
+22;Femenino;Contabilidad;9.9;48.6;Sí;PC;2.0
+24;Masculino;Administración de Empresas;13.6;83.8;No;Tablet;3.0
+18;Masculino;Comunicación Social;12.8;95.0;No;Laptop;3.0
+23;Otro;Contabilidad;7.1;55.0;No;PC;5.0
+25;Femenino;Diseño Gráfico;11.5;55.2;No;PC;3.0
+23;Masculino;Arquitectura;8.3;42.0;No;PC;3.0
+17;Femenino;Economía;11.1;54.2;No;PC;2.0
+29;Masculino;Diseño Gráfico;14.3;55.2;No;Laptop;5.0
+18;Masculino;Derecho;9.4;72.2;No;PC;3.0
+20;Otro;Ingeniería Civil;11.5;48.4;No;Tablet;5.0
+28;Otro;Biología;11.6;41.8;No;Tablet;2.0
+19;Masculino;Economía;11.8;85.0;No;Laptop;5.0
+21;Femenino;Administración de Empresas;12.1;49.0;No;Laptop;3.0
+30;Otro;Ingeniería Civil;7.7;53.6;No;Laptop;5.0
+21;Femenino;Medicina;15.2;77.2;No;Laptop;3.0
+17;Femenino;Contabilidad;13.1;56.0;No;PC;2.0
+30;Femenino;Comunicación Social;9.9;77.0;No;Tablet;5.0
+24;Femenino;Enfermería;11.8;69.6;No;Tablet;5.0
+29;Otro;Diseño Gráfico;12.0;82.8;No;Tablet;5.0
+20;Otro;Medicina;13.5;96.2;Sí;Laptop;2.0
+27;Otro;Medicina;13.9;68.8;No;Laptop;3.0
+20;Femenino;Ingeniería de Sistemas;12.8;99.4;Sí;Tablet;3.0
+25;Masculino;Ingeniería de Sistemas;8.3;56.2;No;Laptop;3.0
+28;Femenino;Medicina;11.5;89.0;No;Laptop;2.0
+29;Otro;Arquitectura;11.0;41.0;No;Laptop;5.0
+23;Masculino;Ingeniería Civil;10.5;64.6;No;PC;2.0
+25;Femenino;Biología;14.8;99.4;No;PC;5.0
+20;Masculino;Enfermería;9.1;85.4;No;Tablet;2.0
+18;Masculino;Economía;10.4;79.8;No;Tablet;5.0
+23;Masculino;Psicología;11.7;92.8;No;Laptop;5.0
+17;Otro;Biología;11.9;93.4;No;Laptop;5.0
+29;Femenino;Enfermería;11.7;52.4;No;Laptop;3.0
+22;Femenino;Biología;10.6;99.8;Sí;PC;3.0
+24;Otro;Biología;10.7;48.2;No;Laptop;3.0
+28;Femenino;Enfermería;10.0;84.8;No;Tablet;3.0
+23;Otro;Ingeniería de Sistemas;9.3;87.2;Sí;Tablet;2.0
+18;Femenino;Biología;11.1;96.4;Sí;PC;2.0
+24;Femenino;Enfermería;8.3;86.4;Sí;PC;2.0
+17;Femenino;Derecho;13.1;66.0;Sí;Tablet;3.0
+28;Femenino;Ingeniería de Sistemas;9.3;41.0;No;PC;3.0
+20;Otro;Arquitectura;11.5;65.2;Sí;PC;5.0
+22;Masculino;Ingeniería de Sistemas;11.5;81.0;No;Tablet;3.0
+30;Otro;Enfermería;6.8;98.0;No;Laptop;2.0
+30;Masculino;Contabilidad;11.7;84.8;No;PC;5.0
+29;Masculino;Comunicación Social;14.0;58.4;No;Tablet;2.0
+17;Femenino;Economía;13.0;63.4;Sí;PC;3.0
+24;Masculino;Medicina;11.7;70.0;No;Laptop;5.0
+21;Masculino;Psicología;7.8;75.2;No;Tablet;2.0
+17;Otro;Ingeniería Civil;6.1;41.2;No;PC;5.0
+17;Femenino;Arquitectura;13.0;92.6;No;Tablet;5.0
+30;Otro;Derecho;11.1;45.2;No;Tablet;2.0
+22;Femenino;Derecho;10.9;87.8;No;Tablet;3.0
+21;Masculino;Enfermería;13.6;46.0;No;Laptop;2.0
+25;Femenino;Biología;13.3;81.4;No;PC;3.0
+24;Otro;Contabilidad;11.5;82.4;No;Tablet;5.0
+27;Otro;Medicina;13.0;64.2;No;PC;3.0
+29;Otro;Comunicación Social;10.0;53.4;No;Tablet;2.0
+23;Femenino;Comunicación Social;13.6;62.6;Sí;Laptop;3.0
+21;Masculino;Economía;8.3;64.6;No;PC;2.0
+21;Otro;Arquitectura;11.5;44.4;No;Laptop;3.0
+21;Masculino;Contabilidad;12.5;93.2;Sí;Tablet;3.0
+21;Otro;Derecho;9.5;52.0;No;Laptop;2.0
+22;Masculino;Diseño Gráfico;11.0;64.8;No;PC;3.0
+20;Masculino;Ingeniería de Sistemas;9.7;67.0;No;PC;3.0
+26;Femenino;Economía;7.2;88.4;No;Laptop;2.0
+28;Femenino;Arquitectura;14.2;57.4;No;PC;3.0
+26;Otro;Ingeniería Civil;7.8;87.2;Sí;PC;5.0
+24;Masculino;Administración de Empresas;9.3;77.6;No;PC;5.0
+18;Otro;Ingeniería Civil;10.7;68.0;No;Tablet;2.0
+22;Femenino;Diseño Gráfico;12.7;97.6;Sí;Tablet;5.0
+29;Femenino;Derecho;12.6;49.2;Sí;Laptop;2.0
+26;Masculino;Biología;7.6;83.8;No;Tablet;5.0
+17;Femenino;Economía;10.9;79.4;No;PC;3.0
+18;Masculino;Diseño Gráfico;6.4;71.4;No;PC;3.0
+24;Femenino;Medicina;10.6;77.2;Sí;Laptop;2.0
+28;Otro;Administración de Empresas;8.2;61.4;Sí;PC;3.0
+19;Femenino;Biología;9.3;51.0;No;Laptop;3.0
+28;Otro;Enfermería;9.7;49.2;No;Laptop;2.0
+19;Masculino;Arquitectura;11.8;81.2;Sí;Laptop;2.0
+17;Masculino;Economía;6.7;48.4;No;PC;2.0
+17;Femenino;Derecho;11.7;96.0;No;Laptop;2.0
+23;Masculino;Ingeniería Civil;8.0;95.4;No;Laptop;5.0
+20;Otro;Ingeniería de Sistemas;14.0;52.8;No;Tablet;3.0
+27;Femenino;Ingeniería Civil;15.2;69.8;No;PC;2.0
+19;Femenino;Administración de Empresas;12.5;65.8;No;Laptop;3.0
+23;Femenino;Ingeniería de Sistemas;9.9;51.0;Sí;Laptop;3.0
+23;Otro;Contabilidad;8.5;89.2;No;PC;5.0
+28;Otro;Biología;11.4;79.4;No;Tablet;5.0
+25;Femenino;Economía;10.8;67.8;Sí;Tablet;2.0
+21;Femenino;Economía;10.0;82.2;No;PC;3.0
+21;Masculino;Derecho;10.6;69.2;No;Tablet;2.0
+18;Masculino;Contabilidad;13.6;45.0;No;PC;3.0
+17;Masculino;Biología;10.2;48.2;No;PC;2.0
+30;Femenino;Contabilidad;6.9;91.0;No;PC;2.0
+17;Femenino;Biología;11.2;95.0;Sí;Laptop;3.0
+19;Masculino;Comunicación Social;10.3;91.8;No;Laptop;5.0
+29;Masculino;Biología;11.7;92.0;No;Tablet;5.0
+21;Femenino;Derecho;13.2;49.4;No;Laptop;2.0
+27;Femenino;Derecho;12.3;99.6;Sí;Laptop;2.0
+27;Masculino;Economía;13.7;85.8;No;Tablet;3.0
+27;Masculino;Ingeniería de Sistemas;11.3;46.4;No;Tablet;2.0
+19;Femenino;Derecho;14.9;85.0;No;PC;5.0
+19;Femenino;Medicina;10.5;90.0;Sí;PC;3.0
+24;Otro;Comunicación Social;14.8;82.0;No;Tablet;5.0
+18;Otro;Psicología;10.5;61.2;No;Tablet;5.0
+26;Femenino;Economía;12.6;87.0;Sí;Tablet;3.0
+18;Otro;Comunicación Social;13.1;54.4;No;Tablet;3.0
+18;Masculino;Comunicación Social;9.3;44.8;No;Tablet;2.0
+22;Femenino;Economía;11.3;65.2;No;PC;3.0
+27;Femenino;Arquitectura;8.3;99.8;No;PC;2.0
+28;Femenino;Psicología;11.7;56.0;Sí;Laptop;5.0
+26;Femenino;Diseño Gráfico;14.8;42.6;No;PC;2.0
+17;Masculino;Biología;9.5;90.6;No;PC;5.0
+26;Otro;Ingeniería de Sistemas;14.4;72.8;No;Tablet;5.0
+27;Masculino;Ingeniería de Sistemas;11.3;42.6;No;Tablet;3.0
+21;Otro;Administración de Empresas;15.9;90.4;No;Tablet;5.0
+27;Otro;Contabilidad;9.3;47.4;No;PC;2.0
+26;Masculino;Ingeniería Civil;11.8;86.6;No;PC;3.0
+27;Otro;Ingeniería de Sistemas;9.5;51.8;Sí;Laptop;2.0
+26;Otro;Ingeniería de Sistemas;8.3;96.8;No;Tablet;3.0
+22;Masculino;Administración de Empresas;11.1;90.8;No;PC;2.0
+26;Femenino;Contabilidad;12.0;98.6;No;Tablet;5.0
+20;Otro;Derecho;12.1;45.6;No;Tablet;5.0
+20;Otro;Arquitectura;8.3;86.8;No;Tablet;3.0
+19;Masculino;Contabilidad;14.0;95.6;No;Laptop;2.0
+27;Masculino;Arquitectura;13.2;75.8;No;Tablet;5.0
+30;Otro;Ingeniería de Sistemas;9.7;82.8;No;Tablet;3.0
+20;Otro;Derecho;7.3;97.0;Sí;PC;2.0
+22;Otro;Biología;12.8;77.0;No;PC;2.0
+20;Otro;Contabilidad;12.5;80.0;No;Laptop;5.0
+28;Masculino;Comunicación Social;13.1;75.0;Sí;Laptop;3.0
+23;Femenino;Ingeniería Civil;11.6;43.8;No;Tablet;3.0
+22;Femenino;Arquitectura;11.4;80.2;No;Tablet;5.0
+20;Masculino;Arquitectura;8.5;98.4;No;Laptop;2.0
+23;Masculino;Psicología;10.2;86.8;No;PC;2.0
+25;Masculino;Ingeniería Civil;8.2;77.2;No;Tablet;2.0
+27;Otro;Psicología;12.9;59.4;No;PC;3.0
+17;Masculino;Administración de Empresas;12.1;94.6;No;Tablet;3.0
+24;Femenino;Enfermería;6.7;41.2;Sí;Laptop;3.0
+19;Masculino;Medicina;10.0;79.4;No;PC;3.0
+21;Femenino;Psicología;14.4;75.6;No;PC;2.0
+19;Femenino;Contabilidad;15.2;69.4;No;Tablet;5.0
+21;Masculino;Economía;11.7;60.8;No;Laptop;2.0
+18;Masculino;Economía;9.0;69.4;No;Tablet;5.0
+18;Otro;Contabilidad;13.0;60.6;Sí;Tablet;5.0
+18;Masculino;Administración de Empresas;11.5;74.2;No;Laptop;2.0
+29;Otro;Ingeniería de Sistemas;10.5;76.2;No;Laptop;5.0
+17;Masculino;Arquitectura;9.3;81.8;Sí;Tablet;5.0
+29;Otro;Medicina;8.1;89.4;Sí;PC;3.0
+23;Femenino;Enfermería;9.5;56.0;Sí;Tablet;2.0
+20;Otro;Biología;15.1;93.6;No;Tablet;5.0
+27;Otro;Derecho;8.9;65.4;Sí;Tablet;3.0
+20;Otro;Arquitectura;12.0;97.4;Sí;Laptop;3.0
+19;Femenino;Arquitectura;12.3;97.6;Sí;Tablet;2.0
+22;Femenino;Diseño Gráfico;10.7;40.6;No;Tablet;2.0
+19;Masculino;Administración de Empresas;10.3;84.6;Sí;Tablet;3.0
+30;Masculino;Enfermería;8.4;63.2;No;PC;3.0
+19;Otro;Arquitectura;10.7;83.4;No;PC;3.0
+20;Masculino;Ingeniería de Sistemas;14.3;52.8;No;PC;2.0
+24;Femenino;Administración de Empresas;10.9;82.6;No;PC;2.0
+28;Masculino;Enfermería;10.0;61.0;No;PC;3.0
+27;Masculino;Diseño Gráfico;11.0;76.0;Sí;PC;2.0
+28;Otro;Derecho;11.2;93.4;Sí;PC;2.0
+25;Otro;Medicina;10.7;99.8;No;Tablet;5.0
+23;Otro;Ingeniería Civil;6.7;59.6;No;PC;3.0
+19;Otro;Arquitectura;13.6;82.8;Sí;PC;5.0
+21;Otro;Arquitectura;14.6;59.4;Sí;Tablet;5.0
+22;Femenino;Medicina;11.3;87.6;Sí;PC;2.0
+30;Masculino;Ingeniería de Sistemas;15.2;45.0;No;Tablet;2.0
+17;Femenino;Psicología;11.5;87.8;No;PC;2.0
+21;Otro;Economía;11.0;48.8;No;PC;5.0
+19;Otro;Diseño Gráfico;11.6;78.0;No;PC;3.0
+21;Femenino;Derecho;12.3;47.6;No;Laptop;5.0
+20;Femenino;Arquitectura;8.5;74.8;No;PC;3.0
+25;Femenino;Psicología;8.9;84.6;No;Laptop;2.0
+27;Masculino;Ingeniería de Sistemas;12.3;88.2;No;Tablet;2.0
+28;Masculino;Biología;13.0;91.4;No;Laptop;3.0
+17;Femenino;Enfermería;13.3;90.6;No;Tablet;2.0
+20;Masculino;Ingeniería Civil;10.5;55.2;No;PC;5.0
+27;Masculino;Diseño Gráfico;8.9;67.0;Sí;PC;3.0
+17;Femenino;Derecho;12.0;71.4;No;PC;3.0
+28;Otro;Medicina;15.4;72.2;No;Laptop;5.0
+19;Femenino;Arquitectura;8.9;51.0;Sí;PC;5.0
+17;Masculino;Derecho;13.0;86.8;Sí;Tablet;2.0
+27;Otro;Contabilidad;14.2;43.6;Sí;Laptop;2.0
+26;Femenino;Economía;7.5;83.2;No;PC;3.0
+20;Masculino;Psicología;10.3;75.8;No;Laptop;2.0
+18;Femenino;Contabilidad;11.2;89.0;No;PC;5.0
+28;Masculino;Medicina;13.1;46.0;No;Tablet;5.0
+26;Masculino;Enfermería;10.0;92.2;No;Tablet;2.0
+22;Femenino;Contabilidad;14.1;71.4;Sí;PC;2.0
+21;Femenino;Arquitectura;7.6;69.8;No;Laptop;5.0
+21;Femenino;Diseño Gráfico;12.6;67.2;No;Laptop;2.0
+23;Masculino;Contabilidad;7.7;96.8;No;Laptop;2.0
+22;Femenino;Economía;13.9;68.8;Sí;PC;5.0
+29;Femenino;Psicología;11.5;94.8;No;Tablet;5.0
+25;Femenino;Ingeniería de Sistemas;7.9;61.8;No;Laptop;5.0
+28;Otro;Administración de Empresas;8.8;51.8;No;Laptop;3.0
+24;Otro;Diseño Gráfico;12.8;46.0;No;Tablet;2.0
+27;Femenino;Ingeniería Civil;11.5;45.6;Sí;Laptop;3.0
+25;Femenino;Administración de Empresas;11.3;62.6;No;PC;3.0
+17;Otro;Economía;10.1;80.4;No;PC;2.0
+30;Otro;Ingeniería Civil;9.7;86.0;No;PC;2.0
+29;Masculino;Comunicación Social;11.0;69.2;No;Laptop;3.0
+25;Femenino;Diseño Gráfico;10.3;51.0;No;PC;2.0
+21;Otro;Arquitectura;9.1;57.8;No;Laptop;3.0
+25;Masculino;Comunicación Social;11.2;95.2;No;Laptop;3.0
+23;Otro;Comunicación Social;10.7;46.0;Sí;PC;5.0
+27;Femenino;Enfermería;7.8;59.8;No;PC;3.0
+18;Otro;Derecho;10.8;46.2;No;Laptop;3.0
+19;Otro;Derecho;6.2;80.6;Sí;Tablet;3.0
+20;Masculino;Ingeniería de Sistemas;14.0;50.4;No;Tablet;5.0
+25;Otro;Economía;11.8;56.8;No;PC;2.0
+23;Femenino;Ingeniería Civil;11.5;48.4;No;Tablet;5.0
+22;Otro;Arquitectura;11.5;54.2;Sí;Tablet;5.0
+21;Femenino;Derecho;8.8;63.8;Sí;Tablet;3.0
+22;Otro;Arquitectura;9.6;43.0;No;Tablet;2.0
+28;Femenino;Ingeniería Civil;8.7;58.4;No;Laptop;5.0
+27;Masculino;Contabilidad;7.4;51.8;No;Tablet;2.0
+21;Otro;Comunicación Social;12.0;63.6;No;PC;3.0
+18;Femenino;Psicología;15.2;41.0;No;Laptop;3.0
+18;Femenino;Psicología;8.3;50.0;No;Tablet;3.0
+22;Otro;Comunicación Social;11.4;49.6;Sí;PC;3.0
+23;Femenino;Ingeniería de Sistemas;6.4;44.8;No;Tablet;3.0
+27;Otro;Comunicación Social;8.7;81.0;No;Laptop;3.0
+19;Femenino;Biología;11.0;88.8;No;Tablet;3.0
+27;Masculino;Economía;7.4;86.0;Sí;Tablet;5.0
+30;Femenino;Enfermería;11.4;99.8;No;PC;2.0
+26;Otro;Arquitectura;14.8;65.2;No;Tablet;5.0
+20;Femenino;Administración de Empresas;8.6;59.2;No;Tablet;2.0
+25;Femenino;Psicología;8.4;61.4;No;Laptop;2.0
+19;Femenino;Diseño Gráfico;8.4;52.6;No;Tablet;2.0
+29;Otro;Comunicación Social;7.3;82.8;Sí;PC;5.0
+25;Masculino;Medicina;13.5;50.4;No;Tablet;2.0
+30;Femenino;Arquitectura;14.1;70.6;No;Laptop;3.0
+18;Masculino;Enfermería;15.7;77.6;No;Laptop;3.0
+19;Otro;Ingeniería de Sistemas;6.7;61.4;No;Tablet;5.0
+29;Masculino;Biología;12.3;48.8;No;Laptop;3.0
+23;Masculino;Economía;13.4;56.8;No;PC;2.0
+22;Masculino;Biología;8.6;65.2;Sí;Tablet;2.0
+26;Otro;Comunicación Social;13.7;63.0;No;Laptop;3.0
+30;Otro;Medicina;14.1;70.8;Sí;PC;2.0
+23;Masculino;Biología;9.0;82.4;No;PC;2.0
+17;Otro;Economía;12.6;73.0;No;Tablet;3.0
+30;Otro;Ingeniería Civil;14.3;84.2;Sí;PC;3.0
+30;Femenino;Economía;13.0;75.8;No;PC;5.0
+17;Masculino;Arquitectura;14.4;98.2;No;Laptop;2.0
+17;Masculino;Administración de Empresas;15.7;89.4;Sí;Laptop;3.0
+18;Otro;Psicología;11.1;91.6;No;Tablet;3.0
+27;Otro;Administración de Empresas;8.9;72.2;No;Laptop;2.0
+21;Otro;Administración de Empresas;14.0;80.6;Sí;Laptop;2.0
+22;Femenino;Enfermería;9.7;94.6;No;Tablet;2.0
+18;Masculino;Diseño Gráfico;8.8;95.2;No;Laptop;5.0
+20;Masculino;Economía;10.4;84.4;No;Laptop;3.0
+18;Masculino;Comunicación Social;14.1;75.0;No;Tablet;2.0
+26;Femenino;Diseño Gráfico;8.6;72.4;No;Laptop;5.0
+22;Femenino;Ingeniería Civil;15.4;98.8;No;Tablet;3.0
+17;Masculino;Diseño Gráfico;10.4;81.4;Sí;Laptop;5.0
+20;Femenino;Comunicación Social;10.3;77.6;Sí;Laptop;5.0
+29;Femenino;Medicina;13.2;66.6;No;PC;2.0
+27;Masculino;Economía;11.5;91.4;No;PC;5.0
+21;Otro;Arquitectura;9.2;65.2;Sí;Laptop;3.0
+21;Otro;Comunicación Social;10.2;94.4;Sí;Laptop;5.0
+26;Masculino;Derecho;12.5;80.6;No;Laptop;5.0
+27;Otro;Ingeniería de Sistemas;11.1;90.8;Sí;PC;2.0
+21;Femenino;Biología;13.5;53.2;No;PC;2.0
+28;Femenino;Contabilidad;10.5;70.4;No;PC;5.0
+30;Masculino;Derecho;9.1;79.6;No;Laptop;3.0
+18;Otro;Derecho;12.2;60.2;No;PC;3.0
+21;Femenino;Ingeniería Civil;8.1;68.0;Sí;Laptop;5.0
+30;Otro;Enfermería;12.6;63.8;No;Tablet;3.0
+29;Femenino;Medicina;7.4;78.0;No;PC;3.0
+30;Masculino;Medicina;9.7;46.0;No;Laptop;3.0
+19;Masculino;Ingeniería de Sistemas;12.4;94.4;No;Tablet;5.0
+20;Femenino;Diseño Gráfico;9.1;76.4;No;Tablet;3.0
+28;Otro;Comunicación Social;8.4;55.6;No;PC;2.0
+20;Masculino;Economía;13.4;67.0;No;PC;3.0
+21;Femenino;Biología;11.2;49.2;Sí;Laptop;5.0
+29;Femenino;Medicina;8.5;63.2;No;Laptop;3.0
+30;Otro;Derecho;12.5;62.0;Sí;Laptop;3.0
+21;Femenino;Economía;10.3;79.2;No;Laptop;5.0
+23;Masculino;Psicología;11.0;97.6;No;Tablet;3.0
+22;Masculino;Derecho;9.9;79.8;No;Tablet;2.0
+22;Femenino;Contabilidad;10.7;85.6;Sí;Tablet;5.0
+23;Femenino;Ingeniería de Sistemas;15.5;41.0;No;PC;5.0
+20;Femenino;Enfermería;9.7;82.2;No;Laptop;5.0
+24;Femenino;Medicina;8.7;45.2;No;Laptop;5.0
+29;Otro;Psicología;13.4;79.4;No;PC;3.0
+18;Masculino;Enfermería;11.1;64.4;No;Tablet;5.0
+18;Otro;Derecho;9.2;84.0;No;Tablet;5.0
+18;Femenino;Economía;10.1;60.8;No;Tablet;5.0
+29;Femenino;Contabilidad;12.1;75.6;No;Tablet;5.0
+20;Masculino;Contabilidad;6.2;92.2;No;PC;2.0
+18;Femenino;Medicina;10.0;71.2;No;Laptop;3.0
+22;Femenino;Comunicación Social;11.8;83.8;No;PC;5.0
+26;Otro;Medicina;13.2;81.2;No;PC;3.0
+26;Otro;Ingeniería de Sistemas;8.4;40.8;Sí;Tablet;5.0
+17;Femenino;Economía;10.2;81.6;No;PC;5.0
+29;Femenino;Contabilidad;9.9;96.4;No;PC;2.0
+22;Otro;Contabilidad;15.7;50.4;No;Laptop;2.0
+21;Otro;Diseño Gráfico;6.5;98.8;No;Laptop;5.0
+28;Femenino;Arquitectura;11.6;83.2;Sí;Laptop;2.0
+24;Masculino;Ingeniería de Sistemas;10.4;89.6;No;Tablet;5.0
+26;Masculino;Ingeniería de Sistemas;15.8;54.0;No;PC;5.0
+19;Otro;Comunicación Social;7.8;72.2;No;PC;2.0
+23;Otro;Comunicación Social;10.4;89.4;No;Tablet;2.0
+23;Femenino;Ingeniería de Sistemas;13.9;51.6;No;Laptop;2.0
+23;Otro;Derecho;15.4;78.4;Sí;Tablet;3.0
+25;Masculino;Comunicación Social;10.9;44.4;Sí;PC;5.0
+24;Masculino;Ingeniería de Sistemas;9.0;57.8;Sí;Laptop;5.0
+29;Otro;Administración de Empresas;10.1;91.6;No;PC;5.0
+25;Masculino;Economía;10.3;53.0;Sí;Tablet;2.0
+25;Masculino;Arquitectura;15.5;62.4;No;PC;2.0
+24;Masculino;Comunicación Social;12.7;55.2;No;Laptop;5.0
+26;Femenino;Arquitectura;8.9;95.2;Sí;PC;5.0
+19;Masculino;Arquitectura;15.4;76.0;No;Tablet;5.0
+19;Femenino;Biología;12.6;95.6;No;PC;2.0
+24;Femenino;Administración de Empresas;10.8;86.4;Sí;Laptop;3.0
+22;Femenino;Derecho;9.7;70.6;No;Tablet;2.0
+20;Otro;Ingeniería de Sistemas;8.8;42.6;No;Tablet;3.0
+23;Masculino;Ingeniería Civil;10.1;80.0;No;PC;2.0
+25;Otro;Economía;11.9;45.0;Sí;Laptop;2.0
+18;Femenino;Medicina;9.7;82.0;No;Tablet;3.0
+19;Masculino;Medicina;14.3;94.8;Sí;Tablet;5.0
+30;Femenino;Ingeniería Civil;16.0;51.2;No;Laptop;2.0
+23;Otro;Enfermería;15.1;48.0;No;Tablet;3.0
+24;Masculino;Psicología;12.0;66.4;No;Tablet;2.0
+25;Otro;Biología;12.9;88.8;No;PC;3.0
+22;Femenino;Comunicación Social;12.3;68.6;No;Laptop;3.0
+18;Masculino;Economía;12.2;46.6;No;Laptop;5.0
+25;Otro;Psicología;8.5;83.2;No;Tablet;2.0
+30;Masculino;Diseño Gráfico;8.4;53.8;No;PC;3.0
+23;Femenino;Arquitectura;13.7;96.8;No;Tablet;5.0
+17;Otro;Ingeniería de Sistemas;11.6;90.2;No;Laptop;3.0
+17;Femenino;Diseño Gráfico;10.7;40.4;Sí;PC;5.0
+29;Femenino;Comunicación Social;12.2;98.4;No;Tablet;5.0
+29;Otro;Ingeniería Civil;7.7;64.4;Sí;Tablet;3.0
+24;Otro;Enfermería;7.8;75.6;Sí;Laptop;3.0
+25;Otro;Diseño Gráfico;9.5;51.2;No;Laptop;2.0
+19;Femenino;Ingeniería de Sistemas;13.8;73.0;No;PC;5.0
+23;Femenino;Derecho;13.6;92.8;No;Tablet;2.0
+29;Femenino;Economía;12.0;45.2;No;Laptop;2.0
+21;Otro;Economía;8.7;75.4;Sí;Tablet;2.0
+25;Femenino;Economía;9.4;69.2;No;PC;3.0
+29;Femenino;Diseño Gráfico;9.4;60.2;No;Tablet;3.0
+18;Femenino;Arquitectura;10.7;60.8;No;Laptop;5.0
+26;Femenino;Ingeniería de Sistemas;11.6;69.4;No;PC;3.0
+22;Femenino;Biología;14.0;80.0;No;Laptop;3.0
+28;Otro;Enfermería;13.4;95.0;No;Tablet;3.0
+24;Masculino;Enfermería;11.6;83.4;Sí;Tablet;5.0
+19;Femenino;Biología;11.4;94.2;No;PC;2.0
+19;Masculino;Biología;14.4;91.2;No;Tablet;3.0
+30;Otro;Comunicación Social;10.4;92.4;No;PC;2.0
+24;Femenino;Derecho;11.8;47.8;No;Tablet;3.0
+19;Femenino;Administración de Empresas;13.6;76.2;Sí;PC;5.0
+26;Masculino;Arquitectura;15.1;40.8;No;PC;5.0
+28;Femenino;Enfermería;6.9;42.4;Sí;Tablet;3.0
+23;Femenino;Diseño Gráfico;10.3;97.2;No;Tablet;2.0
+21;Otro;Contabilidad;12.0;73.0;No;PC;5.0
+26;Femenino;Psicología;9.4;94.2;No;Laptop;3.0
+22;Otro;Diseño Gráfico;14.4;62.6;No;Laptop;2.0
+30;Otro;Economía;10.8;88.8;No;Laptop;3.0
+18;Otro;Enfermería;10.1;42.4;No;Laptop;2.0
+20;Otro;Comunicación Social;12.2;98.6;Sí;PC;3.0
+29;Masculino;Diseño Gráfico;13.5;67.2;No;PC;5.0
+21;Femenino;Economía;13.0;69.2;No;Tablet;5.0
+21;Masculino;Economía;11.8;78.0;Sí;PC;5.0
+21;Otro;Contabilidad;12.7;58.8;No;Tablet;3.0
+20;Otro;Diseño Gráfico;15.4;47.2;Sí;Laptop;3.0
+24;Masculino;Arquitectura;7.3;71.4;Sí;Laptop;3.0
+25;Otro;Psicología;13.6;76.4;Sí;PC;5.0
+27;Femenino;Contabilidad;13.4;43.4;No;Tablet;5.0
+23;Femenino;Comunicación Social;12.9;99.0;No;Tablet;2.0
+25;Femenino;Derecho;10.6;61.6;No;Laptop;5.0
+22;Otro;Arquitectura;11.1;48.2;No;PC;3.0
+30;Otro;Contabilidad;11.9;53.0;No;Laptop;5.0
+26;Femenino;Contabilidad;11.9;77.0;No;Tablet;5.0
+19;Masculino;Comunicación Social;11.3;72.6;No;Tablet;2.0
+26;Otro;Psicología;11.3;53.6;No;PC;5.0
+25;Otro;Arquitectura;9.3;46.6;No;Laptop;5.0
+19;Otro;Derecho;12.3;40.4;No;Tablet;2.0
+24;Femenino;Ingeniería de Sistemas;10.0;52.4;No;Laptop;5.0
+26;Otro;Psicología;10.1;77.4;No;Tablet;3.0
+20;Femenino;Administración de Empresas;11.9;96.8;Sí;Tablet;5.0
+22;Masculino;Diseño Gráfico;11.6;97.0;No;Tablet;3.0
+29;Otro;Contabilidad;7.2;52.8;No;Laptop;3.0
+29;Femenino;Medicina;10.5;86.6;No;PC;3.0
+18;Femenino;Ingeniería de Sistemas;9.2;74.8;Sí;Laptop;5.0
+18;Femenino;Biología;8.4;61.4;No;Laptop;3.0
+18;Femenino;Biología;10.2;85.0;No;Laptop;3.0
+27;Femenino;Diseño Gráfico;6.1;85.0;No;Tablet;5.0
+29;Otro;Comunicación Social;11.3;54.8;No;Laptop;2.0
+27;Femenino;Biología;8.1;40.8;Sí;Tablet;3.0
+17;Masculino;Derecho;9.8;90.2;No;Tablet;2.0
+21;Otro;Comunicación Social;13.6;49.6;No;PC;3.0
+28;Femenino;Psicología;11.2;70.0;No;Tablet;2.0
+19;Femenino;Arquitectura;12.2;96.2;Sí;PC;5.0
+29;Otro;Medicina;11.2;98.4;Sí;Laptop;2.0
+21;Femenino;Ingeniería Civil;12.9;43.0;No;Laptop;3.0
+22;Otro;Ingeniería Civil;12.3;61.2;No;Tablet;5.0
+19;Otro;Ingeniería Civil;9.1;54.0;Sí;Laptop;2.0
+22;Femenino;Diseño Gráfico;8.9;48.8;No;PC;3.0
+30;Femenino;Enfermería;11.7;91.6;Sí;Laptop;5.0
+27;Otro;Ingeniería Civil;11.9;74.4;No;PC;2.0
+18;Otro;Ingeniería de Sistemas;9.9;80.8;No;PC;5.0
+30;Masculino;Administración de Empresas;9.3;91.8;No;Laptop;2.0
+30;Femenino;Psicología;12.3;93.6;No;PC;2.0
+30;Otro;Diseño Gráfico;11.6;51.2;No;PC;3.0
+26;Femenino;Administración de Empresas;8.8;66.6;No;Tablet;3.0
+24;Femenino;Administración de Empresas;15.4;90.6;No;Tablet;3.0
+24;Masculino;Administración de Empresas;11.4;93.4;No;PC;2.0
+28;Femenino;Diseño Gráfico;9.4;41.8;Sí;PC;5.0
+28;Femenino;Psicología;8.3;99.8;No;PC;5.0
+18;Masculino;Biología;12.4;90.8;No;Laptop;5.0
+19;Masculino;Contabilidad;10.8;50.6;No;PC;2.0
+26;Masculino;Arquitectura;8.8;58.2;No;Laptop;3.0
+17;Otro;Comunicación Social;7.1;78.6;No;Laptop;3.0
+22;Otro;Medicina;11.6;95.0;Sí;Laptop;5.0
+25;Femenino;Biología;11.7;69.6;No;Tablet;3.0
+26;Femenino;Psicología;10.0;91.4;Sí;PC;3.0
+19;Otro;Diseño Gráfico;12.1;76.2;Sí;Laptop;5.0
+28;Femenino;Diseño Gráfico;15.3;41.2;No;Laptop;3.0
+25;Femenino;Enfermería;11.8;56.6;Sí;Laptop;3.0
+25;Femenino;Ingeniería Civil;11.4;78.6;Sí;PC;3.0
+22;Masculino;Arquitectura;8.1;74.8;No;Laptop;3.0
+29;Otro;Economía;14.6;95.6;No;PC;2.0
+27;Otro;Contabilidad;11.0;44.2;No;PC;5.0
+25;Otro;Administración de Empresas;11.2;54.4;No;Laptop;3.0
+28;Masculino;Administración de Empresas;9.4;73.6;No;Laptop;5.0
+20;Masculino;Medicina;11.4;90.0;No;PC;3.0
+28;Femenino;Comunicación Social;7.7;40.4;No;PC;5.0
+29;Otro;Economía;11.6;55.0;No;Laptop;5.0
+29;Otro;Medicina;13.6;49.8;Sí;PC;2.0
+27;Otro;Ingeniería de Sistemas;7.6;83.0;No;PC;5.0
+18;Otro;Biología;11.0;95.4;No;Tablet;3.0
+21;Femenino;Arquitectura;13.7;98.6;No;Laptop;2.0
+30;Femenino;Ingeniería Civil;10.1;85.2;No;Laptop;5.0
+18;Otro;Ingeniería de Sistemas;9.9;74.8;No;Tablet;5.0
+25;Femenino;Biología;14.3;76.4;No;Tablet;3.0
+22;Femenino;Medicina;11.3;64.6;No;PC;2.0
+26;Otro;Comunicación Social;8.9;47.2;No;Tablet;5.0
+24;Otro;Derecho;10.2;42.6;No;PC;2.0
+29;Femenino;Ingeniería de Sistemas;9.5;60.8;No;PC;5.0
+27;Femenino;Diseño Gráfico;12.8;92.2;No;PC;3.0
+30;Otro;Enfermería;9.1;91.6;No;Tablet;2.0
+19;Masculino;Administración de Empresas;11.0;53.0;No;Laptop;3.0
+30;Femenino;Ingeniería de Sistemas;14.0;63.2;Sí;Laptop;3.0
+30;Otro;Diseño Gráfico;13.9;91.0;No;Laptop;2.0
+27;Otro;Biología;8.2;99.6;No;Laptop;2.0
+26;Femenino;Derecho;10.8;58.6;No;Tablet;2.0
+18;Masculino;Contabilidad;14.6;53.8;No;Tablet;5.0
+20;Masculino;Ingeniería de Sistemas;14.7;66.4;No;Tablet;2.0
+19;Femenino;Medicina;10.2;62.4;Sí;Laptop;2.0
+18;Otro;Ingeniería Civil;12.5;82.6;No;Tablet;2.0
+23;Femenino;Comunicación Social;13.2;78.6;No;Laptop;5.0
+19;Masculino;Arquitectura;10.2;53.2;No;PC;2.0
+27;Masculino;Comunicación Social;15.2;82.2;No;Laptop;5.0
+17;Masculino;Enfermería;10.3;55.6;No;Laptop;3.0
+28;Masculino;Derecho;11.9;79.0;No;Tablet;2.0
+24;Femenino;Diseño Gráfico;11.7;70.0;Sí;Laptop;3.0
+30;Otro;Medicina;8.9;45.0;No;Laptop;3.0
+26;Otro;Medicina;9.6;41.4;No;Tablet;5.0
+22;Masculino;Biología;14.1;41.2;No;Laptop;2.0
+25;Femenino;Enfermería;8.9;44.6;No;PC;2.0
+28;Masculino;Biología;11.8;50.4;No;Laptop;3.0
+25;Femenino;Ingeniería de Sistemas;12.6;58.6;Sí;Tablet;5.0
+28;Otro;Medicina;12.8;78.0;No;Tablet;5.0
+29;Masculino;Biología;15.1;54.4;No;PC;3.0
+27;Masculino;Medicina;7.5;53.8;No;Laptop;5.0
+18;Femenino;Derecho;10.3;97.8;No;Tablet;2.0
+28;Femenino;Enfermería;11.8;89.4;No;Laptop;2.0
+29;Masculino;Enfermería;11.1;41.8;No;Laptop;2.0
+22;Femenino;Ingeniería de Sistemas;14.2;62.6;No;Laptop;3.0
+22;Otro;Psicología;14.7;51.8;No;PC;5.0
+20;Masculino;Enfermería;9.4;78.8;Sí;Laptop;5.0
+27;Masculino;Enfermería;13.0;79.6;No;Laptop;3.0
+28;Otro;Biología;9.9;71.6;No;Tablet;3.0
+17;Femenino;Administración de Empresas;11.6;90.6;Sí;Tablet;2.0
+18;Masculino;Contabilidad;11.2;74.6;No;Tablet;5.0
+18;Otro;Arquitectura;12.2;60.2;No;Laptop;2.0
+17;Femenino;Derecho;11.8;44.8;No;PC;2.0
+28;Femenino;Biología;8.0;48.4;No;Tablet;5.0
+23;Otro;Economía;7.6;99.8;Sí;Tablet;5.0
+29;Masculino;Psicología;13.5;63.4;Sí;PC;5.0
+24;Otro;Diseño Gráfico;11.7;87.0;No;Laptop;2.0
+26;Otro;Comunicación Social;8.4;85.4;No;PC;5.0
+17;Otro;Medicina;13.1;87.8;No;Tablet;2.0
+18;Femenino;Biología;9.5;98.6;No;Tablet;5.0
+21;Otro;Ingeniería Civil;12.8;91.2;Sí;PC;3.0
+28;Masculino;Psicología;9.4;68.0;No;PC;5.0
+22;Masculino;Psicología;7.2;95.6;No;Tablet;5.0
+19;Femenino;Comunicación Social;10.0;60.8;Sí;Laptop;2.0
+27;Otro;Diseño Gráfico;12.9;77.4;No;Tablet;5.0
+21;Femenino;Contabilidad;12.7;41.0;No;Laptop;3.0
+24;Otro;Enfermería;13.2;75.6;No;PC;3.0
+26;Femenino;Enfermería;14.1;82.6;Sí;Tablet;3.0
+19;Femenino;Economía;10.7;75.6;No;Tablet;5.0
+27;Masculino;Medicina;11.6;97.4;No;Tablet;5.0
+24;Femenino;Arquitectura;11.2;60.8;Sí;Laptop;2.0
+27;Femenino;Enfermería;10.7;48.0;Sí;Laptop;5.0
+22;Masculino;Ingeniería Civil;8.4;74.6;No;Tablet;5.0
+30;Femenino;Derecho;14.2;53.2;No;Tablet;3.0
+27;Masculino;Enfermería;9.8;95.6;No;Laptop;5.0
+17;Femenino;Contabilidad;14.1;47.8;No;Laptop;2.0
+18;Masculino;Derecho;13.3;40.6;Sí;Laptop;2.0
+26;Otro;Psicología;12.2;70.2;Sí;Laptop;3.0
+30;Otro;Ingeniería Civil;10.3;79.2;No;PC;5.0
+20;Masculino;Diseño Gráfico;11.8;76.8;Sí;Laptop;5.0
+25;Masculino;Derecho;13.9;46.0;Sí;Tablet;2.0
+27;Otro;Medicina;13.6;49.4;No;Laptop;5.0
+24;Masculino;Contabilidad;14.5;73.4;No;PC;5.0
+18;Masculino;Administración de Empresas;11.2;72.4;No;Laptop;2.0
+24;Femenino;Ingeniería Civil;10.9;52.2;No;Laptop;5.0
+18;Otro;Ingeniería Civil;12.0;78.6;Sí;Laptop;2.0
+25;Otro;Economía;11.7;84.0;No;Laptop;2.0
+20;Masculino;Medicina;13.0;62.4;No;PC;5.0
+30;Masculino;Economía;13.8;73.6;Sí;Laptop;3.0
+29;Femenino;Economía;13.4;86.0;No;PC;2.0
+29;Otro;Psicología;7.2;97.8;No;PC;3.0
+23;Otro;Derecho;11.3;83.6;No;Tablet;5.0
+26;Otro;Diseño Gráfico;8.2;42.2;No;Laptop;2.0
+19;Otro;Psicología;12.0;95.0;No;Tablet;5.0
+20;Otro;Ingeniería Civil;10.3;66.8;No;Laptop;2.0
+27;Femenino;Ingeniería Civil;11.8;75.2;Sí;Laptop;5.0
+21;Masculino;Enfermería;9.4;62.0;No;Tablet;5.0
+25;Masculino;Diseño Gráfico;8.3;70.2;No;Tablet;5.0
+26;Masculino;Comunicación Social;10.4;68.8;Sí;Laptop;3.0
+18;Masculino;Administración de Empresas;12.4;94.0;No;PC;2.0
+23;Femenino;Ingeniería Civil;11.4;87.0;Sí;Laptop;2.0
+29;Femenino;Ingeniería de Sistemas;7.8;44.0;No;Laptop;3.0
+19;Masculino;Economía;10.3;95.0;No;PC;2.0
+28;Otro;Derecho;8.9;53.0;Sí;Tablet;2.0
+19;Otro;Psicología;11.1;81.6;No;PC;5.0
+24;Masculino;Biología;14.1;46.4;Sí;PC;2.0
+27;Masculino;Enfermería;9.0;95.4;Sí;Tablet;3.0
+22;Otro;Medicina;14.6;44.8;No;PC;3.0
+21;Masculino;Arquitectura;9.6;67.2;No;Tablet;5.0
+21;Femenino;Enfermería;10.6;82.8;No;Tablet;3.0
+21;Masculino;Derecho;9.8;55.0;No;PC;3.0
+23;Otro;Ingeniería Civil;10.6;93.2;No;PC;2.0
+20;Femenino;Comunicación Social;8.9;99.0;No;Laptop;2.0
+26;Masculino;Economía;6.5;75.6;No;Laptop;2.0
+28;Femenino;Economía;7.7;83.8;Sí;PC;2.0
+17;Femenino;Derecho;9.9;46.4;No;PC;2.0
+19;Otro;Medicina;11.0;60.0;No;PC;2.0
+30;Masculino;Comunicación Social;12.8;98.8;No;Tablet;5.0
+24;Masculino;Administración de Empresas;10.1;90.6;No;Laptop;5.0
+25;Masculino;Psicología;10.9;91.2;No;PC;2.0
+17;Femenino;Diseño Gráfico;9.6;90.0;No;PC;2.0
+20;Masculino;Enfermería;11.8;92.6;No;Laptop;2.0
+17;Masculino;Diseño Gráfico;9.1;68.6;No;Laptop;2.0
+26;Femenino;Comunicación Social;11.5;96.6;No;Tablet;3.0
+19;Otro;Contabilidad;14.3;57.0;No;Laptop;2.0
+26;Otro;Contabilidad;10.8;45.0;No;Laptop;2.0
+24;Masculino;Biología;11.8;52.0;No;PC;3.0
+17;Otro;Comunicación Social;10.6;45.8;No;Laptop;5.0
+26;Masculino;Contabilidad;15.6;81.6;No;Laptop;5.0
+20;Otro;Administración de Empresas;14.1;80.0;Sí;Tablet;3.0
+24;Femenino;Biología;8.2;66.2;No;Tablet;2.0
+17;Masculino;Ingeniería Civil;10.7;61.4;No;Laptop;2.0
+22;Femenino;Psicología;9.2;63.2;No;Laptop;3.0
+22;Otro;Derecho;13.5;87.0;No;PC;3.0
+19;Femenino;Biología;12.8;44.2;No;PC;5.0
+18;Otro;Derecho;12.4;46.6;No;Laptop;3.0
+28;Otro;Administración de Empresas;9.9;96.2;No;Laptop;3.0
+19;Otro;Arquitectura;12.3;89.2;No;Tablet;2.0
+30;Femenino;Arquitectura;11.6;50.2;No;Laptop;5.0
+17;Otro;Medicina;8.2;56.6;No;Laptop;2.0
+23;Femenino;Biología;9.6;44.4;Sí;Tablet;2.0
+24;Otro;Biología;11.8;72.8;No;Tablet;5.0
+26;Masculino;Ingeniería Civil;9.4;70.2;No;Laptop;5.0
+23;Masculino;Economía;8.4;83.6;Sí;Tablet;2.0
+25;Otro;Economía;10.2;61.2;No;PC;3.0
+29;Femenino;Ingeniería de Sistemas;16.5;89.6;No;Laptop;2.0
+28;Femenino;Enfermería;12.8;55.0;Sí;PC;3.0
+28;Femenino;Arquitectura;8.2;49.4;No;Laptop;3.0
+22;Masculino;Psicología;9.2;82.4;No;PC;5.0
+26;Femenino;Biología;12.5;51.2;No;Laptop;5.0
+27;Masculino;Ingeniería Civil;8.7;76.2;No;Laptop;5.0
+20;Masculino;Economía;12.6;90.8;No;PC;3.0
+21;Otro;Psicología;6.4;82.4;No;PC;5.0
+20;Femenino;Psicología;12.1;48.2;No;PC;5.0
+29;Masculino;Contabilidad;10.7;51.2;No;Laptop;3.0
+24;Masculino;Medicina;12.5;52.2;No;PC;2.0
+25;Masculino;Medicina;12.0;82.2;No;PC;2.0
+20;Masculino;Ingeniería Civil;12.0;92.6;Sí;Laptop;2.0
+18;Masculino;Comunicación Social;10.2;47.0;No;Tablet;5.0
+18;Otro;Arquitectura;12.0;66.4;No;PC;5.0
+28;Femenino;Contabilidad;10.0;98.4;No;PC;3.0
+28;Masculino;Enfermería;11.7;41.8;No;Tablet;3.0
+29;Masculino;Biología;13.1;98.2;No;Tablet;5.0
+21;Masculino;Derecho;10.7;80.8;Sí;PC;3.0
+20;Otro;Ingeniería Civil;7.9;99.0;Sí;PC;3.0
+21;Otro;Derecho;8.6;75.4;No;Laptop;3.0
+21;Masculino;Diseño Gráfico;9.5;77.6;No;Laptop;2.0
+26;Otro;Medicina;9.3;90.2;No;Laptop;5.0
+26;Otro;Ingeniería de Sistemas;14.1;94.6;No;PC;2.0
+25;Otro;Arquitectura;15.7;92.2;Sí;Tablet;5.0
+17;Femenino;Contabilidad;9.9;59.4;No;PC;2.0
+22;Femenino;Economía;10.8;78.2;No;Laptop;5.0
+28;Femenino;Comunicación Social;10.2;69.8;No;PC;2.0
+19;Femenino;Medicina;12.6;77.0;No;PC;3.0
+27;Otro;Administración de Empresas;10.5;75.6;No;Laptop;3.0
+28;Otro;Administración de Empresas;11.1;88.4;No;PC;5.0
+26;Femenino;Medicina;16.2;64.6;No;Tablet;5.0
+28;Masculino;Biología;15.1;82.4;No;PC;3.0
+19;Masculino;Economía;12.7;59.6;No;PC;5.0
+20;Masculino;Comunicación Social;11.2;47.2;No;Laptop;3.0
+22;Femenino;Comunicación Social;12.4;89.8;Sí;Laptop;5.0
+18;Otro;Economía;13.2;57.8;No;Laptop;5.0
+19;Masculino;Comunicación Social;14.5;59.8;No;Tablet;2.0
+26;Femenino;Comunicación Social;10.3;61.4;No;Tablet;2.0
+28;Otro;Ingeniería Civil;14.8;57.4;No;PC;2.0
+28;Masculino;Medicina;11.5;47.0;Sí;Tablet;3.0
+26;Otro;Arquitectura;14.4;45.4;No;Laptop;3.0
+17;Masculino;Diseño Gráfico;9.6;53.4;No;Laptop;5.0
+17;Otro;Arquitectura;10.3;50.6;No;Tablet;2.0
+18;Otro;Economía;7.5;91.2;No;PC;3.0
+30;Otro;Psicología;9.5;67.4;No;PC;3.0
+22;Masculino;Biología;11.5;56.6;No;Laptop;3.0
+22;Femenino;Enfermería;11.1;98.2;No;PC;2.0
+22;Otro;Diseño Gráfico;12.2;69.4;No;PC;2.0
+17;Otro;Contabilidad;9.1;84.0;Sí;Tablet;5.0
+21;Otro;Biología;12.8;80.2;No;Tablet;3.0
+28;Masculino;Psicología;11.1;80.2;No;Tablet;3.0
+20;Otro;Medicina;16.2;71.4;No;Tablet;2.0
+27;Masculino;Enfermería;13.1;90.4;No;Tablet;2.0
+21;Masculino;Derecho;7.7;48.0;No;Tablet;3.0
+27;Femenino;Biología;10.6;40.6;No;Laptop;3.0
+30;Masculino;Comunicación Social;11.0;74.0;No;Laptop;2.0
+20;Otro;Diseño Gráfico;8.5;49.0;No;Tablet;3.0
+23;Otro;Ingeniería Civil;9.9;40.8;Sí;Laptop;3.0
+28;Otro;Derecho;16.0;80.6;Sí;PC;5.0
+23;Masculino;Comunicación Social;9.2;47.4;No;Laptop;2.0
+17;Masculino;Biología;8.1;69.2;No;Tablet;2.0
+20;Otro;Biología;8.5;48.0;No;PC;2.0
+25;Otro;Psicología;16.2;97.6;No;Tablet;3.0
+24;Masculino;Ingeniería Civil;10.9;72.6;No;PC;3.0
+26;Masculino;Ingeniería Civil;7.9;65.2;Sí;PC;3.0
+29;Masculino;Enfermería;10.7;77.0;No;Tablet;5.0
+23;Masculino;Ingeniería Civil;12.1;52.4;No;Tablet;2.0
+26;Otro;Administración de Empresas;11.1;41.2;No;PC;5.0
+26;Masculino;Derecho;12.8;73.0;Sí;PC;3.0
+27;Femenino;Diseño Gráfico;11.4;92.2;No;PC;3.0
+28;Masculino;Comunicación Social;11.8;79.4;No;PC;5.0
+27;Otro;Ingeniería de Sistemas;9.7;48.8;No;Laptop;5.0
+27;Masculino;Ingeniería Civil;11.1;49.8;No;Laptop;5.0
+24;Masculino;Medicina;8.4;80.4;No;Laptop;3.0
+19;Masculino;Psicología;9.3;79.4;No;Laptop;3.0
+26;Otro;Arquitectura;9.3;95.8;No;PC;2.0
+18;Otro;Psicología;15.3;43.8;No;Laptop;5.0
+26;Masculino;Arquitectura;15.4;52.2;No;Tablet;2.0
+26;Masculino;Administración de Empresas;9.6;44.2;No;Laptop;2.0
+26;Masculino;Ingeniería de Sistemas;8.5;45.8;No;Laptop;3.0
+29;Femenino;Ingeniería Civil;15.0;84.8;No;Tablet;3.0
+30;Otro;Medicina;9.5;65.4;No;Laptop;2.0
+25;Femenino;Biología;15.2;92.8;No;PC;3.0
+25;Masculino;Biología;12.8;61.4;No;Tablet;5.0
+29;Masculino;Biología;8.9;60.6;Sí;Tablet;2.0
+23;Masculino;Psicología;11.6;95.4;No;Laptop;3.0
+29;Otro;Comunicación Social;10.0;51.8;No;Laptop;5.0
+29;Otro;Administración de Empresas;10.4;53.8;Sí;PC;3.0
+24;Otro;Economía;6.6;84.4;Sí;PC;5.0
+30;Otro;Medicina;9.4;49.8;No;PC;5.0
+20;Otro;Arquitectura;10.2;49.4;No;PC;3.0
+24;Otro;Ingeniería de Sistemas;9.7;77.0;Sí;Tablet;5.0
+21;Otro;Medicina;9.0;79.2;Sí;Laptop;3.0
+26;Femenino;Economía;11.8;40.6;Sí;Laptop;3.0
+28;Masculino;Medicina;12.4;47.8;No;PC;5.0
+30;Masculino;Enfermería;13.5;88.2;No;Tablet;3.0
+26;Otro;Enfermería;12.2;56.0;No;Laptop;3.0
+24;Masculino;Ingeniería de Sistemas;12.4;53.4;No;PC;5.0
+20;Femenino;Ingeniería de Sistemas;12.7;88.2;No;Laptop;2.0
+20;Masculino;Administración de Empresas;13.2;57.6;Sí;Tablet;5.0
+27;Femenino;Ingeniería Civil;9.2;99.0;No;Tablet;5.0
+24;Otro;Medicina;12.4;90.0;No;Tablet;2.0
+22;Otro;Enfermería;7.9;50.0;No;PC;2.0
+26;Masculino;Medicina;10.8;92.4;No;Laptop;3.0
+21;Femenino;Administración de Empresas;12.7;72.0;No;Tablet;2.0
+24;Femenino;Ingeniería Civil;11.4;93.0;Sí;Tablet;3.0
+23;Femenino;Economía;10.4;58.4;No;Laptop;2.0
+28;Femenino;Diseño Gráfico;8.6;46.6;Sí;Laptop;2.0
+30;Otro;Diseño Gráfico;13.0;69.6;No;Tablet;3.0
+18;Otro;Diseño Gráfico;11.3;89.4;No;Laptop;2.0
+27;Masculino;Ingeniería Civil;12.1;70.6;No;Laptop;3.0
+29;Otro;Enfermería;11.0;94.8;No;PC;3.0
+28;Otro;Derecho;11.0;56.4;No;PC;5.0
+23;Masculino;Ingeniería Civil;7.1;85.6;No;Laptop;5.0
+30;Masculino;Diseño Gráfico;9.1;94.4;No;PC;2.0
+23;Otro;Enfermería;11.5;60.2;No;PC;3.0
+24;Femenino;Psicología;7.9;83.6;No;PC;5.0
+17;Femenino;Enfermería;12.7;77.2;No;Tablet;5.0
+24;Femenino;Diseño Gráfico;10.4;61.2;No;Laptop;3.0
+29;Masculino;Contabilidad;14.3;65.0;No;PC;2.0
+19;Masculino;Enfermería;11.6;100.0;No;Laptop;2.0
+29;Masculino;Ingeniería de Sistemas;10.8;52.4;No;Tablet;5.0
+17;Femenino;Ingeniería Civil;8.8;54.8;No;Tablet;2.0
+20;Masculino;Enfermería;11.0;98.2;No;Laptop;5.0
+27;Masculino;Biología;13.7;69.2;No;Tablet;2.0
+23;Otro;Enfermería;10.0;52.8;No;PC;3.0
+22;Masculino;Enfermería;11.0;94.4;Sí;Laptop;5.0
+20;Otro;Administración de Empresas;15.6;69.2;No;Laptop;3.0
+29;Femenino;Medicina;13.6;98.4;No;Laptop;2.0
+26;Femenino;Comunicación Social;9.8;78.4;No;Laptop;2.0
+22;Masculino;Derecho;13.9;96.8;No;Laptop;3.0
+29;Otro;Diseño Gráfico;8.4;83.0;Sí;Laptop;5.0
+22;Masculino;Derecho;14.3;40.4;No;PC;5.0
+24;Masculino;Ingeniería de Sistemas;8.4;42.0;No;Tablet;2.0
+27;Otro;Ingeniería Civil;10.4;59.4;No;Tablet;5.0
+26;Otro;Biología;10.6;71.6;No;PC;3.0
+27;Femenino;Comunicación Social;13.3;88.2;No;Tablet;3.0
+21;Masculino;Derecho;9.5;54.2;No;PC;5.0
+23;Femenino;Enfermería;13.1;82.6;No;Laptop;2.0
+30;Femenino;Arquitectura;13.7;79.0;No;Laptop;3.0
+28;Otro;Biología;13.6;96.0;No;Laptop;5.0
+20;Otro;Enfermería;11.3;66.2;No;Laptop;3.0
+28;Femenino;Biología;11.3;48.6;No;Laptop;3.0
+20;Masculino;Administración de Empresas;14.5;95.4;No;PC;3.0
+23;Femenino;Derecho;14.3;97.8;No;PC;5.0
+17;Otro;Enfermería;10.9;45.4;Sí;PC;3.0
+22;Masculino;Derecho;14.1;66.2;No;Laptop;5.0
+23;Femenino;Derecho;9.4;80.4;No;Tablet;3.0
+29;Masculino;Comunicación Social;13.7;84.0;No;PC;2.0
+18;Otro;Administración de Empresas;9.1;47.4;No;PC;3.0
+18;Femenino;Economía;7.5;62.6;No;Laptop;2.0
+22;Masculino;Contabilidad;13.4;72.0;Sí;PC;3.0
+28;Otro;Derecho;9.1;94.6;No;Laptop;3.0
+29;Otro;Contabilidad;6.5;74.0;No;Tablet;5.0
+18;Femenino;Comunicación Social;8.4;96.4;Sí;PC;5.0
+28;Masculino;Ingeniería Civil;11.2;68.2;No;Tablet;5.0
+20;Masculino;Psicología;9.9;53.2;No;Laptop;2.0
+25;Otro;Biología;10.7;43.6;No;Tablet;3.0
+25;Masculino;Arquitectura;15.9;62.4;No;Laptop;3.0
+22;Femenino;Ingeniería de Sistemas;9.9;79.4;No;Laptop;5.0
+25;Otro;Economía;9.8;62.4;No;Tablet;2.0
+30;Masculino;Psicología;11.5;63.8;No;Tablet;2.0
+24;Femenino;Arquitectura;13.9;71.0;No;PC;2.0
+20;Otro;Enfermería;15.1;74.4;Sí;PC;2.0
+17;Masculino;Medicina;10.2;67.8;No;Tablet;3.0
+25;Masculino;Medicina;9.1;87.8;No;PC;5.0
